@@ -49,7 +49,7 @@ Welcome to the January 2013 edition of *[Galaxy Update](/src/galaxy-updates/inde
 
 These papers may be of interest to the Galaxy community:
 
-* "[The ChIP-seq-Defined Networks of Bcl-3 Gene Binding Support Its Required Role in Skeletal Muscle Atrophy](http://dx.doi.org/10.1371/journal.pone.0051478)", by Robert W. Jackman, Chia-Ling Wu, Susan C. Kandarian, *PLoS ONE* Vol. 7, No. 12
+* "[The ChIP-seq-Defined Networks of Bcl-3 Gene Binding Support Its Required Role in Skeletal Muscle Atrophy](https://doi.org/10.1371/journal.pone.0051478)", by Robert W. Jackman, Chia-Ling Wu, Susan C. Kandarian, *PLoS ONE* Vol. 7, No. 12
     &rarr; Uses [Cistrome](http://cistrome.org/ap/root) & [Nebula Galaxy](http://nebula.curie.fr/) Servers</div>
 
 * "[Latent Regulatory Potential of Human-Specific Repetitive Elements](http://bit.ly/TY4tBr)," by Michelle C. Ward, Michael D. Wilson, Nuno L. Barbosa-Morais, *et al.*; *Molecular Cell* (December 2012) 
@@ -67,7 +67,7 @@ The Galaxy is expanding!  Please help it grow.
 * **The [Galaxy Project is hiring](/src/galaxy-is-hiring/index.md)!**
   * **[Post-docs](/src/galaxy-is-hiring/index.md)** at Penn State University (Nekrutenko Lab)
   * **[Post-docs](http://bx.mathcs.emory.edu/joining/postdocs/)** and **[Software Engineers](http://bx.mathcs.emory.edu/joining/sw/)** at Emory University ([Taylor Lab](http://bx.mathcs.emory.edu/))
-* [GenePeeks](http://genepeeks.com/) is hiring a [Computational Geneticist](http://dev.list.galaxyproject.org/GenePeeks-is-hiring-a-Computational-Geneticist-td4657641.html) and a [Tools Programmer](http://dev.list.galaxyproject.org/GenePeeks-is-hiring-a-tools-programmer-td4657642.html).
+* [GenePeeks](http://genepeeks.com/) is hiring a [Computational Geneticist](https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/thread/WMJG7V2PFU4GKPCLK6PD4VTM6Q2T2T5X/#WMJG7V2PFU4GKPCLK6PD4VTM6Q2T2T5X) and a [Tools Programmer](https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/thread/PH2LBAMW4Q7C3VBBXVVNGHBH5T3Y2AKO/#PH2LBAMW4Q7C3VBBXVVNGHBH5T3Y2AKO).
 * [offre de stage pour un stage de 6 mois (Master2) dans l'équipe Bioinformatique de Syngenta Seeds à Toulouse](http://bit.ly/TvCBCx)
 * [Two Galaxy focused internships](http://bit.ly/12n4mSR) are open at EMBL Heidelberg.
 * [Engineer position in bioinformatics: structural polymorphism analysis from NGS data](http://bit.ly/TEQvzd) @ [UMR de Génétique Végétale, INRA-Université Paris Sud-CNRS](http://moulon.inra.fr/index.php/fr/equipestransversales/atelier-de-bioinformatique)

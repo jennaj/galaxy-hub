@@ -1,7 +1,7 @@
 ---
 title: Finding and quantifying new transcripts
 ---
-<blockquote>
+<blockquote class="blockquote">
 <small>
 This tutorial is built upon efforts of [Mo Heydarian](https://galaxyproject.org/people/mo-heydarian/) and [Mallory Freeberg](https://github.com/malloryfreeberg) and tools wrapped by [Björn Grüning](https://github.com/bgruening), [Marius van den Beek](https://github.com/mvdbeek) and other [IUC](https://galaxyproject.org/iuc/) members.
 </small>
@@ -133,12 +133,12 @@ To lean more about the data we will be using let's look at just one set of reads
 
 For quality control, we use similar tools as described in [NGS-QC tutorial](/tutorials/ngs/): [FastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/) and [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic).
 
-Let's start by processing the smaller set of reads from Megakaryocyte set: `G1E_R1_f_ds_SRR549355` and its reverse set of mates `G1E_R1_r_ds_SRR549355` using **NGS: QC and manipulation -> FastQC**: 
+Let's start by processing the smaller set of reads from G1E set: `G1E_R1_f_ds_SRR549355` and its reverse set of mates `G1E_R1_r_ds_SRR549355` using **NGS: QC and manipulation -> FastQC**: 
 
 |      |
 |------|
 |![](/src/tutorials/nt_rnaseq/g1e_qc.png)|
-|<small>**QC'ing reads with FastQC**. Note we've pressed the <i class="fa fa-files-o" aria-hidden="true"></i> button to enable selection of multiple datasets within the **Short read data from your current history** box.</small>|
+|<small>**QC'ing reads with FastQC**. Note we've pressed the <i class="far fa-copy" aria-hidden="true"></i> button to enable selection of multiple datasets within the **Short read data from your current history** box.</small>|
 
 This will generate the following quality value distributions:
 
@@ -232,7 +232,7 @@ Now let's display results of this experiment in IGV. For this expand the latest 
 |![](/src/tutorials/nt_rnaseq/igv_test3.png)|
 |<small>Right click on the lift side of interface to (1) color, group, and sort alignments by `first-of-pair strand` and (2) set view to `collapsed`.</small>|
 
-In the picture above you will see that the absolute majority of read pairs have their first read mapping on the negative strand (they are blue). At the same time the gene in the picture, *Hoxb13*, is on the positive strand (its arrows point from left to right). This this is a stranded RNA seq data were first cDNA strand is being sequenced. This implies that when we start actual analysis of this date we will use `First Strand (R/RF)` setting of `HISAT`.
+In the picture above you will see that the absolute majority of read pairs have their first read mapping on the negative strand (they are blue). At the same time the gene in the picture, *Hoxb13*, is on the positive strand (its arrows point from left to right). This this is a stranded RNA seq data were first cDNA strand is being sequenced. This implies that when we start actual analysis of this data we will use `First Strand (R/RF)` setting of `HISAT`.
 
 # Preparing dataset collections
 
@@ -246,7 +246,7 @@ We want to create a new clean history by moving the original sequence data. To d
 |                                                           |                       |
 |-----------------------------------------------------------|-----------------------|
 | **A.** Click on the cog (<i class="fa fa-cog" aria-hidden="true"></i>)<br>Choose "**Copy Datasets**" option: <br>![](/src/tutorials/nt_rnaseq/copy_datasets.png) | **B.** Choose which datasets you need to copy:<br>![](/src/tutorials/nt_rnaseq/copy_datasets2.png)<br>**C.** Click on the name of the newly created history:<br>![](/src/tutorials/nt_rnaseq/datasets_copied.png) |
-|<small>**Copying datasets into a new history**</small> |  <small>**A**: Use history options dropdown. **B**: Select datasets to copy and type a new for th enew history (`Novel Transcripts (RNAseq)` in this case). **C**: Go to the new history by clicking on the link with its name.</small>  |
+|<small>**Copying datasets into a new history**</small> |  <small>**A**: Use history options dropdown. **B**: Select datasets to copy and type a new for the new history (`Novel Transcripts (RNAseq)` in this case). **C**: Go to the new history by clicking on the link with its name.</small>  |
 
 Once all datasets are copied it will look something like this:
 
@@ -262,21 +262,21 @@ We will create two dataset collections: one containing data for G1E cells and th
 |      |
 |------|
 |![](/src/tutorials/nt_rnaseq/create_col_1.png)|
-|<small>Make history items selectable by clicking checkbox (<i class="fa fa-check-square-o" aria-hidden="true"></i>) icon. This will allow individual datasets to be selected.</small>|
+|<small>Make history items selectable by clicking checkbox (<i class="far fa-check-square" aria-hidden="true"></i>) icon. This will allow individual datasets to be selected.</small>|
 |![](/src/tutorials/nt_rnaseq/create_col_2.png)|
 |<small>Show only G1E data by typing `G1E` in the search box.</small>|
 |![](/src/tutorials/nt_rnaseq/create_col_3.png)|
 |<small>Select all shown datasets by clicking `All`.</small>|
 |![](/src/tutorials/nt_rnaseq/create_col_4.png)|
-|<small>Use `For all selected` dropdown to start collection builder</small>
+|<small>Use `For all selected` dropdown and select option `Build List of Dataset Pairs` to start collection builder.</small>
 |![](/src/tutorials/nt_rnaseq/create_col_5.png)|
 |<small>In the collection builder enter `_f_` and `_r_` in the two search boxes. Because datasets in out history are named as, for example, `G1E_R1_f_ds_SRR549355`, the `_f_` and `_r_` diffrentiate forward and reverse reads. Click `Pair these datasets` button.</small>|
 |![](/src/tutorials/nt_rnaseq/create_col_6.png)|
-|<small>Datasets will become paired</small>|
+|<small>Datasets will become paired.</small>|
 |![](/src/tutorials/nt_rnaseq/create_col_7.png)|
 |<small>Scroll down, name the collection `G1E` and click `Create list`.</small>
 |![](/src/tutorials/nt_rnaseq/create_col_8.png)|
-|<small>You will get a new item in the history representing that collection</small>|
+|<small>You will get a new item in the history representing that collectio.n</small>|
 |![](/src/tutorials/nt_rnaseq/create_col_9.png)|
 |<small>Repeat these steps for Megakarycytes datasets and you should get a history that looks like the one above.</small>
 
@@ -296,7 +296,7 @@ Now that we have collections let's use `Trimmomatic` to trim all datasets in our
 
 <div class="alert alert-warning" role="alert"><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Repeat this on `Mk` collection as well.</div>
 
-This should be repeated for `Mk` collection as well (do it on your own). Note that `Trimmomatic` produces two output collection: one contained paired reads (labeled as `paired`; the one we want) and the one containing singletons (labeled as `unpaired`; we one we do not want in this case). We can simply delete collections that have `unpaired` in their names.
+This should be repeated for `Mk` collection as well (do it on your own). Note that `Trimmomatic` produces two output collection: one contained paired reads (labeled as `paired`; the one we want) and the one containing singletons (labeled as `unpaired`; the one we do not want in this case). We can simply delete collections that have `unpaired` in their names.
 It will be easier down the line if we rename collections to make easier to identify as analysis is progressing (collection tagging, which is currently in development, will alleviate this need in the near future). To rename a collection:
 
 |               |                  |
@@ -479,7 +479,7 @@ MSTRG.977.1  697.447 -10.030  1.062 -9.444 3.583e-21 1.974e-18  2081.714 706.074
 MSTRG.78.1   645.022  10.656  1.195  8.915 4.873e-19 1.342e-160    0.000   0.000 1311.325 1268.763
 ```
 
-The last four columns are normalized reads counts for two megakarycyte and two G1E replicates, respectively. You can see that for `MSTRG.977.1`  log<sub>2</sub> fold change is `-10.030` and there are practically no G1E reads. Conversely, in the case of `MSTRG.78.1` log<sub>2</sub> fold change is `10.656` and there are no megakaryocyte reads. This is this cases (because we set `G1E` as the Factor level 1 while running `DeSeq2`) positive change implies *downregulation* in megakaryocytes compared to G1E cells and vice versa. So to find all genes upregulated in Mk, for example, one would need to filter `DeSeq2` output for fold change below 0. 
+The last four columns are normalized reads counts for two megakarycyte and two G1E replicates, respectively. You can see that for `MSTRG.977.1`  log<sub>2</sub> fold change is `-10.030` and there are practically no G1E reads. Conversely, in the case of `MSTRG.78.1` log<sub>2</sub> fold change is `10.656` and there are no megakaryocyte reads. This is this case because we set `G1E` as the Factor level 1 while running `DeSeq2` and positive change implies *downregulation* in megakaryocytes compared to G1E cells and vice versa. So to find all genes upregulated in Mk, for example, one would need to filter `DeSeq2` output for fold change below 0. 
 
 <div class="panel panel-info">
 	<div class="panel-heading">
@@ -513,11 +513,11 @@ For more information about `DESeq2` and its outputs, you can have a look at [`DE
 
 # Visualization
 
-Now that we have a list of transcript expression levels and their differential expression levels, it is time to visually inspect our transcript structures and the reads they were predicted from. It is a good practice to visually inspect (and present) loci with transcripts of interest. As we've seen above, Galaxy integrates will with the IGV browser.
+Now that we have a list of transcript expression levels and their differential expression levels, it is time to visually inspect our transcript structures and the reads they were predicted from. It is a good practice to visually inspect (and present) loci with transcripts of interest. As we've seen above, Galaxy integrates well with the IGV browser.
 
 ## Prepare BAM files
 
-When looking at results it will helpful to see read coverage at the regions of interest. But we have four datasets corresponding to four replicates and in your own experiment these may be even more datasets. So let's first merge all HISAT BAM outputs in a single BAM file. However, to keep the relationship between individual reads and samples we need to add [readgroup tags](/tutorials/ngs/#read-groups) to each BAM file before merging. For this we will use a combination of tools:
+When looking at results it will helpful to see read coverage at the regions of interest. But we have four datasets corresponding to four replicates and in your own experiment there may be even more datasets. So let's first merge all HISAT BAM outputs into a single BAM file. However, to keep the relationship between individual reads and samples we need to add [readgroup tags](/tutorials/ngs/#read-groups) to each BAM file before merging. For this we will use a combination of tools:
 
 |                                 |
 |---------------------------------|
@@ -526,7 +526,7 @@ When looking at results it will helpful to see read coverage at the regions of i
 |![](/src/tutorials/nt_rnaseq/addRG.png)|
 |<small>**Second**, use **NGS: Picard -> AddOrReplaceReadGroup** to add readgroups as shown above. This will automatically set readgroups based on dataset names.</small>|
 |![](/src/tutorials/nt_rnaseq/mergeBAM.png)|
-|<small>**Finally**, use  **NGS: Picard -> MergeSamFiles** to collapse the entire collection you've just produced at the previous step into a single BAM datasets. Name this dataset `HISAT single BAM`. We will use this dataset for visualization.</small>|
+|<small>**Finally**, use  **NGS: Picard -> MergeSamFiles** to collapse the entire collection you've just produced at the previous step into a single BAM dataset. Name this dataset `HISAT single BAM`. We will use this dataset for visualization.</small>|
 
 ## Starting and using IGV
 

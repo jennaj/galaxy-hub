@@ -1,6 +1,8 @@
 ---
-title: July 20, 2012 Galaxy Development News Brief
+title: Development News Brief
+date: 2012-07-20
 ---
+
 # Get Galaxy
 
 <div class='left'><a href='http://getgalaxy.org/'><img src="http://galaxy.psu.edu/static/getgalaxy.png" alt="getgalaxy" width="50px" /></a></div>
@@ -50,7 +52,7 @@ And a global status of all indexes for all genomes in progress:
 
 Automatic third-party tool dependency installation and compilation with installed repositories
 
-Tool shed repository owners can define information in their repositories that enable third party tool dependencies to be automatically installed along with the repository for those repositories that contain tools that require the dependencies.  The process for enabling this is the inclusion of a simple xml file named tool_dependencies.xml in the repository. [Read more…](/src/toolshed/index.md#automatic_third-party_tool_dependency_installation_and_compilation_with_installed_repositories)
+Tool shed repository owners can define information in their repositories that enable third party tool dependencies to be automatically installed along with the repository for those repositories that contain tools that require the dependencies.  The process for enabling this is the inclusion of a simple xml file named tool_dependencies.xml in the repository. [Read more…](/src/toolshed/installing-and-compiling-packages/index.md)
 
 <br />
 # Improved Error Handling

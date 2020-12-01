@@ -18,9 +18,9 @@ Welcome to the April 2015 *[Galactic News](/src/galaxy-updates/index.md)*, a sum
 
 68 new papers referencing, using, extending, and implementing Galaxy were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in March, bring the total to 2200 publications. Some highlights:
 
-* [Transcriptionally Active Regions Are the Preferred Targets for Chromosomal HPV Integration in Cervical Carcinogenesis](http://dx.doi.org/10.1371/journal.pone.0119566), by Irene Kraus K. Christiansen, Geir Kjetil K. Sandve, Martina Schmitz, Matthias Dürst, Eivind Hovig; *PloS One*, Vol. 10, No. 3. (2015)
+* [Transcriptionally Active Regions Are the Preferred Targets for Chromosomal HPV Integration in Cervical Carcinogenesis](https://doi.org/10.1371/journal.pone.0119566), by Irene Kraus K. Christiansen, Geir Kjetil K. Sandve, Martina Schmitz, Matthias Dürst, Eivind Hovig; *PloS One*, Vol. 10, No. 3. (2015)
 
-* [Reproducible Analysis of Sequencing-Based RNA Structure Probing Data with User-Friendly Tools](http://dx.doi.org/10.1016/bs.mie.2015.01.014), by Lukasz J. Kielpinski, Nikolaos Sidiropoulos, Jeppe Vinther, *Methods in Enzymology* (2015), doi:10.1016/bs.mie.2015.01.014
+* [Reproducible Analysis of Sequencing-Based RNA Structure Probing Data with User-Friendly Tools](https://doi.org/10.1016/bs.mie.2015.01.014), by Lukasz J. Kielpinski, Nikolaos Sidiropoulos, Jeppe Vinther, *Methods in Enzymology* (2015), doi:10.1016/bs.mie.2015.01.014
 
 * [The Globus Galaxies Platform: Delivering Science Gateways as a Service](http://1.usa.gov/1I223bq), by Madduri, R, Chard, K, Chard, R, Lacinski, L, Rodriguez, A, Sulakhe, D, Kelly, D, Dave, U, Foster, I, Argonne National Laboratory Report, 2015
 
@@ -195,7 +195,7 @@ There are [upcoming events](/src/events/index.md) in 8 countries on 4 continents
   <tr>
     <th> April 7 </th>
     <td> <em><a href='https://www.e-biogenouest.org/events/details/45//'>5th GUGGO meeting</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#galaxy_user_group_grand_ouest_28guggo29'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div><a href='https://www.e-biogenouest.org/groups/guggo'>Galaxy User Group Grand Ouest (GUGGO), Rennes, France</a> </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div><a href='https://www.e-biogenouest.org/groups/guggo'>Galaxy User Group Grand Ouest (GUGGO), Rennes, France</a> </td>
     <td> <a href='https://www.e-biogenouest.org/members/1005'>Cyril Monjeaud, Yvan Le Bras</a> </td>
   </tr>
   <tr>
@@ -213,7 +213,7 @@ There are [upcoming events](/src/events/index.md) in 8 countries on 4 continents
   <tr>
     <th> April 20-21 </th>
     <td> <em><a href='http://www.qfab.org/event/workshop-extended-rna-seq-analysis-2/'>Workshop: Extended RNA-Seq analysis</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#qfab-bioinformatics'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
     <td> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
   </tr>
   <tr>
@@ -238,7 +238,7 @@ There are [upcoming events](/src/events/index.md) in 8 countries on 4 continents
   <tr>
     <th> April&nbsp;27 - May 3 </th>
     <td> <em><a href='http://bioinformatics.ca/workshops/2015/high-throughput-biology-sequence-networks-2015'>High-throughput Biology: From Sequence to Networks 2015</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#bioinformaticsca'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> New York City, New York, United States </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> New York City, New York, United States </td>
     <td> <a href='http://bioinformatics.ca/person/cbw-experts/francis-ouellette'>Francis Ouellette</a> </td>
   </tr>
   <tr>
@@ -264,7 +264,7 @@ There are [upcoming events](/src/events/index.md) in 8 countries on 4 continents
   <tr>
     <th> May 13 </th>
     <td> <em><a href='http://www.qfab.org/event/workshop-variant-detection-using-galaxy-3/'>Workshop: Variant detection using Galaxy</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#qfab-bioinformatics'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
     <td> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
   </tr>
   <tr>
@@ -300,13 +300,13 @@ There are [upcoming events](/src/events/index.md) in 8 countries on 4 continents
   <tr>
     <th> June 3 </th>
     <td> <em><a href='http://www.qfab.org/event/workshop-rna-seq-analysis-using-galaxy-2/'>Workshop: RNA-Seq analysis using Galaxy</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#qfab-bioinformatics'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
     <td> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
   </tr>
   <tr>
     <th> June 22 </th>
     <td> <em>Introduction to variant calling for pathologists and laboratory managers</em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> Part of <a href='http://www.rcpa.edu.au/Events/Event-Details/2015/June/Short-Course-in-Medical-Genetics-and-Genetic-Patho'>Short Course in Medical Genetics and Genetic Pathology 2015</a>, Sydney, Australia </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> Part of <a href='http://www.rcpa.edu.au/Events/Event-Details/2015/June/Short-Course-in-Medical-Genetics-and-Genetic-Patho'>Short Course in Medical Genetics and Genetic Pathology 2015</a>, Sydney, Australia </td>
     <td> <a href='/src/people/fubar/index.md'>Ross Lazarus</a>, <a href='https://www.vlsci.org.au/researcher/alonie'>Andrew Lonie</a> </td>
   </tr>
   <tr>
@@ -316,7 +316,7 @@ There are [upcoming events](/src/events/index.md) in 8 countries on 4 continents
   <tr>
     <th> July 6-8 </th>
     <td> <strong><a href='http://gcc2015.tsl.ac.uk/'>2015 Galaxy Community Conference (GCC2015)</a></strong> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div>   <a href='http://www.tsl.ac.uk/'>The Sainsbury Lab</a>, <a href='http://www.visitnorwich.co.uk/'>Norwich</a>, United Kingdom </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div>   <a href='http://www.tsl.ac.uk/'>The Sainsbury Lab</a>, <a href='http://www.visitnorwich.co.uk/'>Norwich</a>, United Kingdom </td>
     <td> <a href="mailto:outreach@galaxyproject.org">Galaxy Outreach</a> </td>
   </tr>
   <tr>
@@ -330,8 +330,8 @@ There are [upcoming events](/src/events/index.md) in 8 countries on 4 continents
 
 <table>
   <tr>
-    <td style=" border: none;"> <a href='/src/teach/trainers/index.md'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
-    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='/src/teach/trainers/index.md'>Designates a training event offered by GTN member(s)</a> </span> </td>
+    <td style=" border: none;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
+    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='https://training.galaxyproject.org/'>Designates a training event offered by GTN member(s)</a> </span> </td>
   </tr>
 </table>
 
@@ -357,11 +357,11 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Servers
 
-One new [public Galaxy server](/src/public-galaxy-servers/index.md) was added in March:
+One new [public Galaxy server](/src/use/index.md) was added in March:
 
 ## Vinther Lab
 
-<div class='right solid'><a href='http://galaxy.bio.ku.dk/'><img src="/src/public-galaxy-servers/VintherLab300.png" alt="Vinther Lab: User-Friendly Tools for Sequencing-Based RNA Structure Probing Data"  /></a></div>
+<div class='right solid'><a href='http://galaxy.bio.ku.dk/'><img src="/src/use/vinther-lab/vinther-lab-300.png" alt="Vinther Lab: User-Friendly Tools for Sequencing-Based RNA Structure Probing Data"  /></a></div>
 
 * *Links:*
   * [Vinther Lab server](http://galaxy.bio.ku.dk/)
@@ -384,22 +384,22 @@ One new [public Galaxy server](/src/public-galaxy-servers/index.md) was added in
 
 <table>
   <tr>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/teach/index.md'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
   </tr>
   <tr>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your <a href='/src/teach/resources/index.md#add-a-training-resource'>training resources</a> and <a href='/src/teach/trainers/index.md#add-a-trainer'>experience</a> <em>now</em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your training resources and experience <em>now</em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </strong> </td>
   </tr>
 </table>
 
 <br />
 
-One new [Community Log Board](/src/community/logs/index.md) entry was added in March:
+One new [Community Log Board](/src/blog/index.md) entry was added in March:
 
-* [Installing ANNOVAR in Galaxy](/src/community/log/2015/installing-annovar/index.md)
+* [Installing ANNOVAR in Galaxy](http://galacticengineer.blogspot.co.uk/2015/03/installing-annovar-in-galaxy.html)
     by [Peter Briggs](http://www.ls.manchester.ac.uk/people/profile/?alias=briggsp)
 
 ----
@@ -414,7 +414,7 @@ One new [Community Log Board](/src/community/logs/index.md) entry was added in M
 <br /><br />
 <span style="font-size: larger;"> Highlights </span>
 
- **[Release Versioning](/src/archive/dev-news-briefs/2015-03/index.md#release_versioning)**
+ **[Release Versioning](/src/archive/dev-news-briefs/2015-03/index.md#-versioning)**
 
   Starting with this distribution, an updated Galaxy release versioning system has been implemented. The versioning scheme is [Ubuntu-style](https://wiki.ubuntu.com/Releases).
 
@@ -422,7 +422,7 @@ One new [Community Log Board](/src/community/logs/index.md) entry was added in M
 
   Galaxy development has moved to Github, but stable/release changes are mirrored to Bitbucket. Deployers can continue to use Bitbucket as they have done in the past. Release branches discussed in the full release notes.
 
- **[Tool Redesign](/src/archive/dev-news-briefs/2015-03/index.md#tool_redesign)**
+ **[Tool Redesign](/src/archive/dev-news-briefs/2015-03/index.md#tool-redesign)**
 
   Much of Galaxy’s core tool set has been redesigned. Several contain new functionality. These tools are included in the [Tool Shed](http://usegalaxy.org/toolshed) and many are ready for use on Galaxy [Main](/src/main/index.md).
 
@@ -463,18 +463,18 @@ One new [Community Log Board](/src/community/logs/index.md) entry was added in M
 
 <div class='right'><a href='/src/cloudman/index.md'><img src="/src/images/logos/CloudManWideBlackLogo.png" alt="CloudMan" width="200" /></a></div>
 
-[BioBlend](https://github.com/afgane/bioblend) [v0.5.3](https://github.com/galaxyproject/bioblend/blob/master/CHANGELOG.md) has been released.  [BioBlend](https://github.com/galaxyproject/bioblend/blob) is a python library for interacting with CloudMan and the [Galaxy API](/src/learn/api/index.md).  ([CloudMan](/src/cloudman/index.md) offers an easy way to get a personal and completely functional instance of Galaxy in the cloud in just a few minutes, without any manual configuration.)
+[BioBlend](https://github.com/afgane/bioblend) [v0.5.3](https://github.com/galaxyproject/bioblend/blob/master/CHANGELOG.md) has been released.  [BioBlend](https://github.com/galaxyproject/bioblend/blob) is a python library for interacting with CloudMan and the [Galaxy API](/src/develop/api/index.md).  ([CloudMan](/src/cloudman/index.md) offers an easy way to get a personal and completely functional instance of Galaxy in the cloud in just a few minutes, without any manual configuration.)
 
 This is mostly an incremental bug fix release with the following summary of changes:
 
 * Project source moved to new URL - https://github.com/galaxyproject/bioblend 
 * Huge improvements to automated testing, tests now run against Galaxy release_14.02 and all later versions to ensure backward compatibility (see [travis.yml](https://github.com/galaxyproject/bioblend/blob/master/.travis.yml) for details).
-* Many documentation improvements (thanks to [Eric Rasche](/src/people/eric-rasche/index.md)).
+* Many documentation improvements (thanks to [Helena Rasche](/src/people/helena-rasche/index.md)).
 * Add Galaxy clients for the tool data tables, the roles, and library folders (thanks to Anthony Bretaudeau).
 * Add method to get the standard error and standard output for the job corresponding to a Galaxy dataset (thanks to Anthony Bretaudeau).
 * Add `get_state()` method to `JobsClient`.
 * Add `copy_from_dataset()` method to `LibraryClient`.
-* Add `create_repository()` method to `ToolShedClient` (thanks to [Eric Rasche)](/src/people/eric-rasche/index.md).
+* Add `create_repository()` method to `ToolShedClient` (thanks to [Helena Rasche)](/src/people/helena-rasche/index.md).
 * Fix `DatasetClient.download_dataset()` for certain proxied Galaxy deployments.
 * Make `LibraryClient._get_root_folder_id()` method safer and faster for Galaxy release_13.06 and later.
 * Deprecate and ignore invalid deleted parameter to `WorkflowClient.get_workflows()`.
@@ -493,7 +493,7 @@ This is mostly an incremental bug fix release with the following summary of chan
 
 Enjoy and please let us know what you think,
 
-[Enis](/src/people/enis-afgan/index.md) & [John](/src/people/john-chilton/index.md) & [Nicola Soranzo](/src/people/nicola-soranzo/index.md) & Simone Leo & [Eric Rasche](/src/people/eric-rasche/index.md)
+[Enis](/src/people/enis-afgan/index.md) & [John](/src/people/john-chilton/index.md) & [Nicola Soranzo](/src/people/nicola-soranzo/index.md) & Simone Leo & [Helena Rasche](/src/people/helena-rasche/index.md)
 
 ## Planemo 0.6.0
 
@@ -520,7 +520,7 @@ New versions [CloudMan](/src/galaxy-updates/2014-09/index.md#august-2014-cloudma
 
 * From [Björn Grüning](/src/people/bjoern-gruening/index.md): 
     [New release of our Galaxy Docker container](https://biostar.usegalaxy.org/p/11376/) with a lot of new features 
-* You can browse our tutorials section by visiting this [biostar.usegalaxy.org/t/Tutorial/](https://biostar.usegalaxy.org/t/Tutorial/). 
+* You can browse our tutorials section by visiting this [biostar.usegalaxy.org/t/Tutorial/](https://biostar.usegalaxy.org/t/Tutorial/) (*Note: Deprecated. Now see [training.galaxyproject.org](https://training.galaxyproject.org/)*)
 * [Should Galaxy use Trello or Github for issue tracking?](http://trello.com/c/iddlQT2p)
 * Every contribution and every pull request to the Galaxy repo is now [being publicly built on Travis-CI](https://travis-ci.org/galaxyproject/galaxy/builds).
 * [Galaxy Training Network (GTN) Joins GOBLET](/src/news/gtn-joins-goblet/index.md)
@@ -618,7 +618,7 @@ Note: Starting with the May news, this list will be placed on a separate page an
 * [seqtk](https://toolshed.g2.bx.psu.edu/view/iuc/seqtk): toolkit for processing FASTA and FASTQ files. Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format. It seamlessly parses both FASTA and FASTQ files which can also be optionally compressed by gzip.<br />
 
      https://github.com/lh3/seqtk/ <br />
-     Repository-Maintainer: [Eric Rasche](/src/people/eric-rasche/index.md)<br />
+     Repository-Maintainer: [Helena Rasche](/src/people/helena-rasche/index.md)<br />
      Repository-Development: https://github.com/galaxy-iuc/tool_shed
 
 * *From [hogart](https://toolshed.g2.bx.psu.edu/view/hogart):*

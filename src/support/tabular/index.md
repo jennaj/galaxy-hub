@@ -12,13 +12,13 @@ Related Topics
  
 ## Help for Tabular Datasets
  
-### Tabular or Interval or BED or GFF or ???
+### Tabular or Interval or BED or GFF or TXT or ???
 
 * A [Tabluar](/src/learn/datatypes/#tabular) datatype is any that is human readable and has tabs seperating data columns.
-  * For example: tabs instead of commas or spaces
+  * Note: tabular data is different from comma seperated data (.csv)
 * Common tabular datatypes are .bed, .gtf, .interval, or .txt.
 * The datatype metadata attribute can often be directly reassigned to tabular format data. 
- * Click the ![pencil](/src/images/icons/pencil.png "pencil") icon to reach the _**Edit Attributes**_ form. In the center panel, using tabs to navigate, change the datatype (3rd tab) and save, then label columns (1st tab) and save. Metadata will assign, then the dataset can be used.
+ * Click the ![pencil](/src/images/icons/pencil.png "pencil") icon to reach the _**Edit Attributes**_ form. In the center panel, using tabs to navigate, change the datatype (3rd tab) and save, then label columns (1st tab) and save. Metadata will assign, then the dataset can be used. 
 * If the required input is a [BED](/src/learn/datatypes/#bed) or [Interval](/src/learn/datatypes/#interval) datatype, adjusting (.tab → .bed, .tab → .interval) may be possible using a combination of _**Text Manipulation**_ tools, to create a [dataset](/src/learn/managing-datasets/index.md) that matches the BED or Interval [datatype](/src/learn/datatypes/index.md) specifications.
 
 ### Tips

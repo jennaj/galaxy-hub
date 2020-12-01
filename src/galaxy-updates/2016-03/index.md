@@ -20,7 +20,7 @@ If you have anything to include in the next News, please send it to [Galaxy Outr
 # GCC2016
 
 <div class='left'>
-<a href='https://gcc2016.iu.edu/'><img src="https://gcc2016.iu.edu/img/gcc2016-logo.png" alt="2016 Galaxy Community Conference" width="250" /></a>
+<a href='https://web.archive.org/web/http://gcc2016.iu.edu/'><img src="https://web.archive.org/web/http://gcc2016.iu.edu/img/gcc2016-logo.png" alt="2016 Galaxy Community Conference" width="250" /></a>
 </div>
 
 [GCC2016](http://gcc2016.iu.edu/) will be held June 25-29 at [Indiana University](http://indiana.edu/) in Bloomington, Indiana, United States. This will be the 7th annual gathering of the Galaxy community, and we are expecting over 200 participants again this year.  The 2016 Galaxy Community Conference includes 2 days of hackathons, [2 days of training](https://gcc16.sched.org/grid-full#2016-06-26), and a two day meeting featuring accepted presentations, keynotes, poster sessions, the new Visualization Showcase and Software Demo sessions, lightning talks, birds-of-a-feather meetups, and plenty of networking. 
@@ -30,18 +30,18 @@ If you have anything to include in the next News, please send it to [Galaxy Outr
 <div class='right'>
 <table>
   <tr>
-    <th> &nbsp;&nbsp; <a href='https://gcc2016.iu.edu/registration/'>Register Now</a> &nbsp;&nbsp; </th>
+    <th> &nbsp;&nbsp; <a href='https://web.archive.org/web/http://gcc2016.iu.edu/registration/'>Register Now</a> &nbsp;&nbsp; </th>
   </tr>
 </table>
 
 </div>
 
-**[Early registration for GCC2016](https://gcc2016.iu.edu/registration/) is now open**. 
+**[Early registration for GCC2016](https://web.archive.org/web/http://gcc2016.iu.edu/registration/) is now open**. 
 Registration costs depend on which events you register for, your career stage & affiliation, and when you register.  Early bird registration ends May 20 and is up to 40% less than regular registration rates.  Early bird registration starts at less than $45 / day for students and postdocs, and at $65 / day for other attendees from non-profits.
 
-You can also sign up for [conference housing](https://gcc2016.iu.edu/location) during registration.  
+You can also sign up for [conference housing](https://web.archive.org/web/http://gcc2016.iu.edu/location) during registration.  
 
-You are strongly encouraged to review the [training](https://gcc16.sched.org/grid-full#2016-06-26) and [housing](https://gcc2016.iu.edu/location) options before beginning the registration process.
+You are strongly encouraged to review the [training](https://gcc16.sched.org/grid-full#2016-06-26) and [housing](https://web.archive.org/web/http://gcc2016.iu.edu/location) options before beginning the registration process.
 
 ## GCC2016 Abstract Submission Deadlines!
 
@@ -58,7 +58,7 @@ You are strongly encouraged to review the [training](https://gcc16.sched.org/gri
 
 **[Poster and Demo abstract submission](http://bit.ly/gcc2016abssub) closes May 20, 2016** (or earlier depending on poster space availability).  Poster and demo submissions are reviewed on a rolling basis, and submitters will be notified of acceptance status no later than two weeks after the abstract is submitted.  You may submit similar content for oral presentations, posters, and demos. 
 
-Topics should be of interest to those working in high-throughput data analysis and research. Presentations that are Galaxy-centric are encouraged, but not required.  Please see the [abstracts page](https://gcc2016.iu.edu/abstracts/index.php) for full details.
+Topics should be of interest to those working in high-throughput data analysis and research. Presentations that are Galaxy-centric are encouraged, but not required.  Please see the [abstracts page](https://web.archive.org/web/http://gcc2016.iu.edu/abstracts/index.php) for full details.
 
 ## Scholarships: International application deadline is March 20
 
@@ -82,7 +82,7 @@ See the [full announcement](/src/news/gcc2016-scholarships/index.md) for details
 
 <div class='left'><br /><a href='http://bioteam.net/'><img src="/src/images/logos/BioTeamLogo154.gif" alt="BioTeam" width="130" /></a></div>
 
-We are pleased to announce that **[BioTeam](http://bioteam.net)** will again be a [sponsor](https://gcc2016.iu.edu/sponsors) for this annual event.  BioTeam is a professional services and products company at the intersection of science and information technology. BioTeam solves analytics, big data and scientific computing challenges for organizations by mapping the right technologies to their unique scientific needs. BioTeam has a well-established history of providing forward-thinking solutions to the Life Sciences.   
+We are pleased to announce that **[BioTeam](http://bioteam.net)** will again be a [sponsor](https://web.archive.org/web/http://gcc2016.iu.edu/sponsors) for this annual event.  BioTeam is a professional services and products company at the intersection of science and information technology. BioTeam solves analytics, big data and scientific computing challenges for organizations by mapping the right technologies to their unique scientific needs. BioTeam has a well-established history of providing forward-thinking solutions to the Life Sciences.   
 
 The **[BioTeam Appliance Galaxy Edition](http://bioteam.net/bioteam-appliance/galaxy-edition/)** is a push-button solution that let’s researchers get up and running quickly with Galaxy.  The Galaxy Appliance comes preinstalled with a production instance of Galaxy, bioinformatics tools, and reference datasets. This powerful system is specifically configured for computationally intensive scientific workloads. Most importantly, the Galaxy Appliance is an open system so researchers can install whatever tools they need and use the server as their own high-performance informatics infrastructure along side Galaxy.  BioTeam provides ongoing support for the Galaxy Appliance, enabling researchers to minimize their IT burden. The Galaxy Appliance is used by researchers around the world for metagenomic, ChIP-Seq, RNA-Seq analysis and more.  For more information:  http://bioteam.net/bioteam-appliance/galaxy-edition/
 
@@ -90,7 +90,7 @@ This is the fourth year in a row that BioTeam has been a GCC Sponsor.
 
 
 
-We continue to seek other sponsors as well and [offer a wide range of sponsorship plans](https://gcc2016.iu.edu/sponsors/index.php). If your organization is interested in having a presence at GCC2016, please contact the [GCC2016 Exec](mailto:gcc2016-exec@lists.galaxyproject.org) for more information.
+We continue to seek other sponsors as well and [offer a wide range of sponsorship plans](https://web.archive.org/web/http://gcc2016.iu.edu/sponsors/index.php). If your organization is interested in having a presence at GCC2016, please contact the GCC2016 Exec for more information.
 
 ----
 
@@ -101,13 +101,13 @@ We continue to seek other sponsors as well and [offer a wide range of sponsorshi
 * [MetaPalette: A $k$-mer painting approach for metagenomic taxonomic profiling and quantification of novel strain variation](http://arxiv.org/abs/1602.05328)
     David Koslicki, Daniel Falush, arXiv:1602.05328 [q-bio.GN] (17 Feb 2016)
 
-* [Colib’read on galaxy: a tools suite dedicated to biological information extraction from raw NGS reads](http://dx.doi.org/10.1186/s13742-015-0105-2)
+* [Colib’read on galaxy: a tools suite dedicated to biological information extraction from raw NGS reads](https://doi.org/10.1186/s13742-015-0105-2)
     by Yvan Le Bras, Olivier Collin, Cyril Monjeaud, Vincent Lacroix, Éric Rivals, Claire Lemaitre, Vincent Miele, Gustavo Sacomoto, Camille Marchet, Bastien Cazaux, Amal Zine El Aabidine, Leena Salmela, Susete Alves-Carvalho, Alexan Andrieux, Raluca Uricaru and Pierre Peterlongo, *GigaScience*, Vol. 5, No. 1. (11 February 2016), doi:10.1186/s13742-015-0105-2
 
-* [Impact of soil heat on reassembly of bacterial communities in the rhizosphere microbiome and plant disease suppression](http://dx.doi.org/10.1111/ele.12567)
+* [Impact of soil heat on reassembly of bacterial communities in the rhizosphere microbiome and plant disease suppression](https://doi.org/10.1111/ele.12567)
     Menno van der Voort, Marcel Kempenaar, Marc van Driel, Jos M. Raaijmakers, Rodrigo Mendes, *Ecology Letters* (January 2016), pp. n/a-n/a, doi:10.1111/ele.12567
 
-* [RiboGalaxy: a browser based platform for the alignment, analysis and visualization of ribosome profiling data](http://dx.doi.org/10.1080/15476286.2016.1141862)
+* [RiboGalaxy: a browser based platform for the alignment, analysis and visualization of ribosome profiling data](https://doi.org/10.1080/15476286.2016.1141862)
     Audrey M. Michel, James P. A. Mullan, Vimalkumar Velayudhan, Patrick B. F. O'Connor, Claire A. Donohue, Pavel V. Baranov, *RNA Biology* (29 January 2016), pp. 00-00, doi:10.1080/15476286.2016.1141862
 
 The new papers were tagged with:
@@ -201,7 +201,7 @@ We will do our best to coordinate and make this hackathon a nice and productive 
 
 The [2016 GMOD meeting](http://gmod.org/wiki/Jun_2016_GMOD_Meeting) will be held **immediately following GCC2016 and in the same venue as GCC2016**.  [http://gmod.org/wiki/|GMOD](http://gmod.org/wiki/|GMOD) is a consortium of open-source software project, including Galaxy, that address common challenges with biological data.  Other projects in the GMOD consortium include 
 * [Tripal](http://gmod.org/wiki/Tripal): A web front end for [Chado](http://gmod.org/wiki/Chado) databases.  Galaxy is working with the Tripal project to make Galaxy be Tripal's analysis engine.
-* [JBrowse](http://gmod.org/wiki/JBrowse): A client-side genome browser and successor to the venerable [http://gmod.org/wiki/GBrowse](http://gmod.org/wiki/GBrowse).  [JBrowse as a Galaxy Tool](http://gcc2015.tsl.ac.uk/Lightning/#JBrowse_as_a_Galaxy_Tool) was presented by Eric Rasche at [GCC2015](http://gcc2015.tsl.ac.uk/). Ian Holmes, the JBrowse PI, has put JBrowse-Galaxy integration  at "top of the list" for JBrowse's infrastructure upcoming infrastructure work.
+* [JBrowse](http://gmod.org/wiki/JBrowse): A client-side genome browser and successor to the venerable [http://gmod.org/wiki/GBrowse](http://gmod.org/wiki/GBrowse).  [JBrowse as a Galaxy Tool](http://gcc2015.tsl.ac.uk/Lightning/#JBrowse_as_a_Galaxy_Tool) was presented by Helena Rasche at [GCC2015](http://gcc2015.tsl.ac.uk/). Ian Holmes, the JBrowse PI, has put JBrowse-Galaxy integration  at "top of the list" for JBrowse's infrastructure upcoming infrastructure work.
 * [MAKER](http://gmod.org/wiki/MAKER): A genome annotation pipeline that integrates several gene annotation engines, and combines them to produce annotation that is better than any individual tool produces.  A [MAKER-Galaxy](https://depot.galaxyproject.org/hub/attachments/documents/posters/ISMB2014_Kandalaft_GenomeAnnotation.pdf) by Agriculture and Agri-Food Canada was presented at ISMB 2014.
 * [InterMine](http://gmod.org/wiki/InterMine) and [BioMart](http://gmod.org/wiki/BioMart): These are both popular data sources that are integrated with Galaxy.
 
@@ -251,7 +251,7 @@ There are [many upcoming events](/src/events/index.md) in the next few months.  
     <th> March 7-8 </th>
     <td> <strong><a href='https://github.com/galaxyproject/tools-iuc/issues/422'>IUC Contribution Fest - RADSeq Tools and Workflows</a></strong> </td>
     <td> <img src='/src/images/icons/GL.png' alt='Around the World' align='right' /> <em>Online</em> </td>
-    <td> <a href='IUC'>/src/iuc/index.md</a> </td>
+    <td> <a href='/src/iuc/index.md'> IUC </a> </td>
   </tr>
   <tr>
     <th> March 15 </th>
@@ -274,8 +274,8 @@ There are [many upcoming events](/src/events/index.md) in the next few months.  
   <tr>
     <th> March 29 </th>
     <td> <em><a href='http://go4bioinformatics.genouest.org/analyse-de-donnees-rnaseq-sous-galaxy/'>Introduction à l'analyse de données RNAseq sous Galaxy</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#galaxy_user_group_grand_ouest_28guggo29-bioinformatics'><img src="/src/images/icons/EU.png" alt="" /></a></div><a href='https://www.e-biogenouest.org/groups/guggo'>Galaxy User Group Grand Ouest (GUGGO), Rennes, France</a> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#galaxy_user_group_grand_ouest_28guggo29-bioinformatics'><img src="/src/images/galaxy-logos/GTN16.png" alt="Training offered by GTN Member" /></a></div><a href='https://www.e-biogenouest.org/members/1003'>Yvan Le Bras</a> </td>
+    <td> <div class='right'><img src="/src/images/icons/EU.png" alt="" /></div><a href='https://www.e-biogenouest.org/groups/guggo'>Galaxy User Group Grand Ouest (GUGGO), Rennes, France</a> </td>
+    <td> <div class='right'><img src="/src/images/galaxy-logos/GTN16.png" alt="Training offered by GTN Member" /></div><a href='https://www.e-biogenouest.org/members/1003'>Yvan Le Bras</a> </td>
   </tr>
   <tr>
     <th> </th>
@@ -329,19 +329,19 @@ There are [many upcoming events](/src/events/index.md) in the next few months.  
     <th> June 9-10 </th>
     <td> <em><a href='http://bioinformatics.ca/workshops/2016/informatics-high-throughput-sequencing-data-2016'>Informatics on High-throughput Sequencing Data</a></em> </td>
     <td> <img src='/src/images/icons/NA.png' alt='North America' align='right' /> Montreal, Quebec, Canada </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a>  <a href='http://bioinformatics.ca/person/cbw-experts/francis-ouellette'>Francis Ouellette</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a>  <a href='http://bioinformatics.ca/person/cbw-experts/francis-ouellette'>Francis Ouellette</a> </td>
   </tr>
   <tr>
     <th> June 13-17 </th>
     <td> <em><a href='http://bioinformatics.ucdavis.edu/2016-bioinformatics-training-program-preview/'>Using Galaxy For Analysis of High Throughput Sequence Data</a></em> </td>
     <td> <img src='/src/images/icons/NA.png' alt='North America' align='right' /> Davis, California, United States </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="mailto:training.bioinformatics@ucdavis.edu">UC Davis Bioinformatics Training Program</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="mailto:training.bioinformatics@ucdavis.edu">UC Davis Bioinformatics Training Program</a> </td>
   </tr>
   <tr>
     <th> June 25-29 </th>
-    <td> <strong><em><a href='https://gcc2016.iu.edu/'>2016 Galaxy Community Conference (GCC2016)</a></strong></em> </td>
+    <td> <strong><em><a href='https://web.archive.org/web/http://gcc2016.iu.edu/'>2016 Galaxy Community Conference (GCC2016)</a></strong></em> </td>
     <td> <img src='/src/images/icons/NA.png' alt='North America' align='right' /> <a href='http://www.iu.edu/'>Indiana University</a>, Bloomington, Indiana, United States </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a>  <a href='https://gcc2016.iu.edu/organizers'>Organizers</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a>  <a href='https://web.archive.org/web/http://gcc2016.iu.edu/organizers'>Organizers</a> </td>
   </tr>
   <tr>
     <th> June 30 - July 1 </th>
@@ -354,8 +354,8 @@ There are [many upcoming events](/src/events/index.md) in the next few months.  
 
 <table>
   <tr>
-    <td style=" border: none;"> <a href='/src/teach/trainers/index.md'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
-    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='/src/teach/trainers/index.md'>Designates a training event offered by GTN member(s)</a> </span> </td>
+    <td style=" border: none;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
+    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='https://training.galaxyproject.org/'>Designates a training event offered by GTN member(s)</a> </span> </td>
   </tr>
 </table>
 
@@ -383,11 +383,11 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Galaxy Servers
 
-[Three new publicly accessible Galaxy servers](/src/public-galaxy-servers/index.md) were listed in February:
+[Three new publicly accessible Galaxy servers](/src/use/index.md) were listed in February:
 
 ## BISTRO
 
-<div class='right solid'><a href='http://galaxy.bioinfo-bistro.fr/galaxy/'><img src="/src/public-galaxy-servers/Bistro.png" alt="BISTRO Galaxy" width="300" /></a></div>
+<div class='right solid'><a href='http://galaxy.bioinfo-bistro.fr/galaxy/'><img src="/src/public-galaxy-servers/archive/bistro.png" alt="BISTRO Galaxy" width="300" /></a></div>
 
 * *Link:*
   * [BISTRO Galaxy](http://galaxy.bioinfo-bistro.fr/galaxy/)
@@ -404,7 +404,7 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 ## MiModD NacreousMap
 
-<div class='right solid'><a href='http://mapping-by-sequencing.vm.uni-freiburg.de:8080/'><img src="/src/public-galaxy-servers/Baumeister.png" alt="Baumeister Lab Galaxy featuring MiModD" width="300" /></a></div>
+<div class='right solid'><a href='http://mapping-by-sequencing.vm.uni-freiburg.de:8080/'><img src="/src/use/mimodd-nacreousmap/baumeister.png" alt="Baumeister Lab Galaxy featuring MiModD" width="300" /></a></div>
 
 * *Link:*
   * [MiModD NacreousMap](http://mapping-by-sequencing.vm.uni-freiburg.de:8080/)
@@ -424,7 +424,7 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 ## NIOO-KNAW PhyloProfiler
 
-<div class='right solid'><a href='https://galaxy.bioinf.nioo.knaw.nl/public/'><img src="/src/public-galaxy-servers/NIOO-KNAW-Logo.jpg" alt="NIOO-KHAN Public Galaxy Server featuring PhyloPofiler" width="300" /></a></div>
+<div class='right solid'><a href='https://galaxy.bioinf.nioo.knaw.nl/public/'><img src="/src/public-galaxy-servers/archive/nioo-knaw-loggo.jpg" alt="NIOO-KHAN Public Galaxy Server featuring PhyloPofiler" width="300" /></a></div>
 
 * *Link:*
   * [NIOO-KHAN Public Galaxy Server featuring PhyloPofiler](https://galaxy.bioinf.nioo.knaw.nl/public/)
@@ -493,13 +493,13 @@ Barring a strong outcry from deployers, 16.01 will be the last release of Galaxy
 
 Multiple security vulnerabilities were recently discovered in Galaxy that allow malicious actors to read and write files on the Galaxy server. Additionally, Galaxy servers on which a rarely used feature has been enabled are vulnerable to an arbitrary code execution exploit.  
 
-*This issue affects all known releases of Galaxy in at least the last 3 years.*  See the [full announcement](http://dev.list.galaxyproject.org/Galaxy-Security-Vulnerability-Read-write-arbitrary-filesystem-paths-arbitrary-code-execution-td4668936.html) for details.
+*This issue affects all known releases of Galaxy in at least the last 3 years.*  See the [full announcement](https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/message/TXP6BGNZG5Y75ASM5HPQALI2UOPKXXTH/) for details.
 
 ### Tool Shed Security Vulnerability - Read/write arbitrary filesystem paths
 
 Multiple security vulnerabilities were recently discovered in the Tool Shed that allow malicious actors to read and write files on the Tool Shed server outside of normal Tool Shed repository directories. 
 
-*This issue affects all known releases of Galaxy in at least the last 3 years.*  See the [full announcment](http://dev.list.galaxyproject.org/Galaxy-Tool-Shed-Security-Vulnerability-Read-write-arbitrary-filesystem-paths-td4668935.html) for details.
+*This issue affects all known releases of Galaxy in at least the last 3 years.*  See the [full announcment](https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/message/TQG5K6DHSJX6HDFMV6MJ43SRNEO3X3JZ/) for details.
 <br /><br /></div></div>
 
 ## galaxy-lib 16.4.0
@@ -581,7 +581,7 @@ The 0.6.x release includes these changes:
 
 **BioBlend 0.7.0**
 
-   [BioBlend version 0.7.0](https://github.com/galaxyproject/bioblend/) was released at the beginning of November. BioBlend is a python library for interacting with CloudMan and the [Galaxy API](/src/learn/api/index.md).  CloudMan offers an easy way to get a personal and completely functional instance of Galaxy in the cloud in just a few minutes, without any manual configuration.)  From the [release CHANGELOG](http://bit.ly/bbCHANGELOG).
+   [BioBlend version 0.7.0](https://github.com/galaxyproject/bioblend/) was released at the beginning of November. BioBlend is a python library for interacting with CloudMan and the [Galaxy API](/src/develop/api/index.md).  CloudMan offers an easy way to get a personal and completely functional instance of Galaxy in the cloud in just a few minutes, without any manual configuration.)  From the [release CHANGELOG](http://bit.ly/bbCHANGELOG).
 
 
 **blend4j v0.1.2**
@@ -595,14 +595,14 @@ The 0.6.x release includes these changes:
 
 <table>
   <tr>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/teach/index.md'><img src="/src/images/galaxy-logos/GTNLogo300.png" alt="Galaxy Training Network" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/galaxy-logos/GTNLogo300.png" alt="Galaxy Training Network" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
   </tr>
   <tr>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your <a href='/src/teach/resources/index.md#add-a-training-resource'>training resources</a> and <a href='/src/teach/trainers/index.md#add-a-trainer'>experience</a> <em>now</em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your training resources and experience <em>now</em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </strong> </td>
   </tr>
 </table>
 

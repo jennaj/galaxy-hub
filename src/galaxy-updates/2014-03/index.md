@@ -9,11 +9,11 @@ Welcome to the March 2014 *[Galaxy Update](/src/galaxy-updates/index.md)*, a mon
 
 *54 papers* were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in Febrary. Some papers that may be particularly interesting to the Galaxy community:
 
-* [Dissemination of scientific software with Galaxy ToolShed](http://dx.doi.org/10.1186/gb4161), by [Blankenberg](/src/people/dan/index.md), [Von Kuster](/src/people/greg_vonkuster/index.md), [Bouvier](/src/people/dave-bouvier/index.md), [Baker](/src/people/dannon-baker/index.md), [Afgan](/src/people/enis-afgan/index.md), Stoler, the [Galaxy Team](/src/galaxy-team/index.md), [Taylor](/src/people/james-taylor/index.md) and [Nekrutenko](/src/people/anton/index.md), *Genome Biology,* Vol. 15, No. 2. (20 February 2014), 403, doi:10.1186/gb4161
+* [Dissemination of scientific software with Galaxy ToolShed](https://doi.org/10.1186/gb4161), by [Blankenberg](/src/people/dan/index.md), [Von Kuster](/src/people/greg_vonkuster/index.md), [Bouvier](/src/people/dave-bouvier/index.md), [Baker](/src/people/dannon-baker/index.md), [Afgan](/src/people/enis-afgan/index.md), Stoler, the [Galaxy Team](/src/galaxy-team/index.md), [Taylor](/src/people/james-taylor/index.md) and [Nekrutenko](/src/people/anton/index.md), *Genome Biology,* Vol. 15, No. 2. (20 February 2014), 403, doi:10.1186/gb4161
 
-* [Binding Sites Analyser (BiSA): Software for Genomic Binding Sites Archiving and Overlap Analysis](http://dx.doi.org/10.1371/journal.pone.0087301), by Khushi, *et al.,* *PLoS ONE*, Vol. 9, No. 2. (12 February 2014), e87301, doi:10.1371/journal.pone.0087301
+* [Binding Sites Analyser (BiSA): Software for Genomic Binding Sites Archiving and Overlap Analysis](https://doi.org/10.1371/journal.pone.0087301), by Khushi, *et al.,* *PLoS ONE*, Vol. 9, No. 2. (12 February 2014), e87301, doi:10.1371/journal.pone.0087301
 
-* [Oqtans: a multifunctional workbench for RNA-seq data analysis](http://dx.doi.org/10.1186/1471-2105-15-s3-a7), by Sreedharan, *et al.*, *BMC Bioinformatics*, Vol. 15, No. Suppl 3. (2014), A7, doi:10.1186/1471-2105-15-s3-a7
+* [Oqtans: a multifunctional workbench for RNA-seq data analysis](https://doi.org/10.1186/1471-2105-15-s3-a7), by Sreedharan, *et al.*, *BMC Bioinformatics*, Vol. 15, No. Suppl 3. (2014), A7, doi:10.1186/1471-2105-15-s3-a7
 
 How those papers were tagged:
 
@@ -76,7 +76,7 @@ How those papers were tagged:
 
 <div class='left'><br /><a href='http://www.gigasciencejournal.com/'><img src="/src/images/logos/GigaScienceLogo250.png" alt="GigaScience Journal" width="160" /></a></div>
 
-The *[GigaScience](http://www.gigasciencejournal.com/)* "Galaxy: Data Intensive and Reproducible Research" series [announced](http://blogs.biomedcentral.com/gigablog/2013/04/05/call-for-papers-for-a-special-gcc2013-galaxy-series/) for the [2013 Galaxy Community Conference](/src/events/gcc2013/index.md) has just published its [first papers](http://www.gigasciencejournal.com/series/Galaxy), and is continuing to take submissions. Whilst the series considers best practice papers, discussion, as well as novel uses of Galaxy, these first papers are examples of Galaxy toolkits, with a [genome diversity tool collection](http://dx.doi.org/10.1186/2047-217X-2-17) presented from the Miller lab at Pennsylvania State, and a [set of analytical and visualisation tools for Complete Genomics sequencing data](http://dx.doi.org/10.1186/2047-217X-3-1) from the Stubbs lab at Erasmus Medical College. The genome diversity toolkit is their first example that integrates with their [GigaGalaxy server](http://gigagalaxy.net/), with SVG graphs to help visualize how input datasets, workflows and histories are related to each example analysis in the paper. BGI is continuing to cover the article processing charges until the end of this year, so for more information see their [blog posting](http://blogs.biomedcentral.com/gigablog/2014/02/06/rewarding-reproducibility-first-papers-in-our-galaxy-series-utilizing-our-gigagalaxy-platform/).
+The *[GigaScience](http://www.gigasciencejournal.com/)* "Galaxy: Data Intensive and Reproducible Research" series [announced](http://blogs.biomedcentral.com/gigablog/2013/04/05/call-for-papers-for-a-special-gcc2013-galaxy-series/) for the [2013 Galaxy Community Conference](/src/events/gcc2013/index.md) has just published its [first papers](http://www.gigasciencejournal.com/series/Galaxy), and is continuing to take submissions. Whilst the series considers best practice papers, discussion, as well as novel uses of Galaxy, these first papers are examples of Galaxy toolkits, with a [genome diversity tool collection](https://doi.org/10.1186/2047-217X-2-17) presented from the Miller lab at Pennsylvania State, and a [set of analytical and visualisation tools for Complete Genomics sequencing data](https://doi.org/10.1186/2047-217X-3-1) from the Stubbs lab at Erasmus Medical College. The genome diversity toolkit is their first example that integrates with their [GigaGalaxy server](http://gigagalaxy.net/), with SVG graphs to help visualize how input datasets, workflows and histories are related to each example analysis in the paper. BGI is continuing to cover the article processing charges until the end of this year, so for more information see their [blog posting](http://blogs.biomedcentral.com/gigablog/2014/02/06/rewarding-reproducibility-first-papers-in-our-galaxy-series-utilizing-our-gigagalaxy-platform/).
 
 # Who's Hiring
 
@@ -84,8 +84,8 @@ The *[GigaScience](http://www.gigasciencejournal.com/)* "Galaxy: Data Intensive 
 
 The Galaxy is expanding! Please help it grow.
 
-* [Stage M2 Recherche : Provenance dans un système de workflows pour la bioinformatique](http://france.list.galaxyproject.org/Galaxy-france-Fwd-bioinfo-Stage-M2-Recherche-Provenance-dans-un-systeme-de-workflows-pour-la-bioinfoe-td93.html)
-* [Stage M1/M2, Development and integration of computational methods into the Galaxy analysis framework](http://france.list.galaxyproject.org/Galaxy-france-Fwd-bioinfo-Stage-M1-M2-Institut-Curie-Paris-td92.html), Institut Curie, Paris
+* [Stage M2 Recherche : Provenance dans un système de workflows pour la bioinformatique](https://lists.galaxyproject.org/archives/list/galaxy-france@lists.galaxyproject.org/thread/3PXIAVFR2YHMZAZXCDHDXNMGBSZJVFGR/#3PXIAVFR2YHMZAZXCDHDXNMGBSZJVFGR)
+* [Stage M1/M2, Development and integration of computational methods into the Galaxy analysis framework](https://lists.galaxyproject.org/archives/list/galaxy-france@lists.galaxyproject.org/thread/BUHZTVWUF4P7X3WXMR4BVZTK45QVCNPD/#BUHZTVWUF4P7X3WXMR4BVZTK45QVCNPD), Institut Curie, Paris
 * [Statistical Genomics Postdoc](/src/news/statistical-genomics-post-doc-penn-state/index.md) opening in the Makova lab at Penn State
 * **The [Galaxy Project is hiring software engineers and post-docs](/src/galaxy-is-hiring/index.md)**, *including positions at George Washington University*.
 
@@ -166,7 +166,7 @@ In 2014 we are also adding [non-sponsor exhibit spaces](/src/events/gcc2014/spon
 
 <div class='center'> 
 <a href='/src/events/gaw2014/index.md'><img src="/src/images/logos/GAW2014-200.png" alt="Register now for Galaxy Australasia Workshop (GAW 2014)" height="60" /></a> &nbsp;
-<a href='http://globusworld.org/'><img src="/src/events/GlobusWorld2014Logo.png" alt="GlobusWorld 2014" height="60" /></a> &nbsp;
+<a href='http://globusworld.org/'><img src="/src/images/logos/GlobusWorld2014Logo.png" alt="GlobusWorld 2014" height="60" /></a> &nbsp;
 <a href='http://www.bio-itworldexpo.com/'><img src="/src/images/logos/BioITWorld2014Logo.png" alt="Bio-IT World 2014" /></a> &nbsp;
 <a href='/src/events/gcc2014/index.md'><img src="/src/images/logos/GCC2014LogoWide200.png" alt="GCC2014 early registration and abstract submission are now open" width="150" /></a>
 </div>
@@ -303,11 +303,11 @@ In 2014 we are also adding [non-sponsor exhibit spaces](/src/events/gcc2014/spon
 
 # New Public Servers
 
-One new [public Galaxy server](/src/public-galaxy-servers/index.md), [PGTB](/src/public-galaxy-servers/index.md#galaxy-pgtb-virtual-biodiversity-lab) was added, and the [NELLY server](/src/public-galaxy-servers/index.md#nelly) is back.
+One new [public Galaxy server](/src/use/index.md), [PGTB](/src/use/galaxy-pgtb-virtual-biodiversity-lab/index.md) was added, and the NELLY server is back.
 
 ## Galaxy PGTB (Virtual Biodiversity Lab)
 
-<div class='right solid'><a href='http://www.pgtb.u-bordeaux2.fr/'><img src="/src/public-galaxy-servers/pgtb.png" alt="PGTB Galaxy"  /></a></div>
+<div class='right solid'><a href='http://www.pgtb.u-bordeaux2.fr/'><img src="/src/use/galaxy-pgtb-virtual-biodiversity-lab/pgtb.png" alt="PGTB Galaxy"  /></a></div>
 
 * *Links:*
   * **[PGTB Galaxy - Virtual Biodiversity Lab](https://galaxy-pgtp.pierroton.inra.fr/)**
@@ -360,19 +360,19 @@ upgrade:   $ hg pull
 
 # Galaxy Community Hubs
 
-<div class='left'>&nbsp;&nbsp; <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
-<div class='right'><a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
+<div class='left'>&nbsp;&nbsp; <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
+<div class='right'><a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
 <br />
 
 <table>
   <tr>
-    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </td>
+    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </td>
   </tr>
 </table>
 
 <br /><br />
 
-The *[Community Log Board](/src/community/logs/index.md)* and  *[Deployment Catalog](/src/community/deployments/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched in December.  If you have a deployment, or experience you want to share then please publish them.
+The *[Community Log Board](/src/blog/index.md)* and  *[Deployment Catalog](/src/community/deployment/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched in December.  If you have a deployment, or experience you want to share then please publish them.
 
 # ToolShed Contributions
 

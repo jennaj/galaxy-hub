@@ -81,10 +81,10 @@ Many thanks to the [LAboratory of Post-Transcriptional control and bioInformatic
 
 These papers may be of interest to the Galaxy community:
 
-* [Identifying elemental genomic track types and representing them uniformly](http://dx.doi.org/10.1186/1471-2105-12-494), Sveinung Gundersen, Matus Kalas, Osman Abul, Arnoldo Frigessi, Eivind Hovig, Geir Sandve, BMC Bioinformatics, Vol. 12, No. 1. (30 December 2011), 494
-* [CodonLogo: A sequence logo based viewer for codon patterns](http://dx.doi.org/10.1093/bioinformatics/bts295), Virag Sharma, David P. Murphy, Gregory Provan, Pavel V. Baranov, Bioinformatics (17 May 2012)
-* [Tavaxy: Integrating Taverna and Galaxy workflows with cloud computing support](http://dx.doi.org/10.1186/1471-2105-13-77), Mohamed Abouelhoda, Shadi Issa, Moustafa Ghanem, BMC Bioinformatics, Vol. 13, No. 1. (2012), 77
-* [CADDSuite - a workflow-enabled suite of open-source tools for drug discovery](http://dx.doi.org/10.1186/1758-2946-4-S1-O2), Oliver Kohlbacher, Journal of Cheminformatics, Vol. 4, No. Suppl 1. (2012), O2
+* [Identifying elemental genomic track types and representing them uniformly](https://doi.org/10.1186/1471-2105-12-494), Sveinung Gundersen, Matus Kalas, Osman Abul, Arnoldo Frigessi, Eivind Hovig, Geir Sandve, BMC Bioinformatics, Vol. 12, No. 1. (30 December 2011), 494
+* [CodonLogo: A sequence logo based viewer for codon patterns](https://doi.org/10.1093/bioinformatics/bts295), Virag Sharma, David P. Murphy, Gregory Provan, Pavel V. Baranov, Bioinformatics (17 May 2012)
+* [Tavaxy: Integrating Taverna and Galaxy workflows with cloud computing support](https://doi.org/10.1186/1471-2105-13-77), Mohamed Abouelhoda, Shadi Issa, Moustafa Ghanem, BMC Bioinformatics, Vol. 13, No. 1. (2012), 77
+* [CADDSuite - a workflow-enabled suite of open-source tools for drug discovery](https://doi.org/10.1186/1758-2946-4-S1-O2), Oliver Kohlbacher, Journal of Cheminformatics, Vol. 4, No. Suppl 1. (2012), O2
 
 These papers were among [32 papers added to the Galaxy CiteULike group](http://www.citeulike.org/group/16008/library) since the last [Galaxy Update](/src/galaxy-updates/index.md) (for a total of 317 papers in the last ~15 months).  The new papers were spread [across 7 categories](http://www.citeulike.org/group/16008/tags), including the new [tools category](http://www.citeulike.org/group/16008/tag/tools). 
 
@@ -186,7 +186,7 @@ A new Galaxy distribution was [released on May 11, 2012](/src/archive/dev-news-b
 **Some Highlights:**
 <div class='right'><a href='/src/learn/visualization/index.md'><img src="/src/images/news-graphics/2012_05_11_gatk-workflow.png" alt="gatk-workflow" width="180px" /></a></div>
 * **Emboss** tools and datatypes __have now moved from the ***Galaxy distribution** to the **[Galaxy Main Tool Shed](http://toolshed.g2.bx.psu.edu/)__**.
-* [Tool Integration Tests](/src/toolshed/index.md#using_galaxy27s_functional_test_framework_to_test_tools_installed_into_your_local_galaxy_instance), [Custom Tool Panel Configuration](/src/toolshed/index.md#managing_the_layout_of_your_galaxy_tool_panel), and [Configurable Tool Output Locations](/src/admin/tools/multiple-output-files/index.md).
+* [Tool Integration Tests](/src/testing-installed-tools/index.md), [Custom Tool Panel Configuration](/src/galaxy-tool-panel/index.md#managing-the-layout-of-your-galaxy-tool-panel), and [Configurable Tool Output Locations](/src/admin/tools/multiple-output-files/index.md).
 * Improved [Multiprocess Job Handling](/src/admin/config/performance/scaling/index.md) and [Enhanced OpenID Support](http://openid.net/).
 * **[GATK](http://www.broadinstitute.org/gsa/wiki) version 1.4**, **[FreeBayes](http://github.com/ekg/freebayes)**, Updated **Megablast** using **[NCBI BLAST+](http://blast.ncbi.nlm.nih.gov/Blast.cgi)**, **[Trinity](http://trinityrnaseq.sourceforge.net)**, **[WormBase 2](http://www.wormbase.org)**, and **[IGB](http://bioviz.org/igb/index.html)** external display.
 * **[Trackster](/src/learn/visualization/index.md)** upgrades include strand coloring, interval datatype support, and tabix indexing (fast!!).
@@ -194,6 +194,6 @@ A new Galaxy distribution was [released on May 11, 2012](/src/archive/dev-news-b
 
 ## Other News
 
-* [GalaxyCzars](/src/community/GalaxyCzars/index.md) a discussion group for Galaxy community members who are responsible for large Galaxy installations has been started.  Their first conference call will be this month.  
+* [GalaxyCzars](/src/community/galaxy-admins/index.md) a discussion group for Galaxy community members who are responsible for large Galaxy installations has been started.  Their first conference call will be this month.  
   * Want to know how other sites are implementing their Galaxy installations?  See the [GalaxyCzars survey results](/src/community/galaxy-admins/surveys/2012/index.md).
 * *Galaxy [Main](/src/main/index.md) was down for a little over a day.* Watch the Galaxy [News](/src/news/index.md) for an explanation.

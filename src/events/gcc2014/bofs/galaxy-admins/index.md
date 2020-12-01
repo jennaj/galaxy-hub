@@ -1,25 +1,21 @@
 ---
-title: [GalaxyAdmins](/src/GalaxyAdmins/index.md) BoF
+title: GalaxyAdmins BoF
 ---
 {{> Events/GCC2014/Header }}
-
-
-
-<div class='dictbox'>
- BoF:: **[GalaxyAdmins](/src/events/gcc2014/bofs/galaxy-admins/index.md)**
- Summary:: The now annual in-person gathering of the [GalaxyAdmins Community](/src/community/galaxy-admins/index.md).
- Audience:: If you manage a Galaxy instance, then this BoF is for you.  
- When:: **Wednesday, July 2, 5:45pm**
- Where:: **Multipurpose Room 324**
- Contact:: [Dave Clements](/src/people/dave-clements/index.md)
-</div>
 
 {{> Events/GCC2014/LinkBox }}
 
 <div class='left'><a href='/src/events/gcc2014/bofs/index.md'><img src="/src/images/logos/GCC2014_BoF_LogoSquare.png" alt="GCC2014 BoFs!" width="100" /></a><br /><br />
 <a href='/src/community/galaxy-admins/index.md'><img src="/src/images/logos/GalaxyAdmins.png" alt="GalaxyAdmins" width="100" /></a></div></div>
 
-This page describes the **[GalaxyAdmins](/src/GalaxyAdmins/index.md)** [Birds of a Feather](/src/events/gcc2014/bofs/index.md) meetup being held at [GCC2014](/src/events/gcc2014/index.md).
+This page describes the **[GalaxyAdmins](/src/community/galaxy-admins/index.md)** [Birds of a Feather](/src/events/gcc2014/bofs/index.md) meetup being held at [GCC2014](/src/events/gcc2014/index.md).
+
+
+When: **Wednesday, July 2, 5:45pm**
+
+Where: **Multipurpose Room 324**
+
+Contact: [Dave Clements](/src/people/dave-clements/index.md)
 
 # Description
 
@@ -53,8 +49,8 @@ If you are interested, please add your name below and/or send an email to [Dave 
 
 * [Dave Clements](/src/people/dave-clements/index.md)
 * [Hans-Rudolf Hotz](/src/people/hansrudolf-hotz/index.md)
-* [Sebastian Schaaf](/src/SebastianSchaaf/index.md)
-* [Eric Rasche](/src/people/eric-rasche/index.md)
+* Sebastian Schaaf
+* [Helena Rasche](/src/people/helena-rasche/index.md)
 * [Dan Blankenberg](/src/people/dan/index.md)
 * Christine Walls
 * Alistair Chilcott
@@ -110,8 +106,8 @@ We investigated splitting the Galaxy-Dev [Mailing List](/src/mailing-lists/index
 
 Two items were implemented late in 2013:
 
-* [Galaxy Log Board](/src/community/logs/index.md): a place for linking to and/or describing experiences administering Galaxy.  These entries are dated, may not be particularly maintained once created.  And, more often then not, Log Board entries are just metadata, plus a link to an external resource on the web, such as a Wordpress page.
-* [Galaxy Deployment Catalog](/src/community/deployments/index.md): Describes how different Galaxy Servers are implemented.  This is a means for admins to learn what others have done to address particular types of demand and communities.  
+* Galaxy Log Board: (since moved to the [Galaxy Blog](/src/blog/index.md) a place for linking to and/or describing experiences administering Galaxy.  These entries are dated, may not be particularly maintained once created.  And, more often then not, Log Board entries are just metadata, plus a link to an external resource on the web, such as a Wordpress page.
+* [Galaxy Deployment Catalog](/src/community/deployment/index.md): Describes how different Galaxy Servers are implemented.  This is a means for admins to learn what others have done to address particular types of demand and communities.  
 
 # The GalaxyAdmins Group Itself
 
@@ -152,7 +148,7 @@ A significant percentage of attendees were not familiar with Galaxy's search eng
 
 ## Remedies
 
-Galaxy-Dev is going to remain a firehose of information.  The Galaxy Web Search and Galaxy Mailing List Search both make all Galaxy mailing lists (and the Galaxy Biostar forum) easily searchable.  They both use Google Custom Search.  They don't address the problem of finding the best answer buried in a long thread.
+Galaxy-Dev is going to remain a firehose of information.  The Galaxy Web Search and Galaxy Mailing List Search both make all Galaxy mailing lists (and the Galaxy Biostar, now  [help.galaxyproject.org](https://help.galaxyproject.org)) easily searchable.  They both use Google Custom Search.  They don't address the problem of finding the best answer buried in a long thread.
 
 The Galaxy-Announce list is a good resource for keeping up with what's new in Galaxy.  It only gets 3-5 emails per month.
 

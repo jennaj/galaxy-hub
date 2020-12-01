@@ -4,7 +4,7 @@ Maintaining a Galaxy instance is important to do, something that cannot be under
 
 ## Security Notices
 
-If you maintain a public instance of Galaxy it is recommended to sign up for the public servers [mailing list](https://lists.galaxyproject.org/listinfo/galaxy-public-servers) to receive security fixes with priority. Also consider adding your instance to the [public servers page](/src/public-galaxy-servers/index.md) so more people can discover it.
+If you maintain a [public instance of Galaxy](/src/use/index.md) it is recommended to sign up for the public servers [mailing list](https://lists.galaxyproject.org/lists/galaxy-public-servers.lists.galaxyproject.org/) to receive security fixes with priority. Also consider adding your instance to the [Galaxy Platform Directory](/src/use/index.md) so more people can discover it.
 
 ## General Update Procedures
 
@@ -14,6 +14,7 @@ Many admins update to each new release, though update frequency largely depends 
 1. Update code to the chosen release branch (release_17.01 here).
  * New Galaxy repository: `$ git clone -b release_17.01 https://github.com/galaxyproject/galaxy.git`
  * Update of existing repository: `$ git checkout release_17.01 && git pull --ff-only origin release_17.01`
+1. Run `./scripts/common_startup.sh` before restarting the server to update Galaxy's virtualenv
 1. (when prompted) Update Galaxy database
  * Backup Galaxy database (e.g. `pg_dump -U <username> <database> > galaxy-backup-$(date "+%s").sql`).
  * Migrate your DB with `sh manage_db.sh upgrade`.

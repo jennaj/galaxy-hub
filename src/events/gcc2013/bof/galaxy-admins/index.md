@@ -1,13 +1,11 @@
----
-title: [GalaxyAdmins](/src/community/galaxy-admins/index.md) BoF
----
+
 {{> Events/GCC2013/Header }}
-
-
 
 {{> Events/GCC2013/LinkBox }}
 {{> Events/GCC2013/BoF/LinkBox }}
 {{> Community/GalaxyAdmins/LinkBox }}
+
+# [GalaxyAdmins](/src/community/galaxy-admins/index.md) BoF
 
 <div class='left'><a href='/src/events/gcc2013/bof/index.md'><img src="/src/images/logos/GCC2013BoFLogo.png" alt="" width="160" /></a><br />
 <a href='/src/community/galaxy-admins/index.md'><img src="/src/images/logos/GalaxyAdmins.png" alt="GalaxyAdmins" width="160" /></a></div>
@@ -16,7 +14,7 @@ This page describes the **[GalaxyAdmins](/src/community/galaxy-admins/index.md)*
 
 [GalaxyAdmins](/src/community/galaxy-admins/index.md) is a group of people that are responsible for administering large Galaxy instances.  We [meet online every other month](/src/community/galaxy-admins/meetups/index.md) and at events like GCC2013, where a lot of us happen to be.
 
-GCC2013 coincides with the one year anniversary of GalaxyAdmins starting up and this is a good time to discuss the [future direction of the group](/src/community/galaxy-admins/future/index.md).  *This discussion has started in advance of GCC2013 as [this email thread](http://dev.list.galaxyproject.org/GalaxyAdmins-Group-Future-Directions-td4659133.html).* 
+GCC2013 coincides with the one year anniversary of GalaxyAdmins starting up and this is a good time to discuss the [future direction of the group](/src/community/galaxy-admins/future/index.md).  *This discussion has started in advance of GCC2013 as [this email thread](https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/thread/OYSHZXMDA72UD6LKDOCF636BKKGYEPIV/#MJNIDOKMJNQLAEES23UI5X6PIYPEHAWI).* 
 
 We plan to continue, and perhaps finish, that discussion at GCC2013, at this BoF session.  That discussion and what we decide will be posted on the [GalaxyAdmins Future page](/src/community/galaxy-admins/future/index.md).  However, the current talking points are:
 
@@ -47,7 +45,7 @@ If you are interested, please add your name below and/or send an email to [Dave 
 * [Graham Etherington](mailto:Graham dot Etherington AT tsl DOT ac DOT uk)
 * [Chris Bridson](mailto:Chris . Bridson AT nbi DOT ac DOT uk)
 * Scott Edmunds, GigaScience
-* [Steve McMahon, CSIRO, Australia](/src/SteveMcMahon/index.md)
+* Steve McMahon, CSIRO, Australia
 * Subazini Thankaswamy
 * Sebastian Schaaf
 * Calogero Zarbo
@@ -77,7 +75,7 @@ If you are interested, please add your name below and/or send an email to [Dave 
 1. We can be sure that some relevant postings would not have the tag
 2. Therefore people would have to subscribe to the full list anyway.
 
-If you still want this functionality, you are encouraged to configure your email software to tag anything with "[GalaxyAdmins](/src/GalaxyAdmins/index.md)" in it. 
+If you still want this functionality, you are encouraged to configure your email software to tag anything with "[GalaxyAdmins](/src/community/galaxy-admins/index.md)" in it. 
 </div>
 
 **Meetups:**
@@ -122,6 +120,6 @@ Leadership / Governance
 
 ## Questions?
 
-Send them to [Dave Clements](mailto:clemetns AT galaxyproject DOT org).
+Send them to [Dave Clements](mailto:clements AT galaxyproject DOT org).
 
-Please add any questions or discussion to the [Galaxy-Dev thread on the future of GalaxyAdmins](http://dev.list.galaxyproject.org/GalaxyAdmins-Group-Future-Directions-td4659133.html).
+Please add any questions or discussion to the [Galaxy-Dev thread on the future of GalaxyAdmins](https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/thread/OYSHZXMDA72UD6LKDOCF636BKKGYEPIV/#MJNIDOKMJNQLAEES23UI5X6PIYPEHAWI).

@@ -238,13 +238,13 @@ Over the rest of the few months there are many [Galaxy related events](/src/even
 
 * [HiBrowse: multi-purpose statistical analysis of genome-wide chromatin 3D organization](http://bit.ly/1r90Wil), by Paulsen, *et al.,* *Bioinformatics* (2014) 30 (11): 1620-1622. doi: 10.1093/bioinformatics/btu082 
 
-* [Osiris: accessible and reproducible phylogenetic and phylogenomic analyses within the Galaxy workflow management system](http://dx.doi.org/10.1186/1471-2105-15-230), by Todd H. Oakley, Markos A. Alexandrou, Roger Ngo, *et al.,* *BMC bioinformatics*, Vol. 15, No. 1. (2 July 2014), 230, doi:10.1186/1471-2105-15-230
+* [Osiris: accessible and reproducible phylogenetic and phylogenomic analyses within the Galaxy workflow management system](https://doi.org/10.1186/1471-2105-15-230), by Todd H. Oakley, Markos A. Alexandrou, Roger Ngo, *et al.,* *BMC bioinformatics*, Vol. 15, No. 1. (2 July 2014), 230, doi:10.1186/1471-2105-15-230
 
-* [QSAR-Based Models for Designing Quinazoline/Imidazothiazoles/Pyrazolopyrimidines Based Inhibitors against Wild and Mutant EGFR](http://dx.doi.org/10.1371/journal.pone.0101079), by Jagat S. Chauhan, Sandeep K. Dhanda, Deepak Singla, Subhash M. Agarwal, Gajendra P. S. Raghava, Open Source Drug Discovery Consortium, *PLoS ONE*, Vol. 9, No. 7. (3 July 2014), e101079, doi:10.1371/journal.pone.0101079
+* [QSAR-Based Models for Designing Quinazoline/Imidazothiazoles/Pyrazolopyrimidines Based Inhibitors against Wild and Mutant EGFR](https://doi.org/10.1371/journal.pone.0101079), by Jagat S. Chauhan, Sandeep K. Dhanda, Deepak Singla, Subhash M. Agarwal, Gajendra P. S. Raghava, Open Source Drug Discovery Consortium, *PLoS ONE*, Vol. 9, No. 7. (3 July 2014), e101079, doi:10.1371/journal.pone.0101079
 
-* [A Survey of Approaches and Frameworks to Carry Out Genomic Data Analysis on the Cloud](http://dx.doi.org/10.1109/ccgrid.2014.127), by Philip C. Church, Andrzej Goscinski, in "Cluster, Cloud and Grid Computing (CCGrid)", 2014 14th IEEE/ACM International Symposium on (May 2014), pp. 701-710, doi:10.1109/ccgrid.2014.127
+* [A Survey of Approaches and Frameworks to Carry Out Genomic Data Analysis on the Cloud](https://doi.org/10.1109/ccgrid.2014.127), by Philip C. Church, Andrzej Goscinski, in "Cluster, Cloud and Grid Computing (CCGrid)", 2014 14th IEEE/ACM International Symposium on (May 2014), pp. 701-710, doi:10.1109/ccgrid.2014.127
 
-* [Physiolyze: A Galaxy-based web service for Heart Rate Variability analysis with online processing](http://dx.doi.org/10.1109/esgco.2014.6847537), by Andrea Bizzego, Marco Mina, Calogero Zarbo, Gianluca Esposito, Cesare Furlanello, in "Cardiovascular Oscillations (ESGCO)," 2014 8th Conference of the European Study Group on (May 2014), pp. 97-98, doi:10.1109/esgco.2014.6847537
+* [Physiolyze: A Galaxy-based web service for Heart Rate Variability analysis with online processing](https://doi.org/10.1109/esgco.2014.6847537), by Andrea Bizzego, Marco Mina, Calogero Zarbo, Gianluca Esposito, Cesare Furlanello, in "Cardiovascular Oscillations (ESGCO)," 2014 8th Conference of the European Study Group on (May 2014), pp. 97-98, doi:10.1109/esgco.2014.6847537
 
 The new papers were tagged in many different areas:
 
@@ -321,11 +321,11 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Servers
 
-One new [public Galaxy server](/src/public-galaxy-servers/index.md) was added to the published list in July:
+One new [public Galaxy server](/src/use/index.md) was added to the published list in July:
 
 ## IM-PET
 
-<div class='right solid'><a href='http://impet.int-med.uiowa.edu/'><img src="/src/public-galaxy-servers/IM-PET.png" alt="IM-PET" width="300" /></a></div>
+<div class='right solid'><a href='http://impet.int-med.uiowa.edu/'><img src="/src/public-galaxy-servers/archive/im-pet.png" alt="IM-PET" width="300" /></a></div>
 
 * *Link:*
   * [IM-PET](http://impet.int-med.uiowa.edu/) 
@@ -354,21 +354,21 @@ Because this vulnerability allows for arbitrary code execution, administrators a
 
 # Galaxy Community Hubs
 
-<div class='left'>&nbsp;&nbsp; <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
-<div class='right'><a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
+<div class='left'>&nbsp;&nbsp; <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
+<div class='right'><a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
 <br />
 
 <table>
   <tr>
-    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </td>
+    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </td>
   </tr>
 </table>
 
 <br /><br />
 
-**There were no new [Log Board](/src/community/logs/index.md) or [Deployment Catalog](/src/community/deployments/index.md) entries in July!**  Eek!  Please don't let this happen again!  
+**There were no new [Log Board](/src/blog/index.md) or [Deployment Catalog](/src/community/deployment/index.md) entries in July!**  Eek!  Please don't let this happen again!  
 
-The *[Community Log Board](/src/community/logs/index.md)* and  *[Deployment Catalog](/src/community/deployments/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched last your.  If you have a [Galaxy deployment](/src/community/deployments/index.md), or [experience](/src/community/logs/index.md) you want to share then please publish them **this month.**
+The *[Community Log Board](/src/blog/index.md)* and  *[Deployment Catalog](/src/community/deployment/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched last your.  If you have a [Galaxy deployment](/src/community/deployment/index.md), or [experience](/src/blog/index.md) you want to share then please publish them **this month.**
 
 <div class='right'><br /><a href='http://toolshed.g2.bx.psu.edu/'><img src="/src/images/logos/ToolShed.jpg" alt="Galaxy ToolShed" width=150 /></a></div>
 

@@ -6,17 +6,14 @@ tease: Galaxy is for Plants and Animals too...
 continent: NA
 location: San Diego, California
 location_url: http://www.intlpag.org/
-gtn: y
+gtn: true
 contact: See web page
 image: PAG2017.png
 ---
-<div class="center"><a href='http://www.intlpag.org/'><img src="PAG2017.png" alt="Galaxy @ Plant and Animal Genome (PAG 2017)" height="130" /></a></div>
-
-<br />
 
 Galaxy will have a strong presence at [Plant and Animal Genome XXIV (PAG 2017)](http://www.intlpag.org/), being held in San Diego, California, United States, January 14-18.  There is something (and often many things) every day of the conference.
 
-<table class="table table-striped">
+<table class="table">
   <tr class="th" >
     <th> Date </th>
     <th> Time </th>
@@ -29,7 +26,7 @@ Galaxy will have a strong presence at [Plant and Animal Genome XXIV (PAG 2017)](
     <th> Saturday<br />January 14 </th>
     <td style=" text-align: center;"> 4:00-4:15 </td>
     <td> <a href="https://pag.confex.com/pag/xxv/meetingapp.cgi/Paper/26172">Data Stewardship in the Life Sciences</a> </td>
-    <td> <a hef="https://pag.confex.com/pag/xxv/meetingapp.cgi/Session/4171">Challenges and Opportunities in Plant Science Data Management</a>, Pacific Salon 4-5</td>
+    <td> <a href="https://pag.confex.com/pag/xxv/meetingapp.cgi/Session/4171">Challenges and Opportunities in Plant Science Data Management</a>, Pacific Salon 4-5</td>
     <td> </td>
     <td> Robert Davey </td>
   </tr>
@@ -137,7 +134,8 @@ Galaxy will have a strong presence at [Plant and Animal Genome XXIV (PAG 2017)](
     <td style=" text-align: center;"> 1:35-2:00 </td>
     <td> <a href='https://pag.confex.com/pag/xxv/meetingapp.cgi/Paper/25649'>Galaxy Community Update</a> </td>
     <td> <a href='https://pag.confex.com/pag/xxv/meetingapp.cgi/Session/4229'>GMOD</a>, Golden West </td>
-    <td>  </td>
+    <td> [Slides](https://depot.galaxyproject.org/hub/attachments/documents/presentations/2017-pag-gmod-community-update.pdf)
+  </td>
     <td> <a href='/src/people/dave-clements/index.md'>Dave Clements</a> </td>
   </tr>
   <tr>

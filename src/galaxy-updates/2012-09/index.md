@@ -52,7 +52,7 @@ These papers may be of interest to the Galaxy community:
 
 * "[Next-generation sequencing data interpretation: enhancing reproducibility and accessibility](http://www.nature.com/nrg/journal/v13/n9/abs/nrg3305.html)", by [Nekrutenko](/src/people/anton/index.md) & [Taylor](/src/people/james-taylor/index.md), *[Nature Reviews Genetics](http://www.nature.com/nrg/index.html)*, 13, 667-672 (September 2012)
 
-* "[IBDsite: a Galaxy-interacting, integrative database for supporting Inflammatory Bowel Disease high throughput data analysis](http://dx.doi.org/10.1186/1471-2105-13-S14-S5)", by Merelli, Viti, Milanesi, *BMC Bioinformatics*, Vol. 13, No. Suppl 14. (2011), S5
+* "[IBDsite: a Galaxy-interacting, integrative database for supporting Inflammatory Bowel Disease high throughput data analysis](https://doi.org/10.1186/1471-2105-13-S14-S5)", by Merelli, Viti, Milanesi, *BMC Bioinformatics*, Vol. 13, No. Suppl 14. (2011), S5
 
 * "[Data Mining as a Discovery Tool for Imprinted Genes Genomic Imprinting](http://rd.springer.com/protocol/10.1007/978-1-62703-011-3_7)", by  Chelsea Brideau, Paul Soloway, *[Methods in Molecular Biology](http://www.springerlink.com/content/1064-3745/)*, Vol. 925 (2012)
 
@@ -62,7 +62,7 @@ These papers were among [46 papers added to the Galaxy CiteULike group](http://w
 
 ## New Public Servers
 
-*Three* new publicly accessible Galaxy servers were added to the [Public Galaxy Servers](/src/public-galaxy-servers/index.md) page in August:
+*Three* new publicly accessible Galaxy servers were added to the [Public Galaxy Servers](/src/use/index.md) page in August:
 
 
 | Server |  Purpose / Community  |  Other Comments  |  Restrictions  |  Sponsor  | 
@@ -232,12 +232,12 @@ The workshop is part of the SyBIT Tech Day series.
 
 ## New Galaxy-France Mailing List
 
-<div class='right'><a href='http://france.list.galaxyproject.org/'><img src="/src/images/logos/GalaxyFranceListSearch.png" alt="Galaxy-France Mailing List"  /></a></div>
+<div class='right'><a href='https://lists.galaxyproject.org/archives/list/galaxy-france@lists.galaxyproject.org/'><img src="/src/images/logos/GalaxyFranceListSearch.png" alt="Galaxy-France Mailing List"  /></a></div>
 
 A new mailing list has been launched, specifically for the French Galaxy Community:
-* [Liste de diffusion Galaxy France](http://france.list.galaxyproject.org/)
+* [Liste de diffusion Galaxy France](https://lists.galaxyproject.org/lists/galaxy-france.lists.galaxyproject.org/)
 
-This list is intended to communicate and share our experiences with Galaxy in France. The official language of this list is French.  See the [list announcement](/src/news/liste-de-diffusion-galaxy-france/index.md), [list archive](http://france.list.galaxyproject.org/) and [list subscription page](https://lists.galaxyproject.org/listinfo/galaxy-france) for more.  Postings to the list will be integrated into [Galaxy search](/src/search/index.md).
+This list is intended to communicate and share our experiences with Galaxy in France. The official language of this list is French.  See the [list announcement](/src/news/liste-de-diffusion-galaxy-france/index.md), [list archive](https://lists.galaxyproject.org/archives/list/galaxy-france@lists.galaxyproject.org/) and [list subscription page](https://lists.galaxyproject.org/lists/galaxy-france.lists.galaxyproject.org/) for more.  Postings to the list will be integrated into [Galaxy search](/src/search/index.md).
 
 ## Tool Shed Contributions
 

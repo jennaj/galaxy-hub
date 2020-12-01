@@ -18,19 +18,19 @@ Welcome to the March 2015 *[Galaxy Update](/src/galaxy-updates/index.md)*, a sum
 
 82 new papers referencing, using, extending, and implementing Galaxy were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in February. Some highlights:
 
-* [Multi-omic data analysis using Galaxy](http://dx.doi.org/10.1038/nbt.3134)
+* [Multi-omic data analysis using Galaxy](https://doi.org/10.1038/nbt.3134)
     Jorrit Boeke, [John M Chilton](/src/people/john-chilton/index.md), Ira R Cooke, Peter L Horvatovich, Pratik D Jagtap, Lukas Käll, Janne Lehtiö, Pieter Lukasse, Perry D Moerland & Timothy J Griffin, *Nature Biotechnology*, Vol. 33, No. 2. (6 February 2015)
 
-* [Online Resources for Genomic Analysis Using High-Throughput Sequencing](http://dx.doi.org/10.1101/pdb.top083667)
+* [Online Resources for Genomic Analysis Using High-Throughput Sequencing](https://doi.org/10.1101/pdb.top083667)
     [Daniel Blankenberg](/src/people/dan/index.md), [James Taylor](/src/people/james-taylor/index.md), [Anton Nekrutenko](/src/people/anton/index.md),  *Cold Spring Harbor Protocols* (05 February 2015), doi:10.1101/pdb.top083667
 
-* [Selected Approaches and Frameworks to Carry out Genomic Data Analysis on the Cloud](http://dx.doi.org/10.12694/scpe.v16i1.1058)
+* [Selected Approaches and Frameworks to Carry out Genomic Data Analysis on the Cloud](https://doi.org/10.12694/scpe.v16i1.1058)
     Philip Church, Andrzej Goscinski, *Scalable Computing: Practice and Experience*, Vol. 16, No. 1. (07 February 2015), doi:10.12694/scpe.v16i1.1058
 
-* [Data Interlocking: Coupling Analytics to the Data](http://dx.doi.org/10.1109/ucc.2014.113)
+* [Data Interlocking: Coupling Analytics to the Data](https://doi.org/10.1109/ucc.2014.113)
     Yousef Kowsar, Harriet Dashnow, Andrew Lonie, in Utility and Cloud Computing (UCC), 2014 IEEE/ACM 7th International Conference on (December 2014), pp. 696-701, doi:10.1109/ucc.2014.113
 
-* [A Quick Guide for Building a Successful Bioinformatics Community](http://dx.doi.org/10.1371/journal.pcbi.1003972)
+* [A Quick Guide for Building a Successful Bioinformatics Community](https://doi.org/10.1371/journal.pcbi.1003972)
     Aidan Budd, Manuel Corpas, Michelle D. Brazas, Jonathan C. Fuller, [Jeremy Goecks](/src/people/jeremy-goecks/index.md), Nicola J. Mulder, Magali Michaut, B. F. Francis Ouellette, Aleksandra Pawlik, Niklas Blomberg, *PLoS Computational Biology*, Vol. 11, No. 2. (5 February 2015), e1003972, doi:10.1371/journal.pcbi.1003972
 
 * [Draft sequencing and assembly of the genome of the world’s largest fish, the whale shark: Rhincodon typus Smith 1828](https://peerj.com/preprints/837/)
@@ -197,7 +197,7 @@ A hands-on, 4 day workshop on *[RNA-Seq and ChIP-Seq Analysis with Galaxy](http:
 
 [Video and slides](/src/community/galaxy-admins/meetups/2015-02-19/index.md) from the first [GalaxyAdmins](/src/community/galaxy-admins/index.md) [meetup of 2015](/src/community/galaxy-admins/meetups/2015-02-19/index.md) are now available online. 
 
-[Hans-Rudolf Hotz](/src/people/hansrudolf-hotz/index.md) also lead a short discussion on *[GalaxyAdmins](/src/GalaxyAdmins/index.md) direction*.
+[Hans-Rudolf Hotz](/src/people/hansrudolf-hotz/index.md) also lead a short discussion on *[GalaxyAdmins](/src/community/galaxy-admins/index.md) direction*.
 
 [GalaxyAdmins](/src/community/galaxy-admins/index.md) is a special interest group for Galaxy community members who are responsible for Galaxy installations.  Our next meetup will be in April.
 
@@ -232,13 +232,13 @@ There are [upcoming events](/src/events/index.md) in 7 countries on 4 continents
   <tr>
     <th> March 2 </th>
     <td> <em><a href='http://www.qfab.org/event/workshop-rna-seq-analysis-using-galaxy/'>RNA-Seq analysis using Galaxy</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#qfab-bioinformatics'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
     <td> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
   </tr>
   <tr>
     <th> March 2-3 </th>
     <td> <em><a href='http://www.irb.hr/eng/Research/Divisions-and-Centers/Centre-for-Informatics-and-Computing/News/FREE-Workshop-Bioinformatics-Methods-in-Genomics'>Workshop on Bioinformatics Methods in Genomics</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#ruđer-bošković-institute-rbi'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.irb.hr/eng'>RBI</a>, Zagreb, Croatia </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.irb.hr/eng'>RBI</a>, Zagreb, Croatia </td>
     <td> <a href='/src/people/enis-afgan/index.md'>Enis Afgan</a> </td>
   </tr>
   <tr>
@@ -272,7 +272,7 @@ There are [upcoming events](/src/events/index.md) in 7 countries on 4 continents
   <tr>
     <th> April 20-21 </th>
     <td> <em><a href='http://www.qfab.org/event/workshop-extended-rna-seq-analysis-2/'>Workshop: Extended RNA-Seq analysis</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#qfab-bioinformatics'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
     <td> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
   </tr>
   <tr>
@@ -297,7 +297,7 @@ There are [upcoming events](/src/events/index.md) in 7 countries on 4 continents
   <tr>
     <th> April 27 - May 3 </th>
     <td> <em><a href='http://bioinformatics.ca/workshops/2015/high-throughput-biology-sequence-networks-2015'>High-throughput Biology: From Sequence to Networks 2015</a></em> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#bioinformaticsca'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> New York City, New York, United States </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div> New York City, New York, United States </td>
     <td> <a href='http://bioinformatics.ca/person/cbw-experts/francis-ouellette'>Francis Ouellette</a> </td>
   </tr>
   <tr>
@@ -313,7 +313,7 @@ There are [upcoming events](/src/events/index.md) in 7 countries on 4 continents
   <tr>
     <th> July 6-8 </th>
     <td> <strong><a href='http://gcc2015.tsl.ac.uk/'>2015 Galaxy Community Conference (GCC2015)</a></strong> </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div>   <a href='http://www.tsl.ac.uk/'>The Sainsbury Lab</a>, <a href='http://www.visitnorwich.co.uk/'>Norwich</a>, United Kingdom </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Training offered by GTN Member" width="16" /></a></div>   <a href='http://www.tsl.ac.uk/'>The Sainsbury Lab</a>, <a href='http://www.visitnorwich.co.uk/'>Norwich</a>, United Kingdom </td>
     <td> <a href="mailto:outreach@galaxyproject.org">Galaxy Outreach</a> </td>
   </tr>
 </table>
@@ -321,8 +321,8 @@ There are [upcoming events](/src/events/index.md) in 7 countries on 4 continents
 
 <table>
   <tr>
-    <td style=" border: none;"> <a href='/src/teach/trainers/index.md'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
-    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='/src/teach/trainers/index.md'>Designates a training event offered by GTN member(s)</a> </span> </td>
+    <td style=" border: none;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
+    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='https://training.galaxyproject.org/'>Designates a training event offered by GTN member(s)</a> </span> </td>
   </tr>
 </table>
 
@@ -350,11 +350,11 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Servers
 
-One new [public Galaxy servers](/src/public-galaxy-servers/index.md) was added in February:
+One new [public Galaxy servers](/src/use/index.md) was added in February:
 
 ## Whale Shark
 
-<div class='right solid'><a href='http://whaleshark.georgiaaquarium.org/'><img src="/src/public-galaxy-servers/WhaleSharkLanding300.png" alt="Whale Shark Galaxy @ The Georgia Aquarium" width=300 /></a></div>
+<div class='right solid'><a href='http://whaleshark.georgiaaquarium.org/'><img src="/src/public-galaxy-servers/archive/whate-shark-landing-300.png" alt="Whale Shark Galaxy @ The Georgia Aquarium" width=300 /></a></div>
 
 * *Link:*
   * [Whale Shark Galaxy](http://whaleshark.georgiaaquarium.org/)
@@ -362,7 +362,7 @@ One new [public Galaxy servers](/src/public-galaxy-servers/index.md) was added i
   * "Dedicated to the analysis of whale shark *(Rhincodon typus)* genome."
 * *Comments:*
   * See:
-    [Draft sequencing and assembly of the genome of the world’s largest fish, the whale shark: Rhincodon typus Smith 1828](https://peerj.com/preprints/837/), Read TD, Petit III RA, Joseph SJ, Alam MT, RW, Ahmad M, Bhimani R, Vuong JS, Haase CP, Webb H, Dove ADM. (2015). *[PeerJ PrePrints](https://peerj.com/preprints/)* 3:e1036 http://dx.doi.org/10.7287/peerj.preprints.837v1
+    [Draft sequencing and assembly of the genome of the world’s largest fish, the whale shark: Rhincodon typus Smith 1828](https://peerj.com/preprints/837/), Read TD, Petit III RA, Joseph SJ, Alam MT, RW, Ahmad M, Bhimani R, Vuong JS, Haase CP, Webb H, Dove ADM. (2015). *[PeerJ PrePrints](https://peerj.com/preprints/)* 3:e1036 https://doi.org/10.7287/peerj.preprints.837v1
 * *User Support:*
 * *Quotas:* 
   * Max file size to upload: 2 GB
@@ -376,14 +376,14 @@ One new [public Galaxy servers](/src/public-galaxy-servers/index.md) was added i
 <div class='solid'>
 <table>
   <tr>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/teach/index.md'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
   </tr>
   <tr>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your <a href='/src/teach/resources/index.md#add-a-training-resource'>training resources</a> and <a href='/src/teach/trainers/index.md#add-a-trainer'>experience</a> <em>now</em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your training resources and experience <em>now</em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md#add-a-log-page'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </strong> </td>
   </tr>
 </table>
 
@@ -391,11 +391,11 @@ One new [public Galaxy servers](/src/public-galaxy-servers/index.md) was added i
 
 <br />
 
-Two new [Community Log Board](/src/community/logs/index.md) entires were added in February:
+Two new [Community Log Board](/src/blog/index.md) entires were added in February:
 
-* [FTP upload to Galaxy using ProFTPd and PBKDF2](/src/community/log/2015/proftpd-and-pbkdf2/index.md)
+* [FTP upload to Galaxy using ProFTPd and PBKDF2](http://galacticengineer.blogspot.co.uk/2015/02/ftp-upload-to-galaxy-using-proftpd-and.html)
   * ProFTPd implemented using PBKFD2 protocol for encryption, by [Peter Briggs](http://www.ls.manchester.ac.uk/people/profile/?alias=briggsp)
-* [Instalando um servidor do Galaxy Project](/src/community/log/2015/instalando-servidor-galaxy/index.md)
+* Instalando um servidor do Galaxy Project
   * Portuguese Galaxy Documentation, by [Léo Biscassi](https://biscassi.wordpress.com/quem-sou-eu/)
 
 
@@ -413,7 +413,7 @@ More information available in [Develop/SourceCode](/src/develop/source-code/inde
 
 ## Galaxy 2015-01-13 Distribution
 
-The most recent Galaxy release was the [2015-01-13 distribution](/src/archive/dev-news-briefs/2015-01-13/index.md).  This addressed several *[critical security vulnerabilities](/src/archive/dev-news-briefs/2015-01-13/index.md#security)*, added [IPython integration](/src/archive/dev-news-briefs/2015-01-13/index.md#ipython_integration), and included a [Tool Form Upgrade for Beta Testing](/src/archive/dev-news-briefs/2015-01-13/index.md#tool_form_upgrade_28for_beta_testing29).
+The most recent Galaxy release was the [2015-01-13 distribution](/src/archive/dev-news-briefs/2015-01-13/index.md).  This addressed several *[critical security vulnerabilities](/src/archive/dev-news-briefs/2015-01-13/index.md#security)*, added [IPython integration](/src/archive/dev-news-briefs/2015-01-13/index.md#ipython-integration), and included a [Tool Form Upgrade for Beta Testing](/src/archive/dev-news-briefs/2015-01-13/index.md#tool-form-upgrade-for-beta-testing).
 
 ## Planemo 0.5.0
 
@@ -421,7 +421,7 @@ There were several releases of [Planemo](https://github.com/galaxyproject/planem
 
 ## BioBlend
 
-[BioBlend v0.5.2 was released in October](/src/news/bio-blend-v0.5.2/index.md).  [BioBlend](https://github.com/galaxyproject/bioblend) is a python library for interacting with CloudMan and the [Galaxy API](/src/learn/api/index.md).  In January the [BioBlend source](https://github.com/galaxyproject/bioblend) was moved to the [galaxyproject Github account](https://github.com/galaxyproject).
+[BioBlend v0.5.2 was released in October](/src/news/bio-blend-v0.5.2/index.md).  [BioBlend](https://github.com/galaxyproject/bioblend) is a python library for interacting with CloudMan and the [Galaxy API](/src/develop/api/index.md).  In January the [BioBlend source](https://github.com/galaxyproject/bioblend) was moved to the [galaxyproject Github account](https://github.com/galaxyproject).
 
 ## CloudMan and blend4j
 

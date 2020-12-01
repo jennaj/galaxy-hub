@@ -1,6 +1,13 @@
 ---
 title: Custom Genomes
 ---
+
+[Support Hub](/src/support/index.md)
+
+[Learning Hub](/src/learn/index.md)
+
+---
+
 # What is a "Custom Reference Genome" ?
 
 A reference genome contains the nucleotide sequence of the chromosomes, scaffolds, transcripts, or contigs for a single species. It is representative of a specific genome build or release. 
@@ -13,7 +20,7 @@ In [Galaxy](http://usegalaxy.org), a **custom reference genome** is a [FASTA](/s
 
 There are **five basic steps** to using a *Custom Reference Genome*:
 * Obtain a **[FASTA](/src/learn/datatypes/index.md#fasta) copy of the target genome**
-* **[FTP](/src/FTPUpload/index.md) the genome to Galaxy** and load into a history as a [dataset](/src/learn/index.md#datasets)
+* **[FTP](/src/ftp-upload/index.md) the genome to Galaxy** and load into a history as a [dataset](/src/learn/index.md#datasets)
 * **Clean up the format** with the tool **NormalizeFasta** using the options to wrap sequence lines at 80 bases and to trim the title line at the first whitespace. 
 * Make sure the [chromosome identifiers](https://galaxyproject.org/support/chrom-identifiers) are a match for other inputs
 * **Set a tool form's options to use a custom reference genome from the history** and select the loaded genome
@@ -27,7 +34,7 @@ There are **five basic steps** to using a *Custom Reference Genome*:
 
 # Sources
 
-* UCSC, Ensembl, NCBI[/GenBank](/src/learn/custom-genomes/GenBank/index.md)
+* UCSC, Ensembl, NCBI/GenBank
 * Other Research project associated with specific genome projects
 * Internal research projects
 * Selected genomes can be found in "Data Libraries" on [Main](/src/main/index.md) for use at [http://usegalaxy.org](http://usegalaxy.org). Example: **hg19** is available for GATK under that sub-directory.
@@ -41,11 +48,11 @@ There are **five basic steps** to using a *Custom Reference Genome*:
 
 # Custom Builds
 
-Some tools and functions require that the ['database' attribute is assigned](/src/support/index.md#tool_doesn27t_recognize_dataset) or that a Custom Reference Genome is set up as a *Custom Build* prior to use. Examples are the tool **Extract Genomic DNA**, certain **Picard** tools, and the function **Visualization**. 
+Some tools and functions require that the ['database' attribute is assigned](/src/support/datatypes-and-tools/index.md) or that a Custom Reference Genome is set up as a *Custom Build* prior to use. Examples are the tools **Featurecounts**, **Extract Genomic DNA**, certain **Picard** tools, and the functions under  **Visualization**. 
 
 Once created, a *Custom Build* is added to the list **Database/Build:** on the dataset 'Edit Attributes' and 'Upload File' tool forms and is available for 'Visualizations'. These can be assigned or used just like any other reference genome. 
 
-* Start with an existing fasta Custom Reference Genome in your history
+* Start with an existing fasta Custom Reference Genome in your history. It is *very important* make sure the [format](/src/learn/custom-genomes/#format) is correct.
 * Go to the top "User" menu and select "Custom Builds"
 * Enter in the labels (no spaces and no special characters other than "_")
 * Select the fasta Custom Reference Genome
@@ -84,7 +91,7 @@ If a custom genome dataset is producing errors, double check the format and that
 ### 2. Incomplete Custom genome file load
   * **Symptoms include**: Tool errors result the first time you use the Custom genome.
   * **Solution**: Use <strong>Text Manipulation &rarr; Select last lines from a dataset</strong> to check last 10 lines to see if file is truncated.
-  * **How**: Reload the dataset (switch to <strong><a href='/src/FTPUpload/index.md'>FTP</a></strong> if not using already). Check your FTP client logs to make sure the load is complete.
+  * **How**: Reload the dataset (switch to <strong><a href='/src/ftp-upload/index.md'>FTP</a></strong> if not using already). Check your FTP client logs to make sure the load is complete.
 
 ### 3. Extra spaces, extra lines, inconsistent line wrapping, or any deviation from strict <a href='/src/learn/datatypes/index.md#fasta'>FASTA</a> format
   * **Symptoms include**: RNA-seq tools (<strong>Cufflinks, Cuffcompare, Cuffmerge, Cuffdiff</strong>) fails with error <code>Error: sequence lines in a FASTA record must have the same length!</code>.
@@ -112,7 +119,7 @@ If a custom genome dataset is producing errors, double check the format and that
 ### 7. Unassigned database
   * **Symptoms include**: Tools report that no build is available for the assigned reference genome.
   * **Solution** This occurs with tools that require an assigned <em>database</em> metadata attribute. **SAMTools** and **Picard** often require this assignment.
-  * **How**: Create a <a href='/src/learn/custom-genomes/index.md#custom_builds'>Custom Build</a> and assign it to the dataset 
+  * **How**: Create a <a href='/src/learn/custom-genomes/index.md#custom-builds'>Custom Build</a> and assign it to the dataset 
 
 # A problem or not a problem?
 Certain job errors with RNA-seq tools can at first appear to look like a format problem with a custom reference genome, but are actually a bit more complicated...

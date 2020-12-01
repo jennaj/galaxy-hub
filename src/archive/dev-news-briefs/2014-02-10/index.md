@@ -1,6 +1,8 @@
 ---
-title: February 10, 2014 Galaxy Distribution News Brief
+title: Development News Brief
+date: 2014-02-10
 ---
+
 [All News Briefs](/src/docs/index.md)
 <br />
 [Distribution Summary 2014_02_10](/src/news/2014-02-10-galaxy-distribution/index.md)
@@ -62,7 +64,7 @@ As in prior releases, Galaxy tool migration framework has been enhanced so that 
 <br />
 # Tools & Data
 
-1. *[GenomeSpace](/src/genome-space/index.md)*: Improved import when initiated from within Galaxy. https://trello.com/c/maFhnXpN
+1. *GenomeSpace*: Improved import when initiated from within Galaxy. https://trello.com/c/maFhnXpN
 1. *[DataProviders](/src/data-providers/index.md)*: See http://wiki.galaxyproject.org[/DataProviders](/src/archive/dev-news-briefs/2014-02-10/DataProviders/index.md) https://trello.com/c/Qic2fVPE
 1. *Cuffdiff*: A read_group.info dataset is now included in the output. https://trello.com/c/FdUYdbIn
 

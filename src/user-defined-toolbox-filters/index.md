@@ -1,12 +1,13 @@
 ---
 title: User Defined Toolbox Filters
+highlight: true
 ---
-This feature is available as of the November 2013 Galaxy distribution, being originally incorporated from Pull Request [#179](https://bitbucket.org/galaxy/galaxy-central/pull-request/179/implement-the-ability-to-change-the-tool)
 
 [ToolBox](/src/ToolBox/index.md) filters can be applied by an admin and/or by an user dynamically to filter the large list of tools.
 
-<!> 
-Filters will only hide Tools from the User Interface, they are still available and can be made visible by means of HTML manipulation. That said these feature is not a security feature, it is intended to separate multiple groups of Tools and simplify the ToolBox. 
+<div class="alert alert-info" role="alert">
+Filters will only hide Tools from the User Interface, they are still available and can be made visible by means of HTML manipulation. That said this is not a security feature, it is intended to separate multiple groups of Tools and simplify the ToolBox. 
+</div>
 
 ## For Users
 
@@ -24,8 +25,8 @@ If you do not see any filters to choose (like in the following image) your admin
 
 Two types of filters exist:
 
-1. tool_* filters will be applied for all users and can not be changed by users. Useful for example to hide some tools for some users/groups
-2. user_tool_* filters will be shown under user preferences and can be toggled on and off by runtime from all users. Useful to offer specialized sets of tools for separate analysis.
+1. `tool_*` filters will be applied for all users and can not be changed by users. Useful for example to hide some tools for some users/groups
+2. `user_tool_*` filters will be shown under user preferences and can be toggled on and off by runtime from all users. Useful to offer specialized sets of tools for separate analysis.
 
 Every filter is a small python function under lib/galaxy/tools/filters/. Each function needs to be added to the config/galaxy.ini file (examples are already listed).
 
@@ -178,3 +179,7 @@ def restrict_prims_metabolomics( context, tool ):
         # return true for any other tool
         return True
 ```
+
+### Note
+
+This feature is available as of the November 2013 Galaxy distribution, being originally incorporated from Pull Request [#179](https://bitbucket.org/galaxy/galaxy-central/pull-request/179/implement-the-ability-to-change-the-tool)

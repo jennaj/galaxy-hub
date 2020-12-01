@@ -8,11 +8,9 @@ Welcome to the October 2014 *[Galaxy Update](/src/galaxy-updates/index.md)*, a s
 # Galaxy Needs Your Input!
 
 The Galaxy Project is preparing for our next grant cycle and we are seeking your feedback and comments on on all things Galaxy.  There are two questionnaires, each with a different focus, based on how you interact with Galaxy:
-**
+
 1. [Galaxy User Questionnaire](https://docs.google.com/forms/d/1NT3ma2g7rR-mWA_vgOg2Ia_6VTFiZ86um2JhX2SecCk/formResponse)
 1. [Galaxy Admin, Tool Developer, and Galaxy Developer Questionnaire](https://docs.google.com/forms/d/1lszXJ2lDJ2dYCWKXBk1qT1jO7XdDDfxXmGRCUMZFX2U/viewform)
-
-**
 
 Please take a few minutes and fill out whichever surveys apply to you.  The questionnaires are structured so you can skip topics that don't apply to you, and every question is optional.
 
@@ -52,7 +50,7 @@ Galaxy had a strong presence at [ECCB'14](/src/events/eccb2014/index.md).  Galax
 
 There are [upcoming events](/src/events/index.md) in Switzerland, Germany, Australia, Norway, France, Italy, and the United States.  See the [Galaxy Events Google Calendar](http://bit.ly/gxycal) for details on other events of interest to the community.
 
-<table>
+<table class="table">
   <tr class="th" >
     <th> Date </th>
     <th> Topic/Event </th>
@@ -155,7 +153,7 @@ The [Galaxy CiteULike library](http://bit.ly/gxyCiteULike) of publications reach
 
 The new papers were tagged in many different areas:
 
-<table>
+<table class="table">
   <tr>
     <th> # </th>
     <th> Tag </th>
@@ -230,11 +228,11 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Servers
 
-Two new [public Galaxy server](/src/public-galaxy-servers/index.md) was added to the published list in September:
+Two new [public Galaxy server](/src/use/index.md) was added to the published list in September:
 
 ## GalaxEast
 
-<div class='right solid'><a href='http://www.galaxeast.fr'><img src="/src/public-galaxy-servers/GalaxEast.png" alt="GalaxEast"  /></a></div>
+<div class='right solid'><a href='http://www.galaxeast.fr'><img src="/src/use/galaxeast/galaxeast.png" alt="GalaxEast"  /></a></div>
 
 [GalaxEast](http://www.galaxeast.fr) aims at providing a large range of bioinformatics tools for the analysis of various types of Omics data. It supports reproducible computational research by providing an environment for performing and recording bioinformatics analyses.
 
@@ -249,7 +247,7 @@ See *[GalaxEast: an open and powerful Galaxy instance for integrative Omics data
 
 ## MIRPIPE
 
-<div class='right solid'><a href='https://bioinformatics.mpi-bn.mpg.de/'><img src="/src/public-galaxy-servers/MIRPIPEHomePage.png" alt="MIRPIPE - the miRNA identification pipeline" width="300" /></a></div>
+<div class='right solid'><a href='https://bioinformatics.mpi-bn.mpg.de/'><img src="/src/use/archive/mpi-hlr-bioinformatics-server/mirpipe-home-page.png" alt="MIRPIPE - the miRNA identification pipeline" width="300" /></a></div>
 
 [MIRPIPE](https://bioinformatics.mpi-bn.mpg.de/) focuses on quantification of microRNA based on smallRNA sequencing reads.  From the home page:
  In opposition to present algorithms that generally rely on genomic data to identify miRNAs, MIRPIPE focuses on niche model organisms that lack such information. Among the MIRPIPE features are automatic trimming and adapter removal of raw RNA-Seq reads originating from various sequencing instruments, clustering of isomiRs, and quantification of detected miRNAs by homology search versus public or user uploaded reference databases.
@@ -258,25 +256,25 @@ See "[MIRPIPE – quantification of microRNAs in niche model organisms](http://b
 
 # Galaxy Community Hubs
 
-<div class='left'>&nbsp;&nbsp; <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
-<div class='right'><a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
+<div class='left'>&nbsp;&nbsp; <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
+<div class='right'><a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
 <br />
 
 <table>
   <tr>
-    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </td>
+    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </td>
   </tr>
 </table>
 
 <br /><br />
 
 <div class='left'><br />
-<a href='/src/community/log/2014/galaxy-on-bio-linux8/index.md'><img src="/src/images/logos/EOS.gif" alt="Overview of Galaxy on Bio-Linux 8" width="100" /></a>
+<a href='http://environmentalomics.org/bio-linux-galaxy/'><img src="/src/images/logos/EOS.gif" alt="Overview of Galaxy on Bio-Linux 8" width="100" /></a>
 </div>
 
-The [deployment details](/src/community/deployment/galax-east/index.md) for the [GalaxEast public server](/src/public-galaxy-servers/index.md#galaxeast) were posted in September.  Tracey Timms-Wilson's (of the [NERC Environmental 'Omics Synthesis Centre](http://environmentalomics.org/)) [Overview of Galaxy on Bio-Linux 8](http://environmentalomics.org/bio-linux-galaxy/) page was also added to the [Community Log Board](/src/community/logs/index.md).
+The [deployment details](/src/community/deployment/galax-east/index.md) for the [GalaxEast public server](/src/use/galaxeast/index.md) were posted in September.  Tracey Timms-Wilson's (of the [NERC Environmental 'Omics Synthesis Centre](http://environmentalomics.org/)) [Overview of Galaxy on Bio-Linux 8](http://environmentalomics.org/bio-linux-galaxy/) page was also added to the [Community Log Board](/src/blog/index.md).
 
-The *[Deployment Catalog](/src/community/deployments/index.md)* and *[Community Log Board](/src/community/logs/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched in 2013.  If you have a [Galaxy deployment](/src/community/deployments/index.md), or [experience](/src/community/logs/index.md) you want to share then please publish them **this month.**
+The *[Deployment Catalog](/src/community/deployment/index.md)* and *[Community Log Board](/src/blog/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched in 2013.  If you have a [Galaxy deployment](/src/community/deployment/index.md), or [experience](/src/blog/index.md) you want to share then please publish them **this month.**
 
 <div class='right'><br /><a href='http://toolshed.g2.bx.psu.edu/'><img src="/src/images/logos/ToolShed.jpg" alt="Galaxy ToolShed" width=150 /></a></div>
 
@@ -390,6 +388,6 @@ In no particular order:
 * Updated [wiki page about dynamically discovering output datasets at runtime](/src/admin/tools/multiple-output-files/index.md#number-of-output-datasets-cannot-be-determined-until-tool-run). 
 * The [Ansible playbook used to update usegalaxy.org](https://github.com/galaxyproject/usegalaxy-playbook) is available in GitHub.
 * New [GVL Galaxy Release](https://genome.edu.au/wiki/GVL): Metagenomics Tutorial tools, MACS2, BLAST, MEME, hg38, rn6, and Trinity.
-* [Galaxy Community UK](http://galaxy-community.org.uk/) launches at Twitter channel: [@GalaxyUKFriends](https://twitter.com/GalaxyUKFriends)
+* Galaxy Community UK launches a Twitter channel: [@GalaxyUKFriends](https://twitter.com/GalaxyUKFriends)
 * [BOSC 2015 will be in Dublin with ISMB/ECCB 2015](http://news.open-bio.org/news/2014/09/bosc-2015-will-be-in-dublin/).  *We should have voted more often!*
 * [Supporting Enhanced Reproducibility for Platforms like Galaxy](https://github.com/Homebrew/homebrew-science/issues/1191), discussion on [GitHub](https://github.com/Homebrew/homebrew-science/issues/1191).

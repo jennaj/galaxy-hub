@@ -1,5 +1,6 @@
 ---
-title: August 30, 2011 Galaxy Development News Brief
+title: Development News Brief
+date: 2011-08-30
 ---
 ## Get Galaxy
 
@@ -45,7 +46,7 @@ And there is now an updated [Galaxy](http://galaxyproject.org) article on Wikipe
   * [Outreach](/src/outreach/index.md)
 * *Public Galaxy Servers*: A list of publicly available Galaxy servers.
     If you have one, please add it to the list.
-      [PublicGalaxyServers](/src/public-galaxy-servers/index.md)
+      [PublicGalaxyServers](/src/use/index.md)
 
 ### Tool Shed
 

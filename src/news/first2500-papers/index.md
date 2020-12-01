@@ -14,7 +14,7 @@ Here's a review of those first 2500 papers.
 
 Each paper is reviewed and one or more tags are added to it.  The initial set featured 9 tags.  This wasn't quite enough, and 8 more were added in 2013, bringing the [total to 17](/src/cite-u-like/index.md#citeulike-tags).  (Papers from 2012 were back-curated with the new tags, but not before that.)  The numbers for each tag in each year for the first 2500 papers are below.
 
-<table>
+<table class="table">
   <tr>
     <th> Tag </th>
     <th> 2005 </th>
@@ -293,7 +293,7 @@ Each paper is reviewed and one or more tags are added to it.  The initial set fe
 A couple of trends stand out in the tag data:
 
 * *[methods](http://www.citeulike.org/group/16008/tag/methods)* and *[workbench](http://www.citeulike.org/group/16008/tag/workbench)* have always been the most popular.  *methods* papers use Galaxy in their analysis.  *workbench* either just mention Galaxy or discuss the platform itself.
-* The numbers of *[usepublic](http://www.citeulike.org/group/16008/tag/usepublic)* and *[refpublic](http://www.citeulike.org/group/16008/tag/refpublic)* publications are climbing rapidly.  Respectively, these are *[methods](http://www.citeulike.org/group/16008/tag/methods)* studies that did their analyses on a [public Galaxy server](/src/public-galaxy-servers/index.md) other than [usegalaxy.org](http://usegalaxy.org), and papers that reference those servers in some way (besides their methodology).  Part of this increase reflects better tracking of these papers, but (I believe) most of the increase reflects both the increased number of public servers (as reflected by the *[isgalaxy](http://www.citeulike.org/group/16008/tag/isgalaxy)* numbers), and their increased visibility.
+* The numbers of *[usepublic](http://www.citeulike.org/group/16008/tag/usepublic)* and *[refpublic](http://www.citeulike.org/group/16008/tag/refpublic)* publications are climbing rapidly.  Respectively, these are *[methods](http://www.citeulike.org/group/16008/tag/methods)* studies that did their analyses on a [public Galaxy server](/src/use/index.md) other than [usegalaxy.org](http://usegalaxy.org), and papers that reference those servers in some way (besides their methodology).  Part of this increase reflects better tracking of these papers, but (I believe) most of the increase reflects both the increased number of public servers (as reflected by the *[isgalaxy](http://www.citeulike.org/group/16008/tag/isgalaxy)* numbers), and their increased visibility.
 * *[reproducibility](http://www.citeulike.org/group/16008/tag/reproducibility)* became a hot topic (finally) in 2014.  
 
 <br />
@@ -339,7 +339,7 @@ There are also many unexpected publications in the list:
 
 Finally, the total number of papers per year continues to increase, and we expect 2015 to surpass 800 papers  
 
-<table>
+<table class="table">
   <tr class="th" >
     <th> </th>
     <th> 2005 </th>

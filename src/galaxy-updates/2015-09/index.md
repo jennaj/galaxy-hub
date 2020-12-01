@@ -18,25 +18,25 @@ Welcome to the September 2015 *[Galactic News](/src/galaxy-updates/index.md)*, a
 
 **97** new papers referencing, using, extending, and implementing Galaxy were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in August. Highlights include:
 
-* [FROG - Fingerprinting Genomic Variation Ontology](http://dx.doi.org/10.1371/journal.pone.0134693)
+* [FROG - Fingerprinting Genomic Variation Ontology](https://doi.org/10.1371/journal.pone.0134693)
     E. Abinaya, Pankaj Narang, Anshu Bhardwaj, *PLoS ONE*, Vol. 10, No. 8. (5 August 2015), e0134693, doi:10.1371/journal.pone.0134693
 
-* [EpiToolKit—a web-based workbench for vaccine design](http://dx.doi.org/10.1093/bioinformatics/btv116)
+* [EpiToolKit—a web-based workbench for vaccine design](https://doi.org/10.1093/bioinformatics/btv116)
     Benjamin Schubert, Hans-Philipp Brachvogel, Christopher Jürges, Oliver Kohlbacher, *Bioinformatics*, Vol. 31, No. 13. (01 July 2015), pp. 2211-2213, doi:10.1093/bioinformatics/btv116
 
-* [Experimental validation of methods for differential gene expression analysis and sample pooling in RNA-seq](http://dx.doi.org/10.1186/s12864-015-1767-y)
-    Anto P. Rajkumar, Per Qvist, [Ross Lazarus](/src/people/fubar/index.md), Francesco Lescai, Jia Ju, Mette Nyegaard, Ole Mors, Anders D. BÃ¸rglum, Qibin Li, Jane H. Christensen, *BMC Genomics*, Vol. 16, No. 1. (25 July 2015), 548, doi:10.1186/s12864-015-1767-y
+* [Experimental validation of methods for differential gene expression analysis and sample pooling in RNA-seq](https://doi.org/10.1186/s12864-015-1767-y)
+    Anto P. Rajkumar, Per Qvist, [Ross Lazarus](/src/people/fubar/index.md), Francesco Lescai, Jia Ju, Mette Nyegaard, Ole Mors, Anders D. Børglum, Qibin Li, Jane H. Christensen, *BMC Genomics*, Vol. 16, No. 1. (25 July 2015), 548, doi:10.1186/s12864-015-1767-y
 
-* [Galaxy Integrated Omics: Web-based standards-compliant workflows for proteomics informed by transcriptomics](http://dx.doi.org/10.1074/mcp.o115.048777)
+* [Galaxy Integrated Omics: Web-based standards-compliant workflows for proteomics informed by transcriptomics](https://doi.org/10.1074/mcp.o115.048777)
     Jun Fan, Shyamasree Saha, Gary Barker, Kate J. Heesom, Fawaz Ghali, Andrew R. Jones, David A. Matthews, Conrad Bessant, *Molecular & Cellular Proteomics* (12 August 2015), mcp.O115.048777, doi:10.1074/mcp.o115.048777
 
-* [From Peer-Reviewed to Peer-Reproduced in Scholarly Publishing: The Complementary Roles of Data Models and Workflows in Bioinformatics](http://dx.doi.org/10.1371/journal.pone.0127612)
+* [From Peer-Reviewed to Peer-Reproduced in Scholarly Publishing: The Complementary Roles of Data Models and Workflows in Bioinformatics](https://doi.org/10.1371/journal.pone.0127612)
     Alejandra González-Beltrán, Peter Li, Jun Zhao, Maria S. Avila-Garcia, Marco Roos, Mark Thompson, Eelke van der Horst, Rajaram Kaliyaperumal, Ruibang Luo, Tin-Lap Lee, Tak-wah Lam, Scott C. Edmunds, Susanna-Assunta Sansone, Philippe Rocca-Serra, *PLoS ONE*, Vol. 10, No. 7. (8 July 2015), e0127612, doi:10.1371/journal.pone.0127612
 
-* [Experiences with workflows for automating data-intensive bioinformatics](http://dx.doi.org/10.1186/s13062-015-0071-8)
+* [Experiences with workflows for automating data-intensive bioinformatics](https://doi.org/10.1186/s13062-015-0071-8)
     Ola Spjuth, Erik Bongcam-Rudloff, Guillermo Carrasco C. Hernández, Lukas Forer, Mario Giovacchini, Roman Valls V. Guimera, Aleksi Kallio, Eija Korpelainen, Maciej M. Kańduła, Milko Krachunov, David P. Kreil, Ognyan Kulev, Paweł P. Łabaj, Samuel Lampa, Luca Pireddu, Sebastian Schönherr, Alexey Siretskiy, Dimitar Vassilev, *Biology Direct*, Vol. 10, No. 1. (19 August 2015), 43, doi:10.1186/s13062-015-0071-8
 
-* [Challenges of Large-Scale Biomedical Workflows on the Cloud -- A Case Study on the Need for Reproducibility of Results](http://dx.doi.org/10.1109/cbms.2015.28)
+* [Challenges of Large-Scale Biomedical Workflows on the Cloud -- A Case Study on the Need for Reproducibility of Results](https://doi.org/10.1109/cbms.2015.28)
     Sehrish Kanwal, Andrew Lonie, Richard O. Sinnott, Charlotte Anderson, In Computer-Based Medical Systems (CBMS), 2015 IEEE 28th International Symposium on (June 2015), pp. 220-225, doi:10.1109/cbms.2015.28
 
 The new papers were tagged with:
@@ -101,7 +101,7 @@ The new papers were tagged with:
  
 # Galaxy's First 2500 Publications
 
-And in case you missed it, we [reached 2500 publications](/src/news/first2500-papers/index.md) in the [Galaxy CiteULike Library](http://bit.ly/gxyCiteULike).  [This writeup](/src/news/first2500-papers/index.md) analyzes the papers by [CiteULike tag](/src/cite-u-like/index.md#citeulike_tags) and journal, across the past 11 years, and identifies some trends.  Of those 2500 papers, less than 2% have a [Galaxy Team member](/src/galaxy-team/index.md) as a coauthor.  
+And in case you missed it, we [reached 2500 publications](/src/news/first2500-papers/index.md) in the [Galaxy CiteULike Library](http://bit.ly/gxyCiteULike).  [This writeup](/src/news/first2500-papers/index.md) analyzes the papers by [CiteULike tag](/src/cite-u-like/index.md#citeulike-tags) and journal, across the past 11 years, and identifies some trends.  Of those 2500 papers, less than 2% have a [Galaxy Team member](/src/galaxy-team/index.md) as a coauthor.  
 
 ----
 
@@ -190,13 +190,13 @@ There are [upcoming events](/src/events/index.md) in five countries on three con
     <th> September 2-3 </th>
     <td> <em><a href='http://www.qfab.org/event/workshop-extended-rna-seq-analysis-3/'>Workshop: Extended RNA-Seq analysis</a></em> </td>
     <td> <img src='/src/images/icons/AU.png' alt='Australia' align='right' /> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
-    <td> <div class='right'><a href='/src/teach/trainers/index.md#qfab-bioinformatics'><img src="/src/images/galaxy-logos/GTN16.png" alt="Training offered by GTN Member" /></a></div> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
+    <td> <div class='right'><a href='https://training.galaxyproject.org/'><img src="/src/images/galaxy-logos/GTN16.png" alt="Training offered by GTN Member" /></a></div> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
   </tr>
   <tr>
     <th> September 7-9 </th>
     <td> <em><a href='http://biosb.nl/education/course-portfolio/rna-seq/'>RNA-seq data analysis NGS Course</a></em> </td>
     <td> <img src='/src/images/icons/EU.png' alt='Europe' align='right' /> Leiden University Medical Center, The Netherlands </td>
-    <td> <div class='right'> <a href='/src/teach/trainers/index.md#lumc-erasmusmc-dtl-learning-programme'><img src="/src/images/galaxy-logos/GTN16.png" alt="Training offered by GTN Member" /></a></div> <a href="mailto:education@biosb.nl">BioSB Education</a> </td>
+    <td> <div class='right'> <a href='https://training.galaxyproject.org/'><img src="/src/images/galaxy-logos/GTN16.png" alt="Training offered by GTN Member" /></a></div> <a href="mailto:education@biosb.nl">BioSB Education</a> </td>
   </tr>
   <tr>
     <th> September 14-18 </th>
@@ -254,27 +254,27 @@ There are [upcoming events](/src/events/index.md) in five countries on three con
     <th> October 19 </th>
     <td> <em><a href='http://www.qfab.org/event/workshop-variant-detection-using-galaxy-2/'>Workshop: Variant detection using Galaxy</a></em> </td>
     <td> <img src='/src/images/icons/AU.png' alt='Australia' align='right' /> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
   </tr>
   <tr>
     <th> October 28-29 </th>
     <td> <em><a href='http://www.qfab.org/event/workshop-extended-rna-seq-analysis-4/'>Workshop: Extended RNA-Seq analysis</a></em> </td>
     <td> <img src='/src/images/icons/AU.png' alt='Australia' align='right' /> <a href='http://www.qfab.org/'>QFAB</a>, University of Queensland, St Lucia, Australia </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='http://www.qfab.org/mark-crowe/'>Mark Crowe</a> </td>
   </tr>
   <tr>
     <th> October 28 - November 3 </th>
     <td> <em><a href='http://meetings.cshl.edu/courses.aspx?course=c-ecg&year=15'>Computational & Comparative Genomics Course</a></em> </td>
     <td> <img src='/src/images/icons/NA.png' alt='North America' align='right' /> Cold Spring Harbor Laboratory, New York, United States </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='/src/people/james-taylor/index.md'>James Taylor</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='/src/people/james-taylor/index.md'>James Taylor</a> </td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td style=" border: none;"> <a href='/src/teach/trainers/index.md'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
-    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='/src/teach/trainers/index.md'>Designates a training event offered by GTN member(s)</a> </span> </td>
+    <td style=" border: none;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
+    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='https://training.galaxyproject.org/'>Designates a training event offered by GTN member(s)</a> </span> </td>
   </tr>
 </table>
 
@@ -299,14 +299,14 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Galaxy Servers
 
-[2 new publicly accessible Galaxy servers](/src/public-galaxy-servers/index.md) were added in August.
+[2 new publicly accessible Galaxy servers](/src/use/index.md) were added in August.
 
 ## Workflow4Metabolomics
 
 <div class='right'>
-<div class='solid'><a href='http://galaxy.workflow4metabolomics.org/'><img src="/src/public-galaxy-servers/Workflow4metabolomics.png" alt="Workflow4metabolomics Galaxy server" width=300 /></a></div>
+<div class='solid'><a href='http://galaxy.workflow4metabolomics.org/'><img src="/src/use/workflow4metabolomics/workflow4metabolomics.png" alt="Workflow4metabolomics Galaxy server" width=300 /></a></div>
 <br />
-<div class='right solid'><a href='/src/public-galaxy-servers/Workflow4MetabolomicsSponsors.png'><img src="/src/public-galaxy-servers/Workflow4MetabolomicsSponsors.png" alt="Workflow4Metabolomics Sponsors" width="200" /></a>
+<div class='right solid'><a href='/src/use/workflow4metabolomics/workflow4metabolomics-sponsors.png'><img src="/src/use/workflow4metabolomics/workflow4metabolomics-sponsors.png" alt="Workflow4Metabolomics Sponsors" width="200" /></a>
 <br /><div class='center'>*Sponsors*</div> 
 </div></div>
 
@@ -318,18 +318,18 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
   * A collaborative portal dedicated to metabolomics data processing, analysis and annotation.
 * *Comments:*
   * [LC-MS](http://workflow4metabolomics.org/the-lc-ms-workflow), [GC-MS](http://workflow4metabolomics.org/the-gc-ms-workflow) and [NMR](http://workflow4metabolomics.org/the-nmr-workflow) workflows are provided. 
-  * See: Giacomoni F., Le Corguillé G., Monsoor M., Landi M., Pericard P., Pétéra M., Duperier C., Tremblay-Franco M., Martin J.-F., Jacob D., Goulitquer S., Thévenot E.A. and Caron C. (2014). [Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics](http://dx.doi.org/10.1093/bioinformatics/btu813). *Bioinformatics*, [doi: 10.1093/bioinformatics/btu813](http://dx.doi.org/10.1093/bioinformatics/btu813)
+  * See: Giacomoni F., Le Corguillé G., Monsoor M., Landi M., Pericard P., Pétéra M., Duperier C., Tremblay-Franco M., Martin J.-F., Jacob D., Goulitquer S., Thévenot E.A. and Caron C. (2014). [Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics](https://doi.org/10.1093/bioinformatics/btu813). *Bioinformatics*, [doi: 10.1093/bioinformatics/btu813](https://doi.org/10.1093/bioinformatics/btu813)
 * *User Support:*
   * [HowTo Tutorials](http://workflow4metabolomics.org/howto) 
   * [Help Desk](mailto:support AT workflow4metabolomics DOT org)
 * *Quotas:* 
   * Account required. Anyone can [request an account](http://abims.sb-roscoff.fr/account).
 * *Sponsor(s):*
-  * See [sponsor graph](/src/public-galaxy-servers/Workflow4MetabolomicsSponsors.png)
+  * See [sponsor graph](/src/use/workflow4metabolomics/workflow4metabolomics-sponsors.png)
 
 ## EpiToolKit
 
-<div class='right solid'><a href='http://www.epitoolkit.de/'><img src="/src/public-galaxy-servers/EpiToolKit_moleculepeptide.png" alt="EpiToolKit Galaxy Server" height="200" /></a></div>
+<div class='right solid'><a href='http://www.epitoolkit.de/'><img src="/src/use/archive/epitoolkit/epitoolkit-molecule-peptide.png" alt="EpiToolKit Galaxy Server" height="200" /></a></div>
 
 * *Link:*
   * [EpiToolKit Galaxy](http://www.epitoolkit.de/)
@@ -357,9 +357,9 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 Two security vulnerabilities were recently discovered in Galaxy, and a third in the Galaxy Tool Shed. Because of this, the Galaxy Committers have released a number of fixes which have been rolled in to affected versions of Galaxy dating back to the 14.10 release.
 
-* **[Galaxy XSS Reflection Vulnerability](https://lists.galaxyproject.org/pipermail/galaxy-announce/2015-August/000148.html)**
-* **[Galaxy LDAP Authentication Vulnerability](https://lists.galaxyproject.org/pipermail/galaxy-announce/2015-August/000147.html)**
-* **[Tool Shed Unauthorized Upload Vulnerability](https://lists.galaxyproject.org/pipermail/galaxy-announce/2015-August/000149.html)**
+* **[Galaxy XSS Reflection Vulnerability](https://lists.galaxyproject.org/archives/list/galaxy-announce@lists.galaxyproject.org/message/EVXN3G5FZUPOEA4OYCC6V25TWGYBBWDV/)**
+* **[Galaxy LDAP Authentication Vulnerability](https://lists.galaxyproject.org/archives/list/galaxy-announce@lists.galaxyproject.org/message/GOZKUUTSB2AQSBXIGCFC6RVH37MDBQQZ/)**
+* **[Tool Shed Unauthorized Upload Vulnerability](https://lists.galaxyproject.org/archives/list/galaxy-announce@lists.galaxyproject.org/message/KNJIV2QCT52SPLXMCENLA2N5747ALSSK/)**
 
 ## Other Releases
 
@@ -369,7 +369,7 @@ Two security vulnerabilities were recently discovered in Galaxy, and a third in 
     [Release Notes v 15.05](http://galaxy.readthedocs.org/en/master/releases/15.05_announce.html)
 
  **BioBlend 0.6.0 and 0.6.1**
-    [BioBlend version 0.6.1](https://github.com/galaxyproject/bioblend/) was released in July. BioBlend is a python library for interacting with CloudMan and the [Galaxy API](/src/learn/api/index.md)([CloudMan](/src/cloudman/index.md) offers an easy way to get a personal and completely functional instance of Galaxy in the cloud in just a few minutes, without any manual configuration.)  From the [release CHANGELOG](http://bit.ly/bbCHANGELOG):
+    [BioBlend version 0.6.1](https://github.com/galaxyproject/bioblend/) was released in July. BioBlend is a python library for interacting with CloudMan and the [Galaxy API](/src/develop/api/index.md)([CloudMan](/src/cloudman/index.md) offers an easy way to get a personal and completely functional instance of Galaxy in the cloud in just a few minutes, without any manual configuration.)  From the [release CHANGELOG](http://bit.ly/bbCHANGELOG):
 
 <div class='right'><br /><a href='https://pypi.python.org/pypi/planemo/'><img src="/src/images/logos/PlanemoLogo.png" alt="" width="150" /></a></div>
 
@@ -393,22 +393,22 @@ Two security vulnerabilities were recently discovered in Galaxy, and a third in 
 
 <table>
   <tr>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/teach/index.md'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
   </tr>
   <tr>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your <a href='/src/teach/resources/index.md#add-a-training-resource'>training resources</a> and <a href='/src/teach/trainers/index.md#add-a-trainer'>experience</a> <em>now</em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your training resources and experience <em>now</em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </strong> </td>
   </tr>
 </table>
 
 <br />
 
-One new new **[Galaxy Training Network member](/src/teach/trainers/index.md)** was added in August:
+One new new **[Galaxy Training Network member](https://training.galaxyproject.org/)** was added in August:
 
-* **[University of Bradford, School of Medical Sciences, Krzysztof Poterlowicz](/src/teach/trainers/index.md#university-of-bradford-school-of-medical-sciences-krzysztof-poterlowicz)**
+* **University of Bradford, School of Medical Sciences, Krzysztof Poterlowicz**
     Krzysztof offers training in Assembly, RNAseq, ChIPseq, Hi-C, DNase-Seq, and Pathway enrichment.
 
 ----

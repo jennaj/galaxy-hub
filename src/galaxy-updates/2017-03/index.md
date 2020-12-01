@@ -93,7 +93,7 @@ See the [full report](https://www.embl-abr.org.au/game2017report/) for more.
 
 ## GalaxyAdmins February Meetup Screencast
 
-<div class='left'><a href='/src/community/galaxy-admins/2017-02-16/index.md'><img src="/src/images/galaxy-logos/GalaxyAdmins.png" alt="GalaxyAdmins" width="180" /></a> </div>
+<div class='left'><a href='/src/community/galaxy-admins/meetups/2017-02-16/index.md'><img src="/src/images/galaxy-logos/GalaxyAdmins.png" alt="GalaxyAdmins" width="180" /></a> </div>
 
 A video of the [February 16 GalaxyAdmins Meetup](/src/community/galaxy-admins/meetups/2017-02-16/index.md) is now available.  Nuwan Goonesekera and [Enis Afgan](/src/people/enis-afgan/index.md) presented an all-new version of CloudLaunch, an application for launching Galaxy on the Cloud instances. The [new CloudLaunch](https://beta.launch.usegalaxy.org) allows multiple flavors of Galaxy to be deployed, Docker images or applications other than Galaxy. Each application can have its own custom user interface developed to accommodate the specific application needs.
 
@@ -146,7 +146,7 @@ donnéesRNA-Seq sous Galaxy</a></em> </td>
     <th> March 25-28 </th>
     <td> <em><a href='http://conf.abrf.org/the-galaxy-platform'>The Galaxy platform for metaproteomic characterization of microbiomes</a></em> </td>
     <td> <img src="/src/images/icons/NA.png" alt="North America" align="right" /> <a href="http://conf.abrf.org/home">ABRF 2017</a>, San Diego, California, United States </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='http://conf.abrf.org/the-galaxy-platform'>Tim Griffin, Pratik Jagtap, James Johnson</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='http://conf.abrf.org/the-galaxy-platform'>Tim Griffin, Pratik Jagtap, James Johnson</a> </td>
   </tr>
   <tr>
     <th> March 27-30 </th>
@@ -182,7 +182,7 @@ donnéesRNA-Seq sous Galaxy</a></em> </td>
     <th> May 29 - June 2 </th>
     <td> <em><a href="http://www.france-bioinformatique.fr/fr/evenements/W4E2017">Workflow4Experimenters International Course</a></em> <div(class="indent red"> Applications due Feb 18 </div></td>
     <td> <img src="/src/images/icons/EU.png" alt="Europe" align="right" /> Pasteur Institute, Paris, France </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a><a href='http://www.france-bioinformatique.fr/fr/users/caron-christophe'>Christophe Caron</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a><a href='http://www.france-bioinformatique.fr/fr/users/caron-christophe'>Christophe Caron</a> </td>
   </tr>
   <tr>
     <th> May 29 - June 2 </th>
@@ -203,7 +203,7 @@ donnéesRNA-Seq sous Galaxy</a></em> </td>
     <th> June 26-30 </th>
     <td> <strong><a href='https://gcc2017.sciencesconf.org/'>2017 Galaxy Community Conference (GCC2017)</a></strong> </td>
     <td> <img src="/src/images/icons/EU.png" alt="Europe" align="right" /> Montpellier, France </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="mailto:gcc2017_organization@groupes.france-bioinformatique.fr">Organisers</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="mailto:gcc2017_organization@groupes.france-bioinformatique.fr">Organisers</a> </td>
   </tr>
   <tr>
     <td colspan=4 style=" background-color: #eef;"> </td>
@@ -215,8 +215,8 @@ donnéesRNA-Seq sous Galaxy</a></em> </td>
 <div class="center">
 <table class="table table-striped">
   <tr>
-    <td style=" border: none;"> <a href='/src/teach/trainers/index.md'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
-    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='/src/teach/trainers/index.md'>Designates a training event offered by GTN member(s)</a> </span> </td>
+    <td style=" border: none;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
+    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='https://training.galaxyproject.org/'>Designates a training event offered by GTN member(s)</a> </span> </td>
   </tr>
 </table>
 </div>
@@ -253,33 +253,33 @@ Content was automatically converted from MoinMoin and Creole markup to Markdown,
 
 Some highlights from the past two months:
 
-* [GraphFlow: Workflow-based big graph processing](http://dx.doi.org/10.1109/BigData.2016.7840993)
+* [GraphFlow: Workflow-based big graph processing](https://doi.org/10.1109/BigData.2016.7840993)
    S. Riazi, B. Norris. In 2016 IEEE International Conference on Big Data (Big Data) (Dec 2016), pp. 3336-3343, doi:10.1109/BigData.2016.7840993
 
-* [blend4php: a PHP API for galaxy](http://dx.doi.org/10.1093/database/baw154)
+* [blend4php: a PHP API for galaxy](https://doi.org/10.1093/database/baw154)
    Connor Wytko, Brian Soto, Stephen P. Ficklin. *Database*, Vol. 2017 (10 January 2017), baw154, doi:10.1093/database/baw154
 
-* [A guide and best practices for R/Bioconductor tool integration in Galaxy](http://dx.doi.org/10.12688/f1000research.9821.1)
+* [A guide and best practices for R/Bioconductor tool integration in Galaxy](https://doi.org/10.12688/f1000research.9821.1)
    [Nitesh Turaga](/src/people/nitesh-turaga/index.md), Mallory A. Freeberg, [Dannon Baker](/src/people/dannon-baker/index.md), [John Chilton](/src/people/john-chilton/index.md), [Anton Nekrutenko](/src/people/anton/index.md), [James Taylor](/src/james=taylor/index.md). *F1000Research*, Vol. 5 (24 November 2016), 2757, doi:10.12688/f1000research.9821.1
 
-* [MetaDP: a comprehensive web server for disease prediction of 16S rRNA metagenomic datasets](http://dx.doi.org/10.1007/s41048-016-0033-4)
+* [MetaDP: a comprehensive web server for disease prediction of 16S rRNA metagenomic datasets](https://doi.org/10.1007/s41048-016-0033-4)
    Xilin Xu, Aiping Wu, Xinlei Zhang, Mingming Su, Taijiao Jiang, Zhe-Ming Yuan. *Biophysics Reports* (2017), pp. 1-10, doi:10.1007/s41048-016-0033-4
 
-* [A complete workflow for high-resolution spectral-stitching nanoelectrospray direct-infusion mass-spectrometry-based metabolomics and lipidomics](http://dx.doi.org/10.1038/nprot.2016.156)
+* [A complete workflow for high-resolution spectral-stitching nanoelectrospray direct-infusion mass-spectrometry-based metabolomics and lipidomics](https://doi.org/10.1038/nprot.2016.156)
    Andrew D. Southam, Ralf J. M. Weber, Jasper Engel, Martin R. Jones, Mark R. Viant. *Nature Protocols*, Vol. 12, No. 2. (12 January 2017), pp. 255-273, doi:10.1038/nprot.2016.156
 
-* [Computational tools and workflows in metabolomics: An international survey highlights the opportunity for harmonisation through Galaxy](http://dx.doi.org/10.1007/s11306-016-1147-x)
+* [Computational tools and workflows in metabolomics: An international survey highlights the opportunity for harmonisation through Galaxy](https://doi.org/10.1007/s11306-016-1147-x)
    Ralf J. M. Weber, Thomas N. Lawson, Reza M. Salek, Timothy M. D. Ebbels, Robert C. Glen, Royston Goodacre, Julian L. Griffin, Kenneth Haug, Albert Koulman, Pablo Moreno, Markus Ralser, Christoph Steinbeck, Warwick B. Dunn, Mark R. Viant.  *Metabolomics*, Vol. 13, No. 2. (2016), pp. 1-5, doi:10.1007/s11306-016-1147-x
 
-* [Variant profiling of evolving prokaryotic populations](http://dx.doi.org/10.7717/peerj.2997)
+* [Variant profiling of evolving prokaryotic populations](https://doi.org/10.7717/peerj.2997)
    Markus Zojer, Lisa N. Schuster, Frederik Schulz, Alexander Pfundner, Matthias Horn, Thomas Rattei. *PeerJ*, Vol. 5 (16 February 2017), e2997, doi:10.7717/peerj.2997
 
-* [USMI Galaxy Demonstrator (UGD): a collection of tools to integrate microorganisms information](http://dx.doi.org/10.7287/peerj.preprints.2766v1)
+* [USMI Galaxy Demonstrator (UGD): a collection of tools to integrate microorganisms information](https://doi.org/10.7287/peerj.preprints.2766v1)
    Daniele P. Colobraro, Paolo Romano. *PeerJ Preprints* (31 January 2017), doi:10.7287/peerj.preprints.2766v1
 
 * Three papers on natural language processing:
 
-   * [Supporting accessibility and reproducibility in language research in the Alveo virtual laboratory](http://dx.doi.org/10.1016/j.csl.2017.01.003)
+   * [Supporting accessibility and reproducibility in language research in the Alveo virtual laboratory](https://doi.org/10.1016/j.csl.2017.01.003)
       Steve Cassidy, Dominique Estival. *Computer Speech & Language* (February 2017), doi:10.1016/j.csl.2017.01.003
 
    * [LAPPS/Galaxy: Current State and Next Steps](http://aclweb.org/anthology/W16-5202)  
@@ -366,11 +366,11 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # Public Galaxy Server News
 
-There are [over 90 publicly accessible Galaxy servers](/src/public-galaxy-servers/index.md) and [six semi-public Galaxy services](/src/galaxy-services/index.md).  Here's what happened with them in January.
+There are [over 90 publicly accessible Galaxy servers](/src/use/index.md) and [six semi-public Galaxy services](/src/use/index.md).  Here's what happened with them in January.
 
 ## Pathogen Portal RNA-Rocket seeking funding
 
-<div class='right'><a href='http://rnaseq.pathogenportal.org/'><img src="/src/public-galaxy-servers/rna-rocket-horizontal.png" alt="RNA-Rocket @ Pathogen Portal" height="50" /></a></div>
+<div class='right'><a href='http://rnaseq.pathogenportal.org/'><img src="/src/use/archive/rna-rocket-pathogen-portal/rna-rocket-horizontal.png" alt="RNA-Rocket @ Pathogen Portal" height="50" /></a></div>
 
 Besides having a really cool logo, the [RNA-Rocket Galaxy server](http://rnaseq.pathogenportal.org/) supports RNA-Seq analysis for literally thousands of microbial reference genomes.  If you use, have used, or are going to start using RNA-Rocket, then the folks behind RNA-Rocket ask that you "please consider writing a brief statement of support to [pathporthelp@vbi.vt.edu](mailto:pathporthelp@vbi.vt.edu)."
 
@@ -378,7 +378,7 @@ Besides having a really cool logo, the [RNA-Rocket Galaxy server](http://rnaseq.
 
 ### GrAPPA
 
-<div class='right solid'><a href='https://grappa.eecs.utk.edu/grappa/'><img src="/src/public-galaxy-servers/GrAPPALogo.png" alt="Graph Algorithms Pipeline for Pathway Analysis" width="200" /></a></div>
+<div class='right solid'><a href='https://grappa.eecs.utk.edu/grappa/'><img src="/src/use/grappa/grappa-logo.png" alt="Graph Algorithms Pipeline for Pathway Analysis" width="200" /></a></div>
 
   * [GrAPPA (Graph Algorithms Pipeline for Pathway Analysis)](https://grappa.eecs.utk.edu/grappa/) is a Galaxy server for graph theoretical tools. It contains novel combinatorial methods integrated into a complete microarray analysis toolchain, from uploading raw high-throughput data to visualization of results.
 
@@ -391,7 +391,7 @@ Efforts to increase GrAPPA’s functionality are underway. Features now being in
 
 ### USMI Galaxy Demonstrator
 
-<div class='right'><a href='http://bioinformatics.hsanmartino.it:8080/'><img src="/src/public-galaxy-servers/usmi.png" alt="USMI Galaxy Demonstrator" width="200" /></a></div>
+<div class='right'><a href='http://bioinformatics.hsanmartino.it:8080/'><img src="/src/use/usmi-galaxy-demonstrator/usmi.png" alt="USMI Galaxy Demonstrator" width="200" /></a></div>
 
 The [USMI Galaxy Demonstrator](http://bioinformatics.hsanmartino.it:8080/) demonstrates integration of microbial domain Biological Resource Center (mBRC) catalogues into the bioinformatics data integration environment.   The server supports anonymous access and account creation, and is supported by [IRCCS AOU San Martino IST](http://www.hsanmartino.it/), Genoa, Italy.  Please report issuses, request information, and send any suggestions, comments or criticisms to: [Daniele Pierpaolo Colobraro](mailto:danielepierpaolo.colobraro@hsanmartino.it) or [Paolo Romano](mailto:paolo.romano@hsanmartino.it)
 
@@ -409,12 +409,12 @@ The [Cancer Computer](http://www.cancercomputer.com/) [Galaxy service](/src/gala
 
 <table class="table table-striped">
   <tr>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/teach/index.md'><img src="/src/images/galaxy-logos/GTNLogo300.png" alt="Galaxy Training Network" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/galaxy-logos/GTNLogo300.png" alt="Galaxy Training Network" height="100" /></a> </td>
     <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
     <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
   </tr>
   <tr>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your <a href='/src/teach/resources/index.md#add-a-training-resource'>training resources</a> and <a href='/src/teach/trainers/index.md'>experience</a> <em>now</em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your training resources and experience <em>now</em> </strong> </td>
     <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> </strong> </td>
     <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </strong> </td>
   </tr>

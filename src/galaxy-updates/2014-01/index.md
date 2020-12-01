@@ -11,14 +11,14 @@ December saw the launch of two *[Galaxy community hubs](/src/community/index.md)
 
 ## Galaxy Community Log Board
 
-<div class='left'><a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" width="200" /></a></div>
+<div class='left'><a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" width="200" /></a></div>
 
-The *[Galaxy Community Log Board](/src/community/logs/index.md)* is a place to share how you addressed a particular task in your Galaxy deployment.  Log entries describe specific solutions to particular tasks, such as the [details of what steps were taken to deploy Galaxy on particular platforms](/src/community/log/2013/urgi-virtualisation/index.md), or [specific stumbling blocks when configuring Galaxy](/src/community/log/2013/example/index.md).  Solutions can be [described on this wiki](/src/community/log/2013/example/index.md), or just [some metadata and a link to the description elsewhere](http://wiki.galaxyproject.org/Community/Log/2013/UsingBioServicesWithGalaxy).  Log entries are an easy way to help others (and learn from others) by sharing what you've already done.  If you have figured out or documented how to do something, then this is the ideal forum for sharing that information with the community.
+The *[Galaxy Community Log Board](/src/blog/index.md)* is a place to share how you addressed a particular task in your Galaxy deployment.  Log entries describe specific solutions to particular tasks, such as the [details of what steps were taken to deploy Galaxy on particular platforms](/src/blog/2013-04-urgi-virtualisation/index.md), or specific stumbling blocks when configuring Galaxy.  Log entries are an easy way to help others (and learn from others) by sharing what you've already done.  If you have figured out or documented how to do something, then this is the ideal forum for sharing that information with the community.
 
 <div class='left'>
 <table>
   <tr>
-    <th> &nbsp;&nbsp; <a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> &nbsp;&nbsp; </th>
+    <th> &nbsp;&nbsp; <a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a></em> &nbsp;&nbsp; </th>
   </tr>
   <tr>
     <td style=" border: none; text-align: center;"> <span style="font-size: smaller;"> C'mon, it will make you feel good! </span> </td>
@@ -27,16 +27,16 @@ The *[Galaxy Community Log Board](/src/community/logs/index.md)* is a place to s
 
 </div>
 
-The [Galaxy Community Log Board](/src/community/logs/index.md) describes how things can be done, and it complements the (also [recently announced](/src/news/galaxy-deployment-catalog/index.md)) *[Galaxy Deployments Catalog](/src/community/deployments/index.md)*, which describes different Galaxy installations.  Both the [Log Board](/src/community/logs/index.md) and the [Deployments Catalog](/src/community/deployments/index.md) came out of discussions at the [GCC2013 GalaxyAdmins Birds-of-a-Feather gathering](/src/events/gcc2013/bof/galaxy-admins/index.md).  Thanks to everyone who attended that BoF and to everyone who taken the time to [log their experiences so far](/src/community/logs/index.md).
+The [Galaxy Community Log Board](/src/blog/index.md) describes how things can be done, and it complements the (also [recently announced](/src/news/galaxy-deployment-catalog/index.md)) *[Galaxy Deployments Catalog](/src/community/deployment/index.md)*, which describes different Galaxy installations.  Both the [Log Board](/src/blog/index.md) and the [Deployments Catalog](/src/community/deployment/index.md) came out of discussions at the [GCC2013 GalaxyAdmins Birds-of-a-Feather gathering](/src/events/gcc2013/bof/galaxy-admins/index.md).  Thanks to everyone who attended that BoF and to everyone who taken the time to [log their experiences so far](/src/blog/index.md).
 
 ## Galaxy Deployment Catalog
 
-<div class='left'><a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" width="150" /></a></div> 
+<div class='left'><a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" width="150" /></a></div> 
 
 <div class='right'>
 <table>
   <tr>
-    <th> &nbsp;&nbsp; <a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> &nbsp;&nbsp; </th>
+    <th> &nbsp;&nbsp; <a href='/src/community/deployment/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/blog/index.md'>now</a></em> &nbsp;&nbsp; </th>
   </tr>
   <tr>
     <td style=" border: none; text-align: center;"> <span style="font-size: smaller;"> All the cool researchers are doing it! </span> </td>
@@ -45,9 +45,9 @@ The [Galaxy Community Log Board](/src/community/logs/index.md) describes how thi
 
 </div>
 
-The [Galaxy Deployment Catalog](/src/community/deployments/index.md) is a place to describe individual Galaxy deployments, and to learn how others in the community are implementing Galaxy in production environments.
+The [Galaxy Deployment Catalog](/src/community/deployment/index.md) is a place to describe individual Galaxy deployments, and to learn how others in the community are implementing Galaxy in production environments.
 
-If you have a Galaxy deployment then please [take a few minutes to describe your instance to the community](/src/community/deployments/index.md).
+If you have a Galaxy deployment then please [take a few minutes to describe your instance to the community](/src/community/deployment/index.md).
 <br />
 
 
@@ -145,8 +145,8 @@ Many, many thanks to everyone who talked about Galaxy last year and for making t
 *52 papers* were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in December. Some papers that may be particularly interesting to the Galaxy community:
 
 * "[Galaxy tools to study genome diversity](http://bit.ly/1cQUjwU)" by Bedoya-Reina, *et al.*, *[GigaScience](http://gigasciencejounal.com)*, Vol. 2, No. 1. (2013), 17, doi:10.1186/2047-217x-2-17
-* "[Detection of candidate tumor driver genes using a fully integrated Bayesian approach](http://dx.doi.org/10.1002/sim.6066)" by Yang, *et al.*, *Statistics in Medicine* (1 December 2013), doi:10.1002/sim.6066
-* "[In silico to in vivo splicing analysis using splicing code models](http://dx.doi.org/10.1016/j.ymeth.2013.11.006)" by Gazzara, *et al.*, *Methods* (December 2013), doi:10.1016/j.ymeth.2013.11.006
+* "[Detection of candidate tumor driver genes using a fully integrated Bayesian approach](https://doi.org/10.1002/sim.6066)" by Yang, *et al.*, *Statistics in Medicine* (1 December 2013), doi:10.1002/sim.6066
+* "[In silico to in vivo splicing analysis using splicing code models](https://doi.org/10.1016/j.ymeth.2013.11.006)" by Gazzara, *et al.*, *Methods* (December 2013), doi:10.1016/j.ymeth.2013.11.006
 
 This brings the total number of papers to 1330.
 
@@ -332,7 +332,7 @@ The [2013 Galaxy Day event](http://wiki.sb-roscoff.fr/ifb/index.php/Accueil) too
 
 # New Public Servers
 
-One new server was added to [the list of publicly accessible Galaxy servers](/src/public-galaxy-servers/index.md) last month.
+One new server was added to [the list of publicly accessible Galaxy servers](/src/use/index.md) last month.
 
 ## CAPER
 
@@ -340,7 +340,7 @@ One new server was added to [the list of publicly accessible Galaxy servers](/sr
 
 The Chromosome-centric Human Proteome Project (C-HPP) aims to map and annotate the entire human proteome by the "chromosome-by-chromosome" strategy. As the C-HPP proceeds, the increasing volume of proteomic data sets presents a challenge for customized and reproducible bioinformatics data analyses for mining biological knowledge. To address this challenge CAPER 2.0 − an interactive, configurable and extensible workflow-based platform is developed for C-HPP data analyses. 
 
-<div class='right solid'><a href='http://www.bprc.ac.cn/CAPE'><img src="/src/public-galaxy-servers/CAPER300.png" alt="CAPER"  /></a></div>
+<div class='right solid'><a href='http://www.bprc.ac.cn/CAPE'><img src="/src/public-galaxy-servers/archive/caper-300.png" alt="CAPER"  /></a></div>
 
 In addition to the previous visualization functions of [track-view and heatmap-view](http://pubs.acs.org/doi/abs/10.1021/pr300831z), CAPER 2.0 presents a powerful toolbox for C-HPP data analyses and also integrates Galaxy, allowing users to easily conduct their own C-HPP proteomic data analyses and visualization. CAPER 2.0 presents four specific workflows for finding missing proteins, mapping peptides to chromosomes for genome annotation, integrating peptides with transcription factor binding sites from ENCODE data sets, and functionally annotating proteins.
 

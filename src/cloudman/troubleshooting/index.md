@@ -6,7 +6,7 @@ title: CloudMan Troubleshooting
 {{> CloudMan/LinkBoxHorizontal }}
 
 The following documentation can help you troubleshoot problems that you might have with your cloud system.
-For additional help with this system, you can search the [mailing list archives](http://dev.list.galaxyproject.org/), [Biostar forum](https://biostar.usegalaxy.org/), [IRC channel log](https://botbot.me/freenode/galaxyproject/), or post a question to any of those venues.
+For additional help with this system, you can search the [mailing list archives](https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/), [help forum](https://help.galaxyproject.org/), [IRC channel log](https://botbot.me/freenode/galaxyproject/), or post a question to any of those venues.
 
 ### Log files
 
@@ -25,4 +25,4 @@ For log files of individual services running within the system, see the page spe
 
 ### Connect to Galaxy database
 
-Your cloud cluster is configured with a PostgreSQL database for use by Galaxy. By default, the database is stored in `/mnt/galaxy/db` and is available on port 5930. To connect to the database, switch to the *galaxy* system user and connect to it with the following command: `psql -p 5930`
+Your cloud cluster is configured with a PostgreSQL database for use by Galaxy. By default, the database is stored in `/mnt/galaxy/db` and is available on port 5950. To connect to the database, switch to the *galaxy* system user and connect to it with the following command: `psql -p 5950`

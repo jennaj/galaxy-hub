@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Galaxy Installation and Administration
+title: "Tutorial: Galaxy Installation and Administration"
 ---
 {{> Events/GCC2014/Header }}
 <br /><br />
@@ -342,7 +342,7 @@ allow_library_path_paste = True
 
 Explanations of these options:
 
-* `database_connection = postgresql:///gxprod?host=/var/run/postgresql` - Use a PostgreSQL database via a local UNIX domain socket (the socket is in `/var/run/postgresql`). [documentation](/src/admin/config/performance/production-server/index.md#switching_to_a_database_server)
+* `database_connection = postgresql:///gxprod?host=/var/run/postgresql` - Use a PostgreSQL database via a local UNIX domain socket (the socket is in `/var/run/postgresql`). [documentation](https://docs.galaxyproject.org/en/latest/admin/production.html#switching-to-postgresql-database-server)
 * `database_engine_option_server_side_cursors = True` - Keep large SQL query results on the PostgreSQL server, rather the transferring the entire result set to the Galaxy processes.
 * `tool_dependency_dir = /home/gxprod/tool_deps` - The directory that will house tool dependencies
 * `static_enabled = False` - Static content will be served by the proxy server
@@ -355,15 +355,15 @@ Explanations of these options:
 * `use_interactive = False` - Disables live client browser debugging (insecure).
 * `id_secret = <random text>` - Ensures that the encoded IDs used by Galaxy (especially session IDs) are unique.  One simple way to generate a value for this is with a shell command like `$ date | md5sum`
 * `admin_users = nate@bx.psu.edu` - Make nate@example.org an administrator. Galaxy's Admin UI is only accessible if you define administrators here!
-* `library_import_dir = /home/gxprod/library` - Administrators can directly import datasets from this directory on the server to Data Libraries.  This includes an option that allows an effective "symlink" to the data, rather than copying it in to Galaxy's `file_path` directory. [documentation](/src/admin/data-libraries/uploading-library-files/index.md)
+* `library_import_dir = /home/gxprod/library` - Administrators can directly import datasets from this directory on the server to Data Libraries.  This includes an option that allows an effective "symlink" to the data, rather than copying it in to Galaxy's `file_path` directory. [documentation](/src/admin/data-libraries/index.md#user-folder)
 * `allow_library_path_paste = True` - Administrators can import datasets from anywhere on the server's filesystem(s) by entering their paths in to a text box
 
 Honorable mentions for features we won't use today but that are common in big setups:
 
 * `ftp_upload_dir` and `ftp_upload_site` - Allow users to upload data to the server using FTP
-* `use_remote_user` and `remote_user_maildomain` - Use your institution's existing authentication system to log in to Galaxy. [Apache documentation](/src/admin/config/ExternalUserDatbases/index.md) or [nginx documentation](/src/admin/config/nginxProxy/index.md#external_user_authentication)
+* `use_remote_user` and `remote_user_maildomain` - Use your institution's existing authentication system to log in to Galaxy. [Apache documentation](/src/admin/config/external-user-databases/index.md) or [nginx documentation](https://galaxyproject.org/admin/config/nginx-external-user-auth/)
 * `allow_user_impersonation` - Users configured as administrators (with `admin_users`) can "become" other users to view Galaxy exactly as the impersonated user does. Useful for providing support.
-* `user_library_import_dir` - Non-administrators can directly import datasets from this directory on this server to Data Libraries from which they have been given write permission. [documentation](/src/admin/data-libraries/uploading-library-files/index.md)
+* `user_library_import_dir` - Non-administrators can directly import datasets from this directory on this server to Data Libraries from which they have been given write permission. [documentation](/src/data-libraries/index.md#user-folder)
 * `object_store_config_file` - Configure Galaxy's "object storage" layer to store data in multiple filesystems, Amazon S3, iRODS, etc.
 * `error_email_to` (with `smtp_server`) - Allow users to send bug reports directly to you
 * `user_activation_on` and related options - Require new users to verify their email address

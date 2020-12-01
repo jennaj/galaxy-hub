@@ -3,13 +3,22 @@ title: About Galaxy
 ---
 <div class='right'><a href='http://galaxyproject.org'><img src="/src/images/screenshots/GalaxyProjectOrg.png" alt="GalaxyProject.org" width="300" /></a></div>
 
+# Warning: This page is incomplete and deprecated
+
+For the most current information about Galaxy, or help, please see:
+
+* [Galaxy Ecosytem](https://galaxyproject.github.io/)
+* [Galaxy Help](https://help.galaxyproject.org/)
+
+----
+
 Galaxy is an open, web-based platform for data intensive biomedical research. Galaxy's goal is to be *accessible*, *reproducible*, and *transparent*. 
 
 * **Accessible:** Users without programming experience can easily specify parameters and run tools and workflows.
 * **Reproducible:** Galaxy captures information so that any user can repeat and understand a complete computational analysis.
 * **Transparent:** Users share and publish analyses via the web and create Pages, interactive, web-based documents that describe a complete analysis.
 
-In addition to using the [public Galaxy server](http://usegalaxy.org), you can also install your [own instance of Galaxy](/src/admin/get-galaxy/index.md), or create an [instance of Galaxy on the cloud using CloudMan](/src/cloudman/index.md) and explore all [Cloud](/src/cloud/index.md) resources.  Another option is to use one of the ever-increasing number of [Public Galaxy Servers](/src/public-galaxy-servers/index.md) hosted by other organizations. And if you or your lab is looking to run their own local instance that is "ready-to-go", learn more about the [Slipstream Appliance: Galaxy Edition](http://www.bioteam.net/slipstream/galaxy-edition).
+In addition to using the [public Galaxy server](http://usegalaxy.org), you can also install your [own instance of Galaxy](/src/admin/get-galaxy/index.md), or create an [instance of Galaxy on the cloud using CloudMan](/src/cloudman/index.md) and explore all [Cloud](/src/cloud/index.md) resources.  Another option is to use one of the ever-increasing number of [Public Galaxy Servers](/src/use/index.md) hosted by other organizations.
 
 
 The [Galaxy Team](http://wiki.galaxyproject.org/GalaxyTeam) is a part of the [Center for Comparative Genomics and Bioinformatics](http://www.bx.psu.edu/) at [Penn State](http://www.psu.edu/), and the [Department of Biology](http://www.bio.jhu.edu/) at [Johns Hopkinis University](http://www.jhu.edu/). 
@@ -23,4 +32,3 @@ Thank you for your for *Using Galaxy!* We hope these resources help to further *
 
 [Galaxy team](https://wiki.galaxyproject.org/GalaxyTeam)
 
-This [Support](/src/support/index.md) resource is also published within [Biostar](http://biostar.usegalaxy.org/) as a Tutorial: [About Galaxy !](https://biostar.usegalaxy.org/p/7744/)

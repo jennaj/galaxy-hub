@@ -3,23 +3,19 @@ title: Using Galaxy's Web Interface
 ---
 {{> Events/GCC2014/Header }}
 
-
-
-
-<div class='dictbox'>
- BoF:: **[Using Galaxy's Web Interface](/src/events/gcc2014/bofs/using-galaxy-ui-overview/index.md)**
- Summary:: Curious about the Galaxy web interface and available functions? Want a refresher about objects and terminology? Or perhaps are interested in learning about how the latest features fit into the bigger usage picture when performing analysis? Come join us!
- Audience:: End Users and those interested in common Galaxy usage, including developers supporting scientific teams
- When:: Wednesday, July 2, 12:15 pm (lunch)
- Where:: East Room 304
- Contact:: [Jennifer Hillman-Jackson](/src/people/jennifer-jackson/index.md) & Karen Reddy
-</div>
-
 {{> Events/GCC2014/LinkBox }}
 
 <div class='left'><a href='/src/events/gcc2014/bofs/index.md'><img src="/src/images/logos/GCC2014_BoF_LogoSquare.png" alt="GCC2014 BoFs!" width="120" /></a></div>
 
 This page describes the **Using Galaxy's Web Interface** [Birds of a Feather](/src/events/gcc2014/bofs/index.md) meetup being held at [GCC2014](/src/events/gcc2014/index.md).
+
+When: Wednesday, July 2, 12:15 pm (lunch)
+
+Where: East Room 304
+
+Contact: [Jennifer Hillman-Jackson](/src/people/jennifer-jackson/index.md) & Karen Reddy
+</div>
+
 
 ## Description
 
@@ -55,7 +51,7 @@ Tour of Galaxy's learning resources included:
   * Learn, all resources including: video, object wikis, tutorials
   * Support, general
   * Events, how to navigate and drill-down into workshop slides (using specific examples as models)
-  * Biostar (including searches) and Mailing lists
+  * Biostar (now [help.galaxyproject.org](https://help.galaxyproject.org/), including searches) and Mailing lists
   * Google custom searches, general
 * Resources: public Main Galaxy instance http://usegalaxy.org:
   * Reminders about of core objects, layout, definitions (mirrored earlier slide content)

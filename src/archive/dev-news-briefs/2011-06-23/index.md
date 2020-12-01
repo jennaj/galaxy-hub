@@ -1,4 +1,7 @@
-# June 23, 2011 Galaxy Development News Brief
+---
+title: Development News Brief
+date: 2011-06-23
+---
 
 ----
 [getgalaxy.org](http://bitbucket.org/galaxy/galaxy-central/wiki/GetGalaxy)
@@ -12,7 +15,7 @@ upgrade: `% hg pull -u -r 720455407d1c`
 ## GCC 2011
 
 We had ~ 140  attendees at the **2011 Galaxy Community Conference**, held May 25-26, in the Netherlands!
-* Please see [GCC2011](/src/GCC2011/index.md) for links to slides and to videos of the talks.
+* Please see [GCC2011](https://galaxyproject.org/gcc2011/) for links to slides and to videos of the talks.
 * Feedback has been very positive with 100% of respondents saying they would recommend future Galaxy meetings to others.  
 * Many thanks to the **[Netherlands Bioinformatics Centre (NBIC)](http://www.nbic.nl/)** for co-sponsoring and hosting this event.
 

@@ -11,7 +11,7 @@ Welcome to the February 2013 edition of *[Galaxy Update](/src/galaxy-updates/ind
 
 <div class='left'> <a href='http://yeoman.usask.ca/'><img src="/src/images/logos/USaskatchewanBIRLLogo.jpg" alt="SAPHIRE on Yeoman by the University of Saskatchewan Bioinformatics Research Group" width="120" /></a></div>
 
-The **[Yeoman Galaxy Server](http://yeoman.usask.ca/)** runs the **SA**skatchewan **PH**osphorylation **I**nternet **RE**source (SAPHIRE). This tool by the [University of Saskatchewan Bioinformatics Research Group](http://www.cs.usask.ca/research/research_groups/birl/) allows you to predict phosphorylation sites in soybean proteins, and will be expanded to other plants in the near future. See also "[Computational phosphorylation site prediction in plants using random forests and organism-specific instance weights](http://dx.doi.org/10.1093/bioinformatics/btt031)," by Brett Trost, Anthony Kusalik, *Bioinformatics* (22 January 2013)
+The **[Yeoman Galaxy Server](http://yeoman.usask.ca/)** runs the **SA**skatchewan **PH**osphorylation **I**nternet **RE**source (SAPHIRE). This tool by the [University of Saskatchewan Bioinformatics Research Group](http://www.cs.usask.ca/research/research_groups/birl/) allows you to predict phosphorylation sites in soybean proteins, and will be expanded to other plants in the near future. See also "[Computational phosphorylation site prediction in plants using random forests and organism-specific instance weights](https://doi.org/10.1093/bioinformatics/btt031)," by Brett Trost, Anthony Kusalik, *Bioinformatics* (22 January 2013)
 
 **Note:** The Yeoman Galaxy server is no longer running.  From Brett Trost:
 
@@ -21,25 +21,25 @@ Brett further explained that this was partly because the lab's skill set made se
 
 <br />
 
-<div class='right'> <a href='http://rnaseq.pathogenportal.org/'><img src="/src/public-galaxy-servers/PathogenPortalPage.png" alt="Pathogen Portal" width="150" /></a></div>
+<div class='right'> <a href='http://rnaseq.pathogenportal.org/'><img src="/src/use/archive/rna-rocket-pathogen-portal/pathogen-portal-page.png" alt="Pathogen Portal" width="150" /></a></div>
 
 **[Pathogen Portal](http://www.pathogenportal.org)** supports comparative analysis of host response to pathogens.  It provides an RNA-Seq pipeline to characterize the transcriptome of all NIAID Bioinformatic Resource Center (BRC) pathogens and their key hosts.  It can analyze transcriptome data for genomes stored at [EuPathDB](http://www.eupathdb.org/), [PATRIC](http://www.patricbrc.org/), and [VectorBase](http://www.vectorbase.org/). The pipeline is built on Galaxy. Galaxy has been modified to simplify RNA-Seq analysis for *informatics-naïve, biologically focused* users and provide a guided experience to quality control of read data, read mapping, assembling transcripts, estimating gene expression values, and doing differential expression analysis.  See "[Database resources for the tuberculosis community](http://www.sciencedirect.com/science/article/pii/S147297921200203X)" by Lew, *et al.* 
 
 <br />
 
-<div class='right'> <a href='http://biordf.org:8090/'><img src="/src/public-galaxy-servers/OPPLGalaxyToolPage.png" alt="OPPL Galaxy" width="120" /></a></div>
+<div class='right'> <a href='http://biordf.org:8090/'><img src="/src/public-galaxy-servers/archive/oppl-galaxy-tool-page.png" alt="OPPL Galaxy" width="120" /></a></div>
 
 **[OPPL-Galaxy](http://wilkinsonlab.info/OPPL-Galaxy)** is a set of functions that can be executed over OWL ontologies with the aim of facilitating the use of semantic activities within Galaxy Bioinformatics workflows. Additional NCBO-Galaxy tools provide Galaxy users with the functionality of the NCBO BioPortal services.  See "[OPPL-Galaxy, a Galaxy tool for enhancing ontology exploitation as part of bioinformatics workflows](http://www.jbiomedsem.com/content/4/1/2/abstract)" by by Aranguren, *et al.*
 
 <br />
 
-These servers join the [growing list of public Galaxy servers](/src/public-galaxy-servers/index.md).
+These servers join the [growing list of public Galaxy servers](/src/use/index.md).
 
 
 ## New Papers
 
 <div class='left'>
-<table>
+<table class="table">
   <tr>
     <th> # </th>
     <th> Tag </th>
@@ -72,12 +72,12 @@ These servers join the [growing list of public Galaxy servers](/src/public-galax
 
 </div>
 
-These papers may be of interest to the Galaxy community.  The first three describe the [Public Galaxy servers](/src/public-galaxy-servers/index.md) listed above.
+These papers may be of interest to the Galaxy community.  The first three describe the [Public Galaxy servers](/src/use/index.md) listed above.
 
-* "[Computational phosphorylation site prediction in plants using random forests and organism-specific instance weights](http://dx.doi.org/10.1093/bioinformatics/btt031)," by Brett Trost, Anthony Kusalik, *Bioinformatics* (22 January 2013)
-* "[Database resources for the tuberculosis community](http://dx.doi.org/10.1016/j.tube.2012.11.003)," by Lew, *et al.*, *Tuberculosis* (January 2013)
-* "[OPPL-Galaxy, a Galaxy tool for enhancing ontology exploitation as part of bioinformatics workflows](http://dx.doi.org/10.1186/2041-1480-4-2)," by Aranguren, *et al.*, *Journal of Biomedical Semantics*, Vol. 4, No. 1. (2013), 2
-* "[A genome-wide view of mutation rate co-variation using multivariate analyses](http://dx.doi.org/10.1186/gb-2011-12-3-r27)," by Ananda, *et al.*, *Genome Biology*, Vol. 12, No. 3. (22 March 2011), R27
+* "[Computational phosphorylation site prediction in plants using random forests and organism-specific instance weights](https://doi.org/10.1093/bioinformatics/btt031)," by Brett Trost, Anthony Kusalik, *Bioinformatics* (22 January 2013)
+* "[Database resources for the tuberculosis community](https://doi.org/10.1016/j.tube.2012.11.003)," by Lew, *et al.*, *Tuberculosis* (January 2013)
+* "[OPPL-Galaxy, a Galaxy tool for enhancing ontology exploitation as part of bioinformatics workflows](https://doi.org/10.1186/2041-1480-4-2)," by Aranguren, *et al.*, *Journal of Biomedical Semantics*, Vol. 4, No. 1. (2013), 2
+* "[A genome-wide view of mutation rate co-variation using multivariate analyses](https://doi.org/10.1186/gb-2011-12-3-r27)," by Ananda, *et al.*, *Genome Biology*, Vol. 12, No. 3. (22 March 2011), R27
 
 There are now over [830 papers in the Galaxy CiteULike Group](http://www.citeulike.org/group/16008/).
 
@@ -151,7 +151,7 @@ See the [Galaxy Events Google Calendar](http://bit.ly/gxycal) for details on the
 
 ### Events
 
-<table>
+<table class="table">
   <tr class="th" >
     <th> Date </th>
     <th> Topic/Event </th>
@@ -238,7 +238,7 @@ See the [Galaxy Events Google Calendar](http://bit.ly/gxycal) for details on the
 <br />
 <br />
 * XML defined [Tool shed repository dependencies](/src/defining-repository-dependencies/index.md) introduced
-* [Various enhancements](/src/archive/dev-news-briefs/2013-01-11/index.md#other_tool_shed) to [Tool shed](/src/toolshed/index.md) containers, display of README files and SVG images, and the tool shed's [functional test framework](/src/toolshed/hosting-a-local-toolshed/index.md#functional_test_framework_for_the_tool_shed).
+* [Various enhancements](/src/archive/dev-news-briefs/2013-01-11/index.md#other-tool-shed) to [Tool shed](/src/toolshed/index.md) containers, display of README files and SVG images, and the tool shed's [functional test framework](/src/toolshed/hosting-a-local-toolshed/index.md#functional-test-framework-for-the-tool-shed).
 * [New genomes](/src/archive/dev-news-briefs/2013-01-11/index.md#data) added to **[Main](/src/main/index.md)** Galaxy instance and rsync download.
 * Plus bug fixes and related enhancements for visualizations, histories, workflows, and tools.
 

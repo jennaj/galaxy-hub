@@ -4,21 +4,21 @@ title: Galaxy Mailing Lists
 Mailing lists play a vital role in the Galaxy community:
 
 1. They are a key part of [Galaxy's overall support efforts](/src/support/index.md).
-1. **They complement the [Galaxy Biostar forum](/src/support/biostar/index.md), which is focused on questions about *using* Galaxy.**
+1. **They complement the [Galaxy Help Forum](https://help.galaxyproject.org/) (and formerly the [Galaxy Biostar forum](/src/support/biostar/index.md)).**
 1. They are a place where the community *[can ask and answer](/src/mailing-lists/index.md#posting-a-question)* questions.
 1. They are a place for the discussion of open issues and best practices.
 1. They are also a *[searchable treasure trove of knowledge about Galaxy](/src/mailing-lists/index.md#searching)*.  
 1. Finally, they are a great way to learn what is going on in the Galaxy Community.  
 
-# BioStar
+# Galaxy Help Forum
 
-<div class='right'><a href='https://biostar.usegalaxy.org/'><img src='/src/images/logos/GalaxyBiostar.png' alt='Galaxy Biostar' width="200" /></a></div>
+If you prefer an online forum to a mailing list, or if you have a question about *using Galaxy* then please use the [online Galaxy Help Forum](https://help.galaxyproject.org/).
 
-**For questions about *using Galaxy* please use the [Galaxy Biostar forum](https://biostar.usegalaxy.org/).  See the [Biostar hub page](/src/support/biostar/index.md) for more on how to use [Galaxy Biostar](https://biostar.usegalaxy.org/) and its integration with [usegalaxy.org](/src/main/index.md).**
+# BioStar (deprecated)
 
-(The Galaxy-User mailing was migrated to the [Galaxy Biostar forum](https://biostar.usegalaxy.org/) in Spring 2014.  All posts to Galaxy-User were migrated to the [forum](https://biostar.usegalaxy.org/) at that time.) 
+***Note: [Galaxy BioStar](https://biostar.usegalaxy.org/)) was deprecated in November 2018.  The old site and questions and answers are still online, but all new questions should go to the [online Galaxy Help Forum](https://help.galaxyproject.org/).***
 
-
+(The Galaxy-User mailing was migrated to the [Galaxy Biostar forum](https://biostar.usegalaxy.org/) in Spring 2014.  All posts to Galaxy-User were migrated to Galaxy BioStar at that time.) 
 
 # The lists
 
@@ -32,52 +32,34 @@ Galaxy has several active mailing lists, each for a different purpose in the Gal
     <th> Archives (see <a href='/src/mailing-lists#searching'>Searching</a>) </th>
   </tr>
   <tr>
-    <th> <a href='http://announce.list.galaxyproject.org/'>galaxy-announce</a> </th>
+    <th> <a href='https://lists.galaxyproject.org/lists/galaxy-announce.lists.galaxyproject.org/'>galaxy-announce</a> </th>
     <td> Announcements of interest to the Galaxy community.  <em>Moderated and low volume.</em> </td>
     <td> </td>
-    <td> <a href='http://announce.list.galaxyproject.org/'>Nabble</a>, <a href='https://lists.galaxyproject.org/pipermail/galaxy-announce/'>Mailman</a> </td>
+    <td> <a href='https://lists.galaxyproject.org/archives/list/galaxy-announce@lists.galaxyproject.org/'>Mailman</a> </td>
   </tr>
   <tr>
-    <th> <a href='http://dev.list.galaxyproject.org/'>galaxy-dev</a> </th>
+    <th> <a href='https://lists.galaxyproject.org/lists/galaxy-dev.lists.galaxyproject.org/'>galaxy-dev</a> </th>
     <td> Local installation, configuration, and tool integration help, or to propose new features. <em><a href='/src/galaxy-project/statistics#mailing-lists'>High volume</a>.</em> </td>
     <td> galaxy-dev AT lists DOT galaxyproject DOT org </td>
-    <td> <a href='http://dev.list.galaxyproject.org/'>Nabble</a>, <a href='https://lists.galaxyproject.org/pipermail/galaxy-dev/'>Mailman</a> </td>
+    <td> <a href='https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/'>Mailman</a> </td>
   </tr>
   <tr>
-    <th> <a href='http://proteomics.list.galaxyproject.org/'>galaxy-proteomics</a> </th>
+    <th> <a href='https://lists.galaxyproject.org/lists/galaxy-proteomics.lists.galaxyproject.org/'>galaxy-proteomics</a> </th>
     <td> Proteomics related questions, announcements, and anything else of interest to the Galaxy proteomics community.<em> <a href='/src/galaxy-project/statistics#mailing-lists'>Low volume</a>.</em> </td>
     <td> galaxy-proteomics AT lists DOT galaxyproject DOT org </td>
-    <td> <a href='http://proteomics.list.galaxyproject.org/'>Nabble</a>, <a href='https://lists.galaxyproject.org/pipermail/galaxy-proteomics/'>Mailman</a> </td>
+    <td> <a href='https://lists.galaxyproject.org/archives/list/galaxy-proteomics@lists.galaxyproject.org/'>Mailman</a> </td>
   </tr>
   <tr>
-    <th> <a href='http://galaxy-training-mailing-list-archive.35427.n7.nabble.com/'>galaxy-training</a> </th>
-    <td> If you have a question about <a href='/src/teach'>teaching bioinformatics with Galaxy, or about teaching Galaxy itself</a>, then this is a good place to find an answer. This is also the official mailing list of the <a href='/src/teach/gtn'>Galaxy Training Network (GTN)</a>. </td>
+    <th> <a href='https://lists.galaxyproject.org/lists/galaxy-training.lists.galaxyproject.org/'>galaxy-training</a> </th>
+    <td> If you have a question about <a href='https://training.galaxyproject.org/'>teaching bioinformatics with Galaxy, or about teaching Galaxy itself</a>, then this is a good place to find an answer. This is also the official mailing list of the <a href='https://training.galaxyproject.org/'>Galaxy Training Network (GTN)</a>. </td>
     <td> galaxy-training AT lists DOT galaxyproject DOT org </td>
-    <td> <a href='http://galaxy-training-mailing-list-archive.35427.n7.nabble.com/'>Nabble</a>, <a href='https://lists.galaxyproject.org/pipermail/galaxy-training/'>Mailman</a> </td>
+    <td> <a href='https://lists.galaxyproject.org/archives/list/galaxy-training@lists.galaxyproject.org/'>Mailman</a> </td>
   </tr>
   <tr>
-    <th> <a href='http://france.list.galaxyproject.org/'>galaxy-france</a> </th>
-    <td> Cette liste est destinée à l'information (et aux discussions) de la Communauté francaise Galaxy. (This list is for announcements to (and discussion within) the French Galaxy Community. Most list content is in French.)  <em><a href='/src/galaxy-project/statistics#mailing-lists'>Faible volume / Low volume</a>.</em> </td>
-    <td> galaxy-france AT lists DOT galaxyproject DOT org </td>
-    <td> <a href='http://france.list.galaxyproject.org/'>Nabble</a>, <a href='https://lists.galaxyproject.org/pipermail/galaxy-france/'>Mailman</a> </td>
-  </tr>
-  <tr>
-    <th> <a href='https://groups.google.com/a/groups.galaxyproject.org/forum/#!forum/galaxy-uk'>galaxy-uk</a> </th>
-    <td> Mailing list for the <a href='http://galaxy-community.org.uk/'>Galaxy-UK community</a>.  This is <em>not</em> a support list. </td>
-    <td> galaxy-uk AT groups DOT galaxyproject DOT org </td>
-    <td> <a href='https://groups.google.com/a/groups.galaxyproject.org/forum/#!forum/galaxy-uk'>Google Groups</a></td>
-  </tr>
-  <tr>
-  <th> <a href='https://lists.galaxyproject.org/listinfo/galaxy-public-servers'>galaxy-public-servers</a> </th>
-  <td> Llist is for system administrators, software developers, and principal investigators that are responsible for Galaxy servers that are publicly accessible. By "publicly accessible" we mean that anyone on the web can create an account, upload data, and performa analysis on the server. It does not mean that there are no limits on the server.  The list is used mainly to communicate security concerns a day or two before public announcements.  *Anyone associated with any server that is listed on the [Public Galaxy Servers](https://galaxyproject.org/public-galaxy-servers/) or [Galaxy Services]https://galaxyproject.org/galaxy-services/) pages is eligible and encouraged to be on this list.*  </td>
+    <th> <a href='https://lists.galaxyproject.org/lists/galaxy-public-servers.lists.galaxyproject.org/'>galaxy-public-servers</a> </th>
+    <td> List is for system administrators, software developers, and principal investigators that are responsible for Galaxy servers that are publicly accessible. By "publicly accessible" we mean that anyone on the web can create an account, upload data, and perform analyses on the server. It does not mean that there are no limits on the server.  The list is used mainly to communicate security concerns a day or two before public announcements.  *Anyone associated with any platfomr that is listed in the [Galaxy Platform Directory](/src/use/index.md) is eligible and encouraged to be on this list.*  </td>
     <td> galaxy-public-servers AT lists DOT galaxyproject DOT org </td>
-    <td> <a href='https://lists.galaxyproject.org/pipermail/galaxy-public-servers/'>Mailman</a> (protected)</td>
-  </tr>
-  <tr>
-    <th> <a href='https://lists.galaxyproject.org/listinfo/galaxy-commits'>galaxy-commits</a> </th>
-    <td> Galaxy source control commit messages. </td>
     <td> </td>
-    <td> <a href='https://lists.galaxyproject.org/pipermail/galaxy-commits/'>Mailman</a> </td>
   </tr>
 </table>
 
@@ -86,25 +68,8 @@ Galaxy has several active mailing lists, each for a different purpose in the Gal
 
 # Searching
 
-You can search all lists at any of the archives above.  We recommend using [Galaxy Search](/src/search/index.md) to search all mailing list archives and [BioStar forum posts](https://biostar.usegalaxy.org/).
+You can search all lists at any of the archives above.  We recommend using [Galaxy Search](/src/search/index.md) to search all mailing list archives and [online forum posts](https://help.galaxyproject.org/).
 
-
-# Subscribing and Unsubscribing
-
-<div class='right'>![](/src/images/logos/MailmanLogoSmall.png)</div>
-To subscribe or unsubscribe from a list, click the link below and then follow the directions on the list page.  If you are unsubscribing you will need to use the same email address you subscribed with.
-
-
-| List              | Subscribe | Unsubscribe |
-|-------------------|-----------|-------------|
-| galaxy-announce   | [subscribe](https://lists.galaxyproject.org/listinfo/galaxy-announce)| [unsubscribe](https://lists.galaxyproject.org/listinfo/galaxy-announce#subscribers) |
-| galaxy-dev        | [subscribe](https://lists.galaxyproject.org/listinfo/galaxy-dev)| [unsubscribe](https://lists.galaxyproject.org/listinfo/galaxy-dev#subscribers) |
-| galaxy-proteomics | [subscribe](https://lists.galaxyproject.org/listinfo/galaxy-proteomics)| [unsubscribe](https://lists.galaxyproject.org/listinfo/galaxy-proteomics#subscribers) |
-| galaxy-training   | [subscribe](https://lists.galaxyproject.org/listinfo/galaxy-training)| [unsubscribe](https://lists.galaxyproject.org/listinfo/galaxy-training#subscribers) |
-| galaxy-france     | [subscribe](https://lists.galaxyproject.org/listinfo/galaxy-france)| [unsubscribe](https://lists.galaxyproject.org/listinfo/galaxy-france#subscribers) |
-| galaxy-uk         | [subscribe](https://groups.google.com/a/groups.galaxyproject.org/forum/#!forum/galaxy-uk)| [unsubscribe](https://groups.google.com/a/groups.galaxyproject.org/forum/#!forum/galaxy-uk) |
-| galaxy-public-servers | [subscribe](https://lists.galaxyproject.org/listinfo/galaxy-public-servers) | [unsubscribe](https://lists.galaxyproject.org/listinfo/galaxy-public-servers)
-| galaxy-commits    | [subscribe](https://lists.galaxyproject.org/listinfo/galaxy-commits)| [unsubscribe](https://lists.galaxyproject.org/listinfo/galaxy-commits#subscribers) |
 
 # Posting a Question
 

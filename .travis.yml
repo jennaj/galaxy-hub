@@ -1,9 +1,9 @@
 sudo: required
-language: node_js
 services:
-  - docker
-
-node_js:
-  - "node"
-script: make docker-build
-after_script: ls -lah build/
+    - docker
+git:
+  lfs_skip_smudge: true
+script:
+    - make docker-build
+after_script:
+    - ls -lah build/

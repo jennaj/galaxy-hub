@@ -10,15 +10,16 @@ block content
                 tbody
                     each item in news
                         tr
-                            td: span.text-nowrap #{helpers.moment(item.date).format("MMMM Do YYYY")}
-                            td: a( href=item.link ) #{item.title}
-                            td: p.small
-                                if item.tease
-                                    | #{item.tease}
+                            td: span.text-nowrap #{moment(item.date).format("MMMM Do YYYY")}
+                            td
+                                if item.external_url
+                                    a( href=item.external_url ) #{item.title}
                                 else
-                                    | !{helpers._.replace(helpers._.replace(helpers.marked(item.contents), /(<.+?\>|&nbsp;)/g, ''),/\s+/g,' ').slice(0,80) + "..."}
+                                    a( href=item.link ) #{item.title}
+                            td: p.small
+                                +renderTeaseOrSlice(item)
             h2(id="add-news-item") Adding a news item
             p
                 | To add a news item, create a new folder in 
                 a(href="https://github.com/galaxyproject/galaxy-hub/tree/master/src/news") https://github.com/galaxyproject/galaxy-hub/tree/master/src/news
-                |  with an 'index.md' file.  It's probably easiest to copy the format from one of the other existing news items.
+                |  with an 'index.md' file.  It's probably easiest to copy the format from one of the other existing news items as a template.

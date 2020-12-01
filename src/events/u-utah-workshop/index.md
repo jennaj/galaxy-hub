@@ -2,9 +2,7 @@
 title: Introduction to Galaxy
 ---
 <div class='center'>
-<a href='http://utah.edu/'><img src="/src/images/logos/UUtah.png" alt="University of Utah" width="150" /></a>
-
-
+<a href='http://utah.edu/'><img src="/src/images/logos/UUtah.png" alt="University of Utah" width="150" /></a><br /><br />
 
 **Instructor: [Dave Clements](/src/people/dave-clements/index.md)
 
@@ -37,7 +35,7 @@ No programming or Linux command line experience is required.
 
 *The agenda below is tentative and should be considered a work in progress.*
 
-<table>
+<table class="table">
   <tr class="th" >
     <th> Time </th>
     <th> Topic </th>
@@ -93,10 +91,6 @@ This workshop is generously supported by an [AWS in Education](http://aws.amazon
 ## Slides
 
 * [Slides](https://depot.galaxyproject.org/hub/attachments/documents/presentations/2016UUtahWorkshop.pdf)
-
-## Feedback
-
-* **[We'll ask for it!](/src/We'll ask for it!/index.md)**
 
 ## Questions?
 

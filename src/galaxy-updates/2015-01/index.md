@@ -9,17 +9,17 @@ Welcome to the January *[Galaxy Update](/src/galaxy-updates/index.md)*, a summar
 
 63 papers referencing, using, extending, and implementing Galaxy were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in December, *bringing the total to over 2000 papers*. Some of those new papers are:
 
-* [Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics](http://dx.doi.org/10.1093/bioinformatics/btu813)
+* [Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics](https://doi.org/10.1093/bioinformatics/btu813)
     *Bioinformatics* (19 December 2014), btu813, doi:10.1093/bioinformatics/btu813, by Franck Giacomoni, Gildas Le Corguillé, Misharl Monsoor, *et al.*
 
-* [MetaNET - a web-accessible interactive platform for biological metabolic network analysis](http://dx.doi.org/10.1186/s12918-014-0130-2)
+* [MetaNET - a web-accessible interactive platform for biological metabolic network analysis](https://doi.org/10.1186/s12918-014-0130-2)
     *BMC Systems Biology*, Vol. 8, No. 1. (5 December 2014), doi:10.1186/s12918-014-0130-2, by Pankaj Narang, Shawez Khan, Anmol J. Hemrom, Andrew M. Lynn
 
-* [ImmunoGlobulin galaxy (IGGalaxy) for simple determination and quantitation of immunoglobulin heavy chain rearrangements from NGS](http://dx.doi.org/10.1186/s12865-014-0059-7)
+* [ImmunoGlobulin galaxy (IGGalaxy) for simple determination and quantitation of immunoglobulin heavy chain rearrangements from NGS](https://doi.org/10.1186/s12865-014-0059-7)
     *BMC Immunology*, Vol. 15, No. 1. (13 December 2014), 59, doi:10.1186/s12865-014-0059-7, by Michael J. Moorhouse, David van Zessen, Hanna IJspeert, *et al.*<br />
     Also see the [Immunoglobulin Galaxy VM](http://bit.ly/IGGXY_VM)
 
-* [VectorBase: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases](http://dx.doi.org/10.1093/nar/gku1117)
+* [VectorBase: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases](https://doi.org/10.1093/nar/gku1117)
     *Nucleic Acids Research* (15 December 2014), doi:10.1093/nar/gku1117, by Gloria I. Giraldo-Calderón, Scott J. Emrich, Robert M. MacCallum, *et al.*
 
 The new papers covered these topics:
@@ -234,14 +234,14 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Servers
 
-2 new [public Galaxy servers](/src/public-galaxy-servers/index.md) were added in December
+2 new [public Galaxy servers](/src/use/index.md) were added in December
 
 ## MetaNET
 
-<div class='right solid'><a href='http://metanet.osdd.net/'><img src="/src/public-galaxy-servers/MetaNETLogo200.png" alt="MetaNET"  /></a></div>
+<div class='right solid'><a href='http://metanet.osdd.net/'><img src="/src/public-galaxy-servers/archive/metanet-logo-200.png" alt="MetaNET"  /></a></div>
 * *Links:*
   * [MetaNET server](http://metanet.osdd.net/)
-  * [MetaNET - a web-accessible interactive platform for biological metabolic network analysis](http://dx.doi.org/10.1186/s12918-014-0130-2), by Pankaj Narang, Shawez Khan, Anmol J. Hemrom, Andrew M. Lynn, *BMC Systems Biology,* Vol. 8, No. 1. (5 December 2014), doi:10.1186/s12918-014-0130-2
+  * [MetaNET - a web-accessible interactive platform for biological metabolic network analysis](https://doi.org/10.1186/s12918-014-0130-2), by Pankaj Narang, Shawez Khan, Anmol J. Hemrom, Andrew M. Lynn, *BMC Systems Biology,* Vol. 8, No. 1. (5 December 2014), doi:10.1186/s12918-014-0130-2
 * *Domain/Purpose:*
   * [MetaNET](http://metanet.osdd.net/) is a web-accessible interactive platform for biological metabolic network analysis.
 * *Comments:*
@@ -276,14 +276,14 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 <div class='solid'>
 <table>
   <tr>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/teach/index.md'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
   </tr>
   <tr>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your <a href='/src/teach/resources/index.md#add-a-training-resource'>training resources</a> and <a href='/src/teach/trainers/index.md#add-a-trainer'>experience</a> <em>now</em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your training resources and experience <em>now</em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </strong> </td>
   </tr>
 </table>
 
@@ -291,15 +291,15 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 ## New Galaxy Training Resources
 
-Several new [Training Resources](/src/teach/resources/index.md) were added in December:
+Several new Training Resources were added in December:
 
-* [UC Davis RNA-Seq and ChIP-Seq Analysis with Galaxy Workshop](/src/teach/resource/uc-davis-rna-chip-workshop/index.md) from the [UC Davis Bioinformatics Core](http://bioinformatics.ucdavis.edu/)
-* [Running your own Galaxy instance (in the cloud)](/src/teach/resource/chb-harvard-cloudman/index.md) from the [Center for Health Bioinformatics](http://compbio.sph.harvard.edu/chb/) at the [Harvard School of Public Health](http://www.hsph.harvard.edu/) 
-* [Introduction to Galaxy](/src/teach/resource/chb-harvard-intro/index.md) from the [Center for Health Bioinformatics](http://compbio.sph.harvard.edu/chb/) at the [Harvard School of Public Health](http://www.hsph.harvard.edu/)
+* UC Davis RNA-Seq and ChIP-Seq Analysis with Galaxy Workshop from the [UC Davis Bioinformatics Core](http://bioinformatics.ucdavis.edu/)
+* Running your own Galaxy instance (in the cloud from the [Center for Health Bioinformatics](http://compbio.sph.harvard.edu/chb/) at the [Harvard School of Public Health](http://www.hsph.harvard.edu/) 
+* Introduction to Galaxy from the [Center for Health Bioinformatics](http://compbio.sph.harvard.edu/chb/) at the [Harvard School of Public Health](http://www.hsph.harvard.edu/)
 
 # New Releases
 
-[BioBlend v0.5.2 was released in October](/src/news/bio-blend-v0.5.2/index.md).  [BioBlend](https://github.com/afgane/bioblend) is a python library for interacting with CloudMan and the [Galaxy API](/src/learn/api/index.md).  
+[BioBlend v0.5.2 was released in October](/src/news/bio-blend-v0.5.2/index.md).  [BioBlend](https://github.com/afgane/bioblend) is a python library for interacting with CloudMan and the [Galaxy API](/src/develop/api/index.md).  
 
 New versions of [Galaxy](/src/galaxy-updates/2014-09/index.md#august-11-2014-galaxy-distribution), [CloudMan](/src/galaxy-updates/2014-09/index.md#august-2014-cloudman-release), and [blend4j](/src/galaxy-updates/2014-09/index.md#blend4j-011-release) were all released in August.
 
@@ -388,8 +388,8 @@ In no particular order:
   * [package_r_3_1_2](https://toolshed.g2.bx.psu.edu/view/iuc/package_r_3_1_2):  Contains a tool dependency definition that downloads and compiles version 3.0.3 of the the R package.
 * *From [devteam](https://toolshed.g2.bx.psu.edu/view/devteam):*
   * [package_bowtie_2_2_4](https://toolshed.g2.bx.psu.edu/view/devteam/package_bowtie_2_2_4): tool dependency definition that downloads and compiles version 2.2.4 of the Bowtie package Contains a tool dependency definition that downloads and compiles version 2.2.4 of the Bowtie package
-  * [package_cufflinks_2_2_1](https://toolshed.g2.bx.psu.edu/view/devteam/package_cufflinks_2_2_1): tool dependency definition that downloads and compiles version 2.2.1 of the cufflinks RNA-Seq suite. This repository is intended to be [defined as a complex repository dependency within a separate repository.](/src/defining-repository-dependencies/index.md#complex-repository-dependencies-tool-dependency-definitions-that-contain-repository-dependency-definitions)
-  * [package_picard_1_126_0](https://toolshed.g2.bx.psu.edu/view/devteam/package_picard_1_126_0): tool dependency definition that downloads and compiles version 1.126.0 of the Picard package. This repository is intended to be [defined as a complex repository dependency within a separate repository.](/src/defining-repository-dependencies/index.md#complex-repository-dependencies-tool-dependency-definitions-that-contain-repository-dependency-definitions)
+  * [package_cufflinks_2_2_1](https://toolshed.g2.bx.psu.edu/view/devteam/package_cufflinks_2_2_1): tool dependency definition that downloads and compiles version 2.2.1 of the cufflinks RNA-Seq suite. This repository is intended to be [defined as a complex repository dependency within a separate repository.](/src/toolshed/defining-repository-dependencies/index.md#complex-repository-dependencies-tool-dependency-definitions-that-contain-repository-dependency-definitions)
+  * [package_picard_1_126_0](https://toolshed.g2.bx.psu.edu/view/devteam/package_picard_1_126_0): tool dependency definition that downloads and compiles version 1.126.0 of the Picard package. This repository is intended to be [defined as a complex repository dependency within a separate repository.](/src/toolshed/defining-repository-dependencies/index.md#complex-repository-dependencies-tool-dependency-definitions-that-contain-repository-dependency-definitions)
   * [package_freebayes_0_9_18_0059bdf](https://toolshed.g2.bx.psu.edu/view/devteam/package_freebayes_0_9_18_0059bdf): tool dependency definition that downloads and compiles version 0.9.18 of FreeBayes. Program: freebayes (Bayesian haplotype-based polymorphism discovery and genotyping.)  Version: 0.9.18 (0059bdf)
 
 * *From [mrvollger](https://toolshed.g2.bx.psu.edu/view/mrvollger):*

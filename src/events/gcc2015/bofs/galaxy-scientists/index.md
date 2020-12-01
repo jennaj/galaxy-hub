@@ -1,23 +1,18 @@
 ---
-title: [GalaxyScientists](/src/galaxy-scientists/index.md)
+title: GalaxyScientists
 ---
 {{> Events/GCC2015/Header }}
 
 
-
-
-<div class='dictbox'>
- BoF:: [GalaxyScientists](/src/events/gcc2015/bofs/galaxy-scientists/index.md)
- Summary:: New Community Group? aka "GalaxyUsers, GalaxyAnalysts, "GalaxyDataTypes"
- Audience:: Scientists using Galaxy interested in getting INVOLVED!
- When:: Tuesday, 7 July, 12:30 (Lunch)
- Where:: Franklin Room, JICCC
- Contact:: [JenniferJackson](/src/people/jennifer-jackson/index.md) & see [BoF](https://wiki.galaxyproject.org/Events/GCC2015/BoFs/GalaxyScientists) wiki
-</div>
-
 <div class='left'><a href='/src/events/gcc2015/bofs/index.md'><img src="/src/images/logos/GCC2015BoFs300.png" alt="GCC2015 BoFs!" width="160" /></a></div>
 
 This page describes the **GalaxyScientists** [Birds of a Feather](/src/events/gcc2015/bofs/index.md) Meetup held at [GCC2015](http://gcc2015.tsl.ac.uk/). Don't worry if you don't know what this group is .. the BoF is intended to define and create it! 
+
+When:: Tuesday, 7 July, 12:30 (Lunch)
+
+Where:: Franklin Room, JICCC
+
+Contact:: [JenniferJackson](/src/people/jennifer-jackson/index.md) & see [BoF](https://wiki.galaxyproject.org/Events/GCC2015/BoFs/GalaxyScientists) wiki
 
 <br />
 ## Description
@@ -51,7 +46,7 @@ If you are interested, please add your name below.
 * Hans-Rudolf Hotz, 
 * Frederik Coppens
 * Rob Davidson
-* Eric Rasche
+* Helena Rasche
 * Maria Doyle
 * Peter van Heusden
 * Daniel Blankenberg
@@ -73,7 +68,7 @@ Send them to Jennifer Hillman-Jackson, Karen Ready or Mo Heydarian.
 
 Form the group! Please reserve discussion topics to those that directly concern the core targets. 
 
-Heads up [GalaxyAdmins](/src/GalaxyAdmins/index.md), please join us! A primary target goal is to complement the input your community group provides to Galaxy. We'd love your help in determining optimal organizational strategies.
+Heads up [GalaxyAdmins](/src/community/galaxy-admins/index.md), please join us! A primary target goal is to complement the input your community group provides to Galaxy. We'd love your help in determining optimal organizational strategies.
 
 ## Ideas
 
@@ -97,7 +92,7 @@ Add these before the BoF to aid in focusing our discussion. We'll create a [http
 
 The Galaxy Scientists Community represents Galaxy end-users and gives them a voice to interact with the core team. However, **the activities of the Galaxy Scientists Community shall not interfere with core team activities, priorities, and current user support, or feedback loops. **
 
-The Galaxy Scientists may or may not include support, training, faq projects (bundling of existing resources, creating new ones, all in a centralized location), **but should not interfere with [Galaxy Training Network](/src/teach/gtn/index.md).**
+The Galaxy Scientists may or may not include support, training, faq projects (bundling of existing resources, creating new ones, all in a centralized location), **but should not interfere with [Galaxy Training Network](https://training.galaxyproject.org/).**
 
 
 ### Action Items:

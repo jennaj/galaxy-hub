@@ -1,12 +1,12 @@
 ---
 title: Get Galaxy
 ---
-Here you will find information on obtaining and setting up a Galaxy instance with default configuration. 
+Here you will find information on obtaining and setting up a Galaxy instance with default configuration.
 
 # Requirements
 
 * UNIX/Linux or Mac OSX
-* [Python 2.7](/src/admin/python/index.md)
+* [Python 3.6 or 3.5](/src/admin/python/index.md)
 
 # Get Started
 
@@ -19,14 +19,14 @@ If setting up or running a production Galaxy service or creating your own person
 If you do not have a Galaxy repository yet or you do not want to update the existing instance, run:
 
 ```
-$ git clone -b release_17.01 https://github.com/galaxyproject/galaxy.git
+$ git clone -b release_20.09 https://github.com/galaxyproject/galaxy.git
 ```
-### Updating exiting
+### Updating existing
 
 If you have an existing Galaxy repository and want to update it, run:
 
 ```
-$ git checkout release_17.01 && git pull --ff-only origin release_17.01
+$ git fetch origin && git checkout release_20.09 && git pull --ff-only origin release_20.09
 ```
 
 
@@ -46,46 +46,49 @@ Galaxy requires a few things to run: a virtualenv, configuration files, and depe
 $ sh run.sh
 ```
 
-This will start up the Galaxy server on localhost and port 8080. Galaxy can then be accessed from a web browser at http://localhost:8080. After starting, Galaxy's server will print output to the terminal window. To stop the Galaxy server, use `Ctrl-C` in the terminal window from which Galaxy is running.
-
-To access Galaxy over the network, modify the `config/galaxy.ini` file by changing the `host` setting to
-
-```python
-host = 0.0.0.0
-```
-
-Upon restarting, Galaxy will bind to any available network interfaces instead of the loopback.
+This will start up the Galaxy server on localhost and port 8080. Galaxy can then be accessed from a web browser at http://localhost:8080. After starting, Galaxy's server will print output to the terminal window. To stop the Galaxy server, use `Ctrl-C` in the terminal window from which Galaxy is running. If galaxy does not start, you may be using the conda python. See the [admin docs](https://docs.galaxyproject.org/en/master/admin/framework_dependencies.html#conda) for more details.
 
 # Next Steps
 
+## Configure
+
+Since the release 18.01 Galaxy will run fine without an explicit configuration file, but if you want to modify its settings you need to create one. A good start is to copy the sample and rename it to `galaxy.yml`. You can do so with this command:
+
+```
+cp config/galaxy.yml.sample config/galaxy.yml
+```
+
+## Galaxy over network
+
+To access Galaxy over the network, modify the `config/galaxy.yml` file by changing the `http` setting. Galaxy will bind to any available network interfaces instead of the localhost if you change it like this:
+
+```
+http: 0.0.0.0
+```
+
 ## Become an Admin
 
-To control Galaxy through the UI (installing tools, managing users, creating groups, etc.), users must become an [administrator](/src/admin/index.md). Only registered users can become admins. To give a user admin privileges, complete the following steps:
-
-- Add the user's Galaxy login email to the configuration file `config/galaxy.ini`. As shown here:
+To control Galaxy through the UI (installing tools, managing users, creating groups, etc.), user must become an [administrator](/src/admin/index.md). Only registered users can become admins. To give a user admin privileges add the user's Galaxy login email to the configuration file `config/galaxy.yml`. If you don't have the file set it up using the instructions [above](#configure). The entry looks like this:
 
 ```
 # this should be a comma-separated list of valid Galaxy users
-admin_users = user1@example.com,user2@example.com
+admin_users: user1@example.com,user2@example.com
 ```
 
-- If the file does not exist, copy it from the provided sample: 
-
-```
-cp config/galaxy.ini.sample config/galaxy.ini
-```
-
-- Restart Galaxy after modifying the configuration file for changes to take effect.
-- Additional details can be found [below](/src/admin/get-galaxy/index.md#become-an-admin-example).
-
+<div class="alert alert-info" role="alert">
+You need to restart Galaxy after configuration file changes.
+</div>
 
 ## Install Tools
 
 Galaxy comes with a small set of basic tools pre-installed. To install additional tools, follow the instructions on [Installing tools into Galaxy from the Tool Shed](/src/admin/tools/add-tool-from-toolshed-tutorial/index.md).
 
-## Join the Mailing List
+## Join the Discussion
 
-To stay up-to-date on new Galaxy features and bug fixes, as well as to discuss future features, consider joining the [Galaxy Developers mailing list](https://lists.galaxyproject.org/listinfo/galaxy-dev/). See [Mailing Lists](/src/mailing-lists/index.md) for other options.
+To stay up-to-date on new Galaxy features and bug fixes, as well as to discuss future features, consider joining
+
+* the [Galaxy Developers mailing list](https://lists.galaxyproject.org/lists/galaxy-dev.lists.galaxyproject.org/). (See [Mailing Lists](/src/mailing-lists/index.md) for other options.)
+* the [Galaxy Gitter Channel](https://gitter.im/galaxyproject/Lobby) for a chat-based interface.
 
 ## Keep your instance backed up
 
@@ -93,7 +96,7 @@ Like any other application, Galaxy directories and Galaxy database tables should
 
 ## Configure for production
 
-The above instructions are intended for users wishing to develop Galaxy tools and Galaxy itself. To deploy a production-ready installation of Galaxy, some changes from the default configuration are highly recommended. If nothing else, switching to PostgreSQL or MySQL (from the default SQLite) is heavily endorsed to prevent database locking issues that can arise with multiple users.
+The above instructions are intended for users wishing to develop Galaxy tools and Galaxy itself. To deploy a production-ready installation of Galaxy, some changes from the default configuration are highly recommended. If nothing else, switching to PostgreSQL database (from the default SQLite) is heavily endorsed to prevent database locking issues that can arise with multiple users.
 
 Please see the [Running Galaxy in a production environment](/src/admin/config/performance/production-server/index.md) page for more details.
 
@@ -101,7 +104,7 @@ Please see the [Running Galaxy in a production environment](/src/admin/config/pe
 
 Galaxy development occurs in [GitHub](https://github.com/galaxyproject/galaxy/). Changes are stabilized in the `release_YY.MM` branches and then merged to `master` for each `YY.MM.point` release.
 
-To be made aware of new Galaxy releases, please join the [Galaxy Developers mailing list](https://lists.galaxyproject.org/listinfo/galaxy-dev/). Each release is accompanied by [release notes](https://docs.galaxyproject.org/en/master/releases/index.html).
+To be made aware of new Galaxy releases, please join the [Galaxy Developers mailing list](https://lists.galaxyproject.org/lists/galaxy-dev.lists.galaxyproject.org/). Each release is accompanied by [release notes](https://docs.galaxyproject.org/en/master/releases/index.html).
 
 At any time, you can check to see if a new stable release is available by using the `git log` command:
 
@@ -160,7 +163,7 @@ Restore the fresh backup if a database update was required, and then restart Gal
 
 * A common practice when using any web browser is to stay current with software updates to maximize performance and security. If moving forward to [production server](/src/admin/config/performance/production-server/index.md) with login enabled, please make sure you and your end-users are current.
 
-* Some tools shipped with Galaxy have dependencies that need to be satisfied manually. Please see details [here](/src/admin/tools/ToolDependencies/index.md).
+* Some tools shipped with Galaxy have dependencies that need to be satisfied manually. Please see details [here](/src/admin/config/tool-dependencies/index.md).
 
 # Additional Info
 
@@ -174,42 +177,6 @@ Be aware that using archives makes it more difficult to stay up-to-date with Gal
 
 If you're doing development or making changes to Galaxy, it is best practice to fork Galaxy in GitHub and update to/from your fork. See the [GitHub fork documentation](https://help.github.com/articles/fork-a-repo/) for details.
 
-## Become an Admin: Example
-
-Follow these steps to become an admin for a brand new Galaxy.
-
-*Prerequisites*
-
-* Galaxy was installed using Git.
-* Galaxy was started at least once using `sh run.sh`.
-* Galaxy is currently stopped. See our [documentaion](/src/admin/get-galaxy/index.md#shutting-down-galaxy) for help stopping Galaxy.
-
-*Check the default settings*
-
-The default setting for admin_users is: `#admin_users = None`. You can check this by running the following command:
-
-```sh
-$ grep "admin_users" config/galaxy.ini.sample
-```
-
-*Create a `config/galaxy.ini` file and add yourself as an administrator*
-
-The following command will: 1) remove the leading hash (`#`) character from the `admin_users` line, 2) replace `None` with the email address of the user being added as an admin, and 3) create a `config/galaxy.ini` file with `admin_users` changed. **Be careful to type the command exactly as written except for changing `admin@email.edu` to be the user's email address**.
-
-```sh
-$ sed 's/#admin_users = None/admin_users = admin@email.edu/' config/galaxy.ini.sample > config/galaxy.ini
-```
-
-*Confirm that the new `config/galaxy.ini` file is correctly formatted*
-
-Running the command below should result in the following output: `admin_users = admin@email.edu`
-
-```sh
-$ grep "admin_users" config/galaxy.ini
-```
-
-Start up Galaxy again and create an account - using the same email address - through the Galaxy web interface (if this hasn't been done already). The **Admin** tab will now appear in the masthead for that account.
-
 ## Shutting down Galaxy
 
 Below are simplified instructions for shutting down local Galaxy server. If your configuration is more complicated, getting help from an administrator is recommended.
@@ -219,9 +186,9 @@ Below are simplified instructions for shutting down local Galaxy server. If your
   * If Galaxy is one of many processes running in the background within a terminal window, find it with the command `jobs`. The list of jobs will be numbered. Bring the Galaxy job to the foreground with the command `fg <number_of_the_job>` and shut down with `Ctrl-c`.
 
 ### I have lost the terminal window running Galaxy
-  * From another terminal window, find all active processes with the command `ps`. The list of processes will each have a process ID (called PID). The target process will be named `python ./scripts/paster.py serve config/galaxy.ini.sample`. Stop it with the command `kill PID`, where "PID" is the actual process ID number.
-  * If you kill only the process named `sh run.sh`, this will result in conflicts and Galaxy will not restart. If you did this or are simply getting errors when trying to restart Galaxy, the solution is to kill the process `python ./scripts/paster.py serve config/galaxy.ini.sample` before restarting Galaxy again.
+  * From another terminal window, find all active processes with the command `ps`. The list of processes will each have a process ID (called PID). The target process will be named similiar to `/path/to/galaxy/.venv/bin/python2.7 .venv/bin/uwsgi [additional arguments]`. Stop it with the command `kill PID`, where "PID" is the actual process ID number.
+  * If you kill only the process named `sh run.sh`, this will result in conflicts and Galaxy will not restart. If you did this or are simply getting errors when trying to restart Galaxy, the solution is to kill the process above before restarting Galaxy again.
 
-## Ansible Playbook
+## Installation automation
 
-Look into Galaxy [KickStart Ansible playbook](https://github.com/ARTbio/GalaxyKickStart). To deploy Galaxy on your local machine or on the cloud using Ansible, you can use this playbook. Follow the steps in the [docs](https://artbio.github.io/GalaxyKickStart/) for details.
+If you're looking to automate your installation, try the [Galaxy Ansible Training](https://training.galaxyproject.org/training-material/topics/admin/tutorials/ansible-galaxy/tutorial.html) that's available from the Galaxy Training Network. Alternatively you can look into Galaxy [KickStart Ansible playbook](https://github.com/ARTbio/GalaxyKickStart).

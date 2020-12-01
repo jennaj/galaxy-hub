@@ -53,11 +53,11 @@ Welcome to the October 2012 edition of *[Galaxy Update](/src/galaxy-updates/inde
 
 These papers may be of interest to the Galaxy community:
 
-* [Turning pipe dreams into reality](http://dx.doi.org/10.1186/gb4039) by  Peter Li, [Jeremy Goecks](/src/people/jeremy-goecks/index.md), Tin L. Lee, *Genome Biology*, Vol. 13, No. 8. (2012), 318.
+* [Turning pipe dreams into reality](https://doi.org/10.1186/gb4039) by  Peter Li, [Jeremy Goecks](/src/people/jeremy-goecks/index.md), Tin L. Lee, *Genome Biology*, Vol. 13, No. 8. (2012), 318.
 
-* [Some Phenotype Association Tools in Galaxy: Looking for Disease SNPs in a Full Genome](http://dx.doi.org/10.1002/0471250953.bi1502s39), by Belinda M. Giardine, Cathy Riemer, Richard Burhans, Aakrosh Ratan, Webb Miller; in *Current Protocols in Bioinformatics* 39:15.2.1-15.2.27
+* [Some Phenotype Association Tools in Galaxy: Looking for Disease SNPs in a Full Genome](https://doi.org/10.1002/0471250953.bi1502s39), by Belinda M. Giardine, Cathy Riemer, Richard Burhans, Aakrosh Ratan, Webb Miller; in *Current Protocols in Bioinformatics* 39:15.2.1-15.2.27
 
-* [Galaxy Workflow Integration on Garuda Grid](http://dx.doi.org/10.1109/WETICE.2012.51), by  K. Karuna, N. Mangala, C. Janaki, S. Shashi, and C. Subrata; in Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE), 2012 IEEE 21st International Workshop on (June 2012), pp. 194-196
+* [Galaxy Workflow Integration on Garuda Grid](https://doi.org/10.1109/WETICE.2012.51), by  K. Karuna, N. Mangala, C. Janaki, S. Shashi, and C. Subrata; in Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE), 2012 IEEE 21st International Workshop on (June 2012), pp. 194-196
 
 These papers were among [35 papers added to the Galaxy CiteULike group](http://www.citeulike.org/group/16008/library) since the last [Galaxy Update](/src/galaxy-updates/index.md) (for a total of 456 papers in the last ~20 months).  The new papers are spread [across 8 categories](http://www.citeulike.org/group/16008/tags).
 
@@ -69,7 +69,7 @@ These papers were among [35 papers added to the Galaxy CiteULike group](http://w
 
 The [CUHK-BGI Innovation Institution of Trans-Omics (CBIIT)](http://www.cuhk.edu.hk/cbiit/) has now made its [Galaxy server](http://galaxy.cbiit.cuhk.edu.hk/) publicly available.  The CBIIT Galaxy Server has the standard Galaxy tool set plus SOAPdenovo and SOAPsnp for *de novo* assembly and SNP calling.  
 
-The [CBIIT Galaxy Server](http://galaxy.cbiit.cuhk.edu.hk/) joins the 20+ other publicly accessible servers on [Public Galaxy Servers list](/src/public-galaxy-servers/index.md).
+The [CBIIT Galaxy Server](http://galaxy.cbiit.cuhk.edu.hk/) joins the 20+ other publicly accessible servers on [Public Galaxy Servers list](/src/use/index.md).
 
 ## Who's Hiring
 
@@ -97,10 +97,7 @@ There are October application, poster, and paper deadlines for
 * [Rocky 2012](http://www.iscb.org/rocky2012) (deadline October 4)
 * [BeNeLux Bioinformatics Conference 2012 ](http://www.nbic.nl/bbc2012) (deadline October 22)
 
-October events include the [(first Swiss) Galaxy Workshop](/src/events/switzerland2012/index.md); [InCoB 2012](http://incob2012.org); [IEEE Conference on eScience](http://www.ci.uchicago.edu/escience2012/) (eScience 2012, which includes the [Extending High-Performance Computing Beyond its Traditional User Communities workshop](http://www.psc.edu/events/escience-2012-workshop/)); [Bio-IT World Europe](http://www.bio-itworldexpoeurope.com/Bio-It_Europe_Content.aspx?id=116078&libID=116026); [BioVis: IEEE Symposium on Biological Data Visualization](http://www.biovis.net); [Advanced NGS Course: RNA-seq data analysis (NBIC)](http://www.nbic.nl/education/course-overview/coursedetails/advanced-ngs-course-rna-seq-data-analysis/); [Advanced Sequencing Technologies & Applications Course (CSHL)](http://meetings.cshl.edu/courses/c-seqtech12.shtml); the [Northeast](http://www.nerlscd.org) and [Midwest](http://www.mwacd.org) Core directors meetings; and [eResearch Australasia 2012](http://conference.eresearch.edu.au/).
-
-
-News[/GalaxyWorkshopsInSouthAfrica](/src/galaxy-updates/2012-10/GalaxyWorkshopsInSouthAfrica/index.md)|Galaxy workshops and talks in South Africa]], the [Automated and reproducible analysis of NGS data (ARANGS12)](http://gtpb.igc.gulbenkian.pt/bicourses/ARANGS12), [Beyond the Genome 2012](http://www.beyond-the-genome.com/2012_event.html), and [ICG Americas 2012](http://www.icgamericas.org/).
+October events include the [(first Swiss) Galaxy Workshop](/src/events/switzerland2012/index.md); [InCoB 2012](http://incob2012.org); [IEEE Conference on eScience](http://www.ci.uchicago.edu/escience2012/) (eScience 2012, which includes the [Extending High-Performance Computing Beyond its Traditional User Communities workshop](http://www.psc.edu/events/escience-2012-workshop/)); [Bio-IT World Europe](http://www.bio-itworldexpoeurope.com/Bio-It_Europe_Content.aspx?id=116078&libID=116026); [BioVis: IEEE Symposium on Biological Data Visualization](http://www.biovis.net); [Advanced NGS Course: RNA-seq data analysis (NBIC)](http://www.nbic.nl/education/course-overview/coursedetails/advanced-ngs-course-rna-seq-data-analysis/); [Advanced Sequencing Technologies & Applications Course (CSHL)](http://meetings.cshl.edu/courses/c-seqtech12.shtml); the [Northeast](http://www.nerlscd.org) and [Midwest](http://www.mwacd.org) Core directors meetings; and [eResearch Australasia 2012](http://conference.eresearch.edu.au/), the [Automated and reproducible analysis of NGS data (ARANGS12)](http://gtpb.igc.gulbenkian.pt/bicourses/ARANGS12), [Beyond the Genome 2012](http://www.beyond-the-genome.com/2012_event.html), and [ICG Americas 2012](http://www.icgamericas.org/).
 
 See the [Galaxy Events Google Calendar](http://bit.ly/gxycal) for details on these and other events.
 
@@ -203,10 +200,10 @@ There were [two new Galaxy distributions](/src/docs/index.md) in September:
 ### September 20, 2012
 
 [Highlights](/src/archive/dev-news-briefs/2012-09-20/index.md)
-* A new **[Galaxy tool](/src/archive/dev-news-briefs/2012-09-20/index.md#galaxy_tool_factory)** that writes other new Galaxy tools? The **[Tool Factory](http://www.youtube.com/watch?v=Nzzc9zHZJjE)** is in the [Galaxy's Main Tool Shed](http://toolshed.g2.bx.psu.edu/) (`toolfactory`). Try it **now**
-* **[Learn](/src/archive/dev-news-briefs/2012-09-20/index.md#multiple_tool_versions)** how to display multiple versions of a tool in the **Galaxy** tool panel. 
-* **[CloudLaunch Overhaul](/src/archive/dev-news-briefs/2012-09-20/index.md#cloudlaunch_overhaul)** includes **[Boto 2.5.2](http://boto.cloudhackers.com)** and simplified instance selection and key generation.
-* Release also includes more **[Tool Shed](/src/archive/dev-news-briefs/2012-09-20/index.md#toolshed)** updates, **[Framework](/src/archive/dev-news-briefs/2012-09-20/index.md#framework)** and **[API](/src/archive/dev-news-briefs/2012-09-20/index.md#api)** updates, plus **[Security](/src/archive/dev-news-briefs/2012-09-20/index.md#security_fixes)** and **[Bug](/src/archive/dev-news-briefs/2012-09-20/index.md#bug_fixes)** fixes.
+* A new **[Galaxy tool](/src/archive/dev-news-briefs/2012-09-20/index.md#galaxy-tool-factory)** that writes other new Galaxy tools? The **[Tool Factory](http://www.youtube.com/watch?v=Nzzc9zHZJjE)** is in the [Galaxy's Main Tool Shed](http://toolshed.g2.bx.psu.edu/) (`toolfactory`). Try it **now**
+* **[Learn](/src/archive/dev-news-briefs/2012-09-20/index.md#multiple-tool-versions)** how to display multiple versions of a tool in the **Galaxy** tool panel. 
+* **[CloudLaunch Overhaul](/src/archive/dev-news-briefs/2012-09-20/index.md#cloudlaunch-overhaul)** includes **[Boto 2.5.2](http://boto.cloudhackers.com)** and simplified instance selection and key generation.
+* Release also includes more **[Tool Shed](/src/archive/dev-news-briefs/2012-09-20/index.md#toolshed)** updates, **[Framework](/src/archive/dev-news-briefs/2012-09-20/index.md#framework)** and **[API](/src/archive/dev-news-briefs/2012-09-20/index.md#api)** updates, plus **[Security](/src/archive/dev-news-briefs/2012-09-20/index.md#security-fixes)** and **[Bug](/src/archive/dev-news-briefs/2012-09-20/index.md#bug-fixes)** fixes.
 
 ### September 7, 2012
 

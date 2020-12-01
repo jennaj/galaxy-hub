@@ -1,6 +1,8 @@
 ---
-title: August 11, 2014 Galaxy Distribution News Brief
+title: Development News Brief
+date: 2014-08-11
 ---
+
 [All News Briefs](/src/docs/index.md)
 <br />
 [Distribution Summary 2014_08_11](/src/news/2014-08-11-galaxy-distribution/index.md)
@@ -54,7 +56,7 @@ Tools now annotate citation information. Tools annotate citations using either D
 
 <div class='right'><a href='http://wiki.galaxyproject.org/Admin/Tools/Docker'><img src="/src/images/logos/DockerInGalaxyAnnotated.png" alt=" " width=220 /></a></div>
 
-[Wiki](https://wiki.galaxyproject.org/Admin/Tools/Docker), Authored by Eric Rasche
+[Wiki](https://wiki.galaxyproject.org/Admin/Tools/Docker), Authored by Helena Rasche
 
 Added tool-to-container mechanism to package dependencies that tool developers can provide as an alternative to requirements and Galaxy's `tool_dependency_dir`. You can now create »Dockerized« tools, meaning tools which run within a docker container. [9lGgDlOJ](https://trello.com/c/9lGgDlOJ)
 
@@ -140,7 +142,7 @@ Docker integration provides even greater security with [Pulsar](https://github.c
 1. Galaxy CHARTS were a big wow! on [Twitter](https://twitter.com/galaxyproject), and we thank you for that, but they didn’t make the last News Brief. Get caught up and make sure you don’t miss the full color **[Charts Wiki](https://wiki.galaxyproject.org/Learn/Visualization/Charts)** <div class='red'>this</span> <div class='blue'>time</span> <div class='green'>around</span> !
 1. Docker, Docker, [DOCKER](https://www.docker.com) .. chant (er, VOTE) in [Trello](https://wiki.galaxyproject.org/Issues) and you shall likely receive.
 1. Psss… we migrated a few tools off Main, but they’re enjoying good company in the Toolshed until you need them. Find your favorite `SOLiD` mapping tools there: [BWA](https://toolshed.g2.bx.psu.edu/view/devteam/bwa_wrappers) & [Bowtie](https://toolshed.g2.bx.psu.edu/view/devteam/bowtie_color_wrappers)
-1. And we heard that there is quite a bit of deploy and config going on over at the [Galaxy Biostars](http://biostar.usegalaxy.org) forum. From where oh where will the advice come from next? Claiming one’s account is tricky - first you need to log into your [Main](http://usegalaxy.org) account, next find a tool form, and then finally click a button in the upper right corner. [Jump in…](https://wiki.galaxyproject.org/Support/Biostar)
+1. And we heard that there is quite a bit of deploy and config going on over at the [Galaxy Biostars](http://biostar.usegalaxy.org) forum. From where oh where will the advice come from next? Claiming one’s account is tricky - first you need to log into your [Main](http://usegalaxy.org) account, next find a tool form, and then finally click a button in the upper right corner. [Jump in…](/src/support/biostar/index.md)
 1. For more news, we'd like to share the prior two *Updates*:<br />
   • [July 2014 Galaxy Update](http://wiki.galaxyproject.org/GalaxyUpdates/2014-07)<br />
   • [August 2014 Galaxy Update](http://wiki.galaxyproject.org/GalaxyUpdates/2014-08)
@@ -157,4 +159,4 @@ Docker integration provides even greater security with [Pulsar](https://github.c
 # About Galaxy
 
 <div class='left'><a href='http://usegalaxy.org'><img src="/src/images/logos/GalaxyLogoHighRes.png" alt="UseGalaxy.org" width="200" /></a></div>
-**[About Galaxy](/src/support/about-galaxy/index.md)** • [Galaxy Project](/src/galaxy-project/index.md) • [Admin](/src/admin/index.md) • [Issues](/src/issues/index.md) • [Big Picture](/src/galaxy-project/index.md) • [Community](/src/community/index.md) • [Get Galaxy](/src/admin/get-galaxy/index.md) • [CloudMan](/src/cloudman/index.md) • [Tool Shed](/src/toolshed/index.md) • [Develop](/src/develop/index.md) • [News Briefs](/src/docs/index.md) • [Servers](/src/public-galaxy-servers/index.md) • [Learn](/src/learn/index.md) • [Support](/src/support/index.md) • [Galaxy Biostar](http://biostar.usegalaxy.org) • [News](/src/news/index.md) • [Twitter](/src/galaxy-on-twitter/index.md) • [Events](/src/events/index.md) • [Teach](/src/teach/index.md) • [Issues](/src/issues/index.md) • [Cite](/src/citing-galaxy/index.md) • [Galaxy Team](/src/galaxy-team/index.md)
+**[About Galaxy](/src/support/about-galaxy/index.md)** • [Galaxy Project](/src/galaxy-project/index.md) • [Admin](/src/admin/index.md) • [Issues](/src/issues/index.md) • [Big Picture](/src/galaxy-project/index.md) • [Community](/src/community/index.md) • [Get Galaxy](/src/admin/get-galaxy/index.md) • [CloudMan](/src/cloudman/index.md) • [Tool Shed](/src/toolshed/index.md) • [Develop](/src/develop/index.md) • [News Briefs](/src/docs/index.md) • [Servers](/src/use/index.md) • [Learn](/src/learn/index.md) • [Support](/src/support/index.md) • [Galaxy Biostar](http://biostar.usegalaxy.org) • [News](/src/news/index.md) • [Twitter](/src/galaxy-on-twitter/index.md) • [Events](/src/events/index.md) • [Teach](/src/teach/index.md) • [Issues](/src/issues/index.md) • [Cite](/src/citing-galaxy/index.md) • [Galaxy Team](/src/galaxy-team/index.md)

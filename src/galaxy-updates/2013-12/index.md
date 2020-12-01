@@ -7,22 +7,22 @@ Welcome to the December 2013 *[Galaxy Update](/src/galaxy-updates/index.md)*, a 
 
 # 50+ Public Servers
 
-Three new servers were added to [the list of publicly accessible Galaxy servers](/src/public-galaxy-servers/index.md) last month.  The number of servers has more than *doubled* in the past 12 months, with the new additions bringing the total to 51. 
+Three new servers were added to [the list of publicly accessible Galaxy servers](/src/use/index.md) last month.  The number of servers has more than *doubled* in the past 12 months, with the new additions bringing the total to 51. 
 
 The server list has also been reorganized from a single alphabetical list into three distinct depending on server breadth of coverage. From generality to specificity the 3 lists are:
 
- **[General Purpose Servers](/src/public-galaxy-servers/index.md#general-purpose-servers)**
+ **General Purpose Servers**
     These servers support analysis across a wide range of biology.
- **[Domain Servers](/src/public-galaxy-servers/index.md#domain-servers)**
+ **Domain Servers**
     These servers are dedicated to a particular domain, either within the tree of life, or in a particular type of analysis.
- **[Tool Publishing Servers](/src/public-galaxy-servers/index.md#tool-publishing-servers)**
+ **Tool Publishing Servers**
     These servers' primary function is to enable researchers to use a specific set of locally developed tools, without having to install them locally and use command line interfaces.
 
 The newly added servers are:
 
 ## OSDDlinux LiveGalaxy
 
-<div class='right solid'><a href='http://osddlinux.osdd.net:8001/'><img src="/src/public-galaxy-servers/OSDDLinuxLiveGalaxyHomePage300.png" alt="OSDDlinux LiveGalaxy"  /></a></div>
+<div class='right solid'><a href='http://osddlinux.osdd.net:8001/'><img src="/src/use/osddlinux-livegalaxy/osdd-linux-live-galaxy-home-page-300.png" alt="OSDDlinux LiveGalaxy"  /></a></div>
 
 * *Links:*
   * [OSDDlinux LiveGalaxy](http://osddlinux.osdd.net:8001/), part of the [OSDD Portal](http://sysborg2.osdd.net).
@@ -56,7 +56,7 @@ The newly added servers are:
 
 ## PreSTIGE
 
-<div class='right solid'><a href='http://prestige.case.edu/'><img src="/src/public-galaxy-servers/PreSTIGE.png" alt="PreSTIGE" width="300" /></a></div>
+<div class='right solid'><a href='http://prestige.case.edu/'><img src="/src/use/prestige/prestige.png" alt="PreSTIGE" width="300" /></a></div>
 
 * *Link:*
     [PreSTIGE](http://prestige.case.edu/)
@@ -132,9 +132,9 @@ The newly added servers are:
 
 *61 papers* (a new record) were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in November. Some papers that may be particularly interesting to the Galaxy community:
 
-* "[BS-Seeker2: a versatile aligning pipeline for bisulfite sequencing data](http://dx.doi.org/10.1186/1471-2164-14-774)" by Guo, *et al.,* *BMC Genomics*, Vol. 14, No. 1. (10 November 2013), 774, doi:10.1186/1471-2164-14-774
+* "[BS-Seeker2: a versatile aligning pipeline for bisulfite sequencing data](https://doi.org/10.1186/1471-2164-14-774)" by Guo, *et al.,* *BMC Genomics*, Vol. 14, No. 1. (10 November 2013), 774, doi:10.1186/1471-2164-14-774
 
-* "[Ten recommendations for creating usable bioinformatics command line software](http://dx.doi.org/10.1186/2047-217x-2-15)" by Torsten Seemann, *GigaScience*, Vol. 2, No. 1. (2013), 15, doi:10.1186/2047-217x-2-15
+* "[Ten recommendations for creating usable bioinformatics command line software](https://doi.org/10.1186/2047-217x-2-15)" by Torsten Seemann, *GigaScience*, Vol. 2, No. 1. (2013), 15, doi:10.1186/2047-217x-2-15
 
 <br />
 
@@ -321,17 +321,17 @@ Enrollment for each bootcamp is capped at 24 students. Please enroll early to be
 **[Nov 04, 2013 Galaxy Distribution](/src/archive/dev-news-briefs/2013-11-04/index.md)**
 
 <div class='right'>
-<a href='/src/http:usegalaxy.org/index.md'><img src="/src/images/news-graphics/2013_11_04_usegalaxy.org.jpg" alt="usegalaxy.org" width=300 /></a><br />**usegalaxy.org**</div>
+<a href='https://usegalaxy.org/'><img src="/src/images/news-graphics/2013_11_04_usegalaxy.org.jpg" alt="usegalaxy.org" width=300 /></a><br />**usegalaxy.org**</div>
 <br />
 **Highlights:**
 
-* A ***security vulnerability*** with filter tools trapped and fixed: **[Upgrade or Patch NOW](/src/archive/dev-news-briefs/2013-11-04/index.md#security_fix_now)**
+* A ***security vulnerability*** with filter tools trapped and fixed: **[Upgrade or Patch NOW](/src/archive/dev-news-briefs/2013-11-04/index.md#security-fix-now)**
 * Galaxy Tool Migration: [48 tools migrated to Tool Shed](http://wiki.galaxyproject.org/DevNewsBriefs/2013-11-04#New_Tool_Migrations) for a leaner distribution.
 * Improved [tools for administrators](/src/archive/dev-news-briefs/2013-11-04/index.md#admin) (email verification, reports).
 * The framework for [Tools](/src/archive/dev-news-briefs/2013-11-04/index.md#tools), [Visualizations](/src/archive/dev-news-briefs/2013-11-04/index.md#visualizations), and the [Core](/src/archive/dev-news-briefs/2013-11-04/index.md#core) have been upgraded for performance and scalability. 
-* Come see! A whopping [26 pull requests incorporated](/src/archive/dev-news-briefs/2013-11-04/index.md#pull_requests_merged)!. Many thanks to our open source community!
-* Numerous [Tool Shed enhancements and upgrades](/src/archive/dev-news-briefs/2013-11-04/index.md#tool_shed): API, `READMEs`, Functional Tests, easier installs, and much much more.
-* Plus enhancements to [Workflows](/src/archive/dev-news-briefs/2013-11-04/index.md#workflows), [API](/src/archive/dev-news-briefs/2013-11-04/index.md#api), [CloudLaunch](/src/archive/dev-news-briefs/2013-11-04/index.md#cloudlaunch), [UI](/src/archive/dev-news-briefs/2013-11-04/index.md#ui), and [Bug Fixes](/src/archive/dev-news-briefs/2013-11-04/index.md#bug_fixes).
+* Come see! A whopping [26 pull requests incorporated](/src/archive/dev-news-briefs/2013-11-04/index.md#pull-requests-merged)!. Many thanks to our open source community!
+* Numerous [Tool Shed enhancements and upgrades](/src/archive/dev-news-briefs/2013-11-04/index.md#tool-shed): API, `READMEs`, Functional Tests, easier installs, and much much more.
+* Plus enhancements to [Workflows](/src/archive/dev-news-briefs/2013-11-04/index.md#workflows), [API](/src/archive/dev-news-briefs/2013-11-04/index.md#api), [CloudLaunch](/src/archive/dev-news-briefs/2013-11-04/index.md#cloudlaunch), [UI](/src/archive/dev-news-briefs/2013-11-04/index.md#ui), and [Bug Fixes](/src/archive/dev-news-briefs/2013-11-04/index.md#bug-fixes).
 
 [http://getgalaxy.org](http://getgalaxy.org)
 
@@ -388,4 +388,4 @@ There were many...
 # Other News
 
 * [bioblend 0.4.1](http://bit.ly/IhF6s2) CloudMan and Galaxy API library released 
-* New accounts on [Main](/src/main/index.md) now have to activate using the link sent to email address or they can't run jobs (includes upload).  Want to enable this on your own Galaxy instance?  See the [User Accounts Administration](/src/admin/user-accounts/index.md) page.
+* New accounts on [Main](/src/main/index.md) now have to activate using the link sent to email address or they can't run jobs (includes upload).  Want to enable this on your own Galaxy instance?  See the [User Accounts Administration](/src/authnz/config/gxy/index.md) page.

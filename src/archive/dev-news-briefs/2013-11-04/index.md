@@ -1,6 +1,8 @@
 ---
-title: November 04, 2014 Galaxy Distribution News Brief
+title: Development News Brief
+date: 2014-11-04
 ---
+
 [All News Briefs](/src/docs/index.md)
 <br />
 [Distribution Summary 2013_11_04](/src/news/2013-11-04-galaxy-distribution/index.md)
@@ -45,7 +47,7 @@ title: November 04, 2014 Galaxy Distribution News Brief
 
 **Administrators are STRONGLY ENCOURAGED to address this as soon as possible.**
 <br />
-A security vulnerability was recently discovered by John Chilton with Galaxy's "Filter data on any column using simple expressions" and "Filter on ambiguities in polymorphism datasets" tools that can allow for arbitrary execution of code on the command line. The fix for these tools has been committed to the Galaxy source and is included in this distraction. *[Original email notification from earlier today.](http://announce.list.galaxyproject.org/galaxy-announce-Security-vulnerability-in-Galaxy-filtering-tools-td4639252.html)*
+A security vulnerability was recently discovered by John Chilton with Galaxy's "Filter data on any column using simple expressions" and "Filter on ambiguities in polymorphism datasets" tools that can allow for arbitrary execution of code on the command line. The fix for these tools has been committed to the Galaxy source and is included in this distraction. *[Original email notification from earlier today.](https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/message/BPV2WO6X5LYV5G4YIY2VPJFIFE7V7V4C/)*
 
 For Galaxy installations that administrators are not yet ready to upgrade to the latest release, there are three workarounds.  First, for Galaxy installations running on a relatively new version of the stable release (e.g. `release_2013.08.12`), Galaxy can be updated to the specific `changeset` that that contains the fix.  This will include all of the stable (non-feature) commits that have been accumulated since the 8/12 release plus any new features included with (and prior to) the 8/12/2013 release, but without all of the new features included in the 11/4/2013 release.  Ensure you are on the stable branch and then upgrade to the specific `changeset`:
 ```
@@ -99,7 +101,7 @@ Third, the tools can be completely disabled by removing them from the tool confi
 
 **This release includes *Galaxy Tool Migration Stage 8*, which contains *48 tools* that have been migrated from the Galaxy distribution**.  The Galaxy tool migration framework has been enhanced so that tool entries in the `tool_conf.xml` file (or whatever it has been named in your local Galaxy instance) for tools that were [migrated out of the Galaxy distribution](http://wiki.galaxyproject.org/MigratingToolsFromGalaxyDistribution#Migrating_tools_from_the_Galaxy_distribution_to_the_Galaxy_Main_tool_shed) are now automatically eliminated during the migration process.  It is no longer necessary to manually edit the `tool_conf.xml` file to eliminate entries for migrated tools.  A back-up copy of the original `tool_conf.xml` file is made.
 
-[More Tool Shed related enhancements and upgrades below.](/src/archive/dev-news-briefs/2013-11-04/index.md#tool_shed)
+[More Tool Shed related enhancements and upgrades below.](/src/archive/dev-news-briefs/2013-11-04/index.md#tool-shed)
 
 <br />
 # Tools

@@ -9,9 +9,11 @@ Welcome to the March 2013 *[Galaxy Update](/src/galaxy-updates/index.md)*, a mon
 
 ## New Public Galaxy Servers
 
-<div class='left'><a href='http://www.bioinformatica.ucr.ac.cr:8080/'><img src="/src/public-galaxy-servers/UCostaRicaLogo.png" alt="University of Costa Rica" /></a></div> The [University of Costa Rica](http://www.ucr.ac.cr/) School of Medicine, [Master in Bioinformatics and System Biology](http://www2.sep.ucr.ac.cr/MaestriasAcademicas/CBIOMEDICAS/Infodescrip.html) and [BREL (Bioinformatics Research Laboratory)](http://www.ucrbrel.com/) have made the [Galaxy NELLY](http://www.bioinformatica.ucr.ac.cr:8080/) server publicly accessible.  NELLY features the standard Galaxy tool set.  It requires a login, but anyone can create a login.
+<div class='left'><a href='http://www.bioinformatica.ucr.ac.cr:8080/'><img src="/src/use/archive/nelly/u-costa-rica-logo.png" alt="University of Costa Rica" /></a></div>
 
-This server joins the [growing list of public Galaxy servers](/src/public-galaxy-servers/index.md).
+The [University of Costa Rica](http://www.ucr.ac.cr/) School of Medicine, [Master in Bioinformatics and System Biology](http://www2.sep.ucr.ac.cr/MaestriasAcademicas/CBIOMEDICAS/Infodescrip.html) and [BREL (Bioinformatics Research Laboratory)](http://www.ucrbrel.com/) have made the [Galaxy NELLY](http://www.bioinformatica.ucr.ac.cr:8080/) server publicly accessible.  NELLY features the standard Galaxy tool set.  It requires a login, but anyone can create a login.
+
+This server joins the [growing list of public Galaxy servers](/src/use/index.md).
 
 ## New Papers
 
@@ -51,8 +53,8 @@ This server joins the [growing list of public Galaxy servers](/src/public-galaxy
 
 These papers may be of interest to the Galaxy community. 
 
-* "[RepeatExplorer: a Galaxy-based web server for genome-wide characterization of eukaryotic repetitive elements from next generation sequence reads](http://dx.doi.org/10.1093/bioinformatics/btt054)," by Petr Novák, Pavel Neumann, Jiří Pech, Jaroslav Steinhaisl, Jiří Macas, *Bioinformatics* (1 February 2013)
-* "[A unified framework for the deployment, exposure and access of HPC applications as services in clouds](http://dx.doi.org/10.1016/j.future.2013.01.014)," by Adam K. L. Wonga, Andrzej M. Goscinskia, *Future Generation Computer Systems* (February 2013)
+* "[RepeatExplorer: a Galaxy-based web server for genome-wide characterization of eukaryotic repetitive elements from next generation sequence reads](https://doi.org/10.1093/bioinformatics/btt054)," by Petr Novák, Pavel Neumann, Jiří Pech, Jaroslav Steinhaisl, Jiří Macas, *Bioinformatics* (1 February 2013)
+* "[A unified framework for the deployment, exposure and access of HPC applications as services in clouds](https://doi.org/10.1016/j.future.2013.01.014)," by Adam K. L. Wonga, Andrzej M. Goscinskia, *Future Generation Computer Systems* (February 2013)
 
 There are now over [880 papers in the Galaxy CiteULike Group](http://www.citeulike.org/group/16008/).
 
@@ -217,8 +219,8 @@ See the [Galaxy Events Google Calendar](http://bit.ly/gxycal) for details on the
 <div class='indent'>
 <div class='right'><a href='/src/toolshed/index.md'><img src="/src/images/news-graphics/2013_02_6-confirm-dependency-installation-sm2.png" alt="" width="220px" /></a></div>
 **Highlights:**
-* *Improvements* to our [release process](/src/archive/dev-news-briefs/2013-02-08/index.md#improvements_to_release_process). **Release tag must be used in the hg update command to upgrade**. More at **[getgalaxy.org](/src/admin/get-galaxy/index.md)**.
-* Tool Shed *[Complex repository dependencies](/src/defining-repository-dependencies/index.md#complex_repository_dependencies_tool_dependency_definitions_that_contain_repository_dependency_definitions)* are introduced, streamlining core dependency use across individual tools. 
+* *Improvements* to our [release process](/src/archive/dev-news-briefs/2013-02-08/index.md#-to-release_process). **Release tag must be used in the hg update command to upgrade**. More at **[getgalaxy.org](/src/admin/get-galaxy/index.md)**.
+* Tool Shed *[Complex repository dependencies](/src/toolshed/complex-repository-dependencies/index.md)* are introduced, streamlining core dependency use across individual tools. 
 * Also updated in the Tool Shed: multiple repository installation, dependency installation (when defined - see graphic on right for an example), and many usability enhancements and fixes.
 * New *[Bedgraph-to-bigwig](/src/learn/datatypes/index.md#bedgraph)* tool plus *Filter* tool updated.
 * *Workflows* now include option to export an image and the core *Framework* now allows more unified reference genome usage and access.

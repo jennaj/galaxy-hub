@@ -19,18 +19,18 @@ This was [proposed](/src/news/irc-public-log-proposal/index.md) and then [discus
 
 # Galaxy Training Network
 
-<div class='left'><a href='/src/teach/index.md'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" width="200" /></a></div>
+<div class='left'><a href='https://training.galaxyproject.org/'><img src="/src/images/logos/GTNLogo600.png" alt="Galaxy Training Network" width="200" /></a></div>
 
-The *[Galaxy Training Network (GTN)](/src/teach/gtn/index.md)* was [launched October 16](/src/news/galaxy-training-network/index.md) with 16 charter member organizations.  The GTN is a network of trainers who teach bioinformatics using Galaxy, or teach about Galaxy itself.  The GTN aims to make it easy to find [Galaxy trainers](/src/teach/trainers/index.md), and to share and discover the wealth of training resources available for Galaxy.  This includes [training materials](/src/teach/resources/index.md), a [trainer directory](/src/teach/trainers/index.md), [best practices](/src/teach/best-practices/index.md), and [guidance on computing platforms](/src/teach/computing-platforms/index.md) for teaching with Galaxy.  The Galaxy Training Network is accessible to the entire community.  
+The *[Galaxy Training Network (GTN)](https://training.galaxyproject.org/)* was [launched October 16](/src/news/galaxy-training-network/index.md) with 16 charter member organizations.  The GTN is a network of trainers who teach bioinformatics using Galaxy, or teach about Galaxy itself.  The GTN aims to make it easy to find Galaxy trainers, and to share and discover the wealth of training resources available for Galaxy.  This includes training materials, a trainer directory, best practices, and guidance on computing platforms for teaching with Galaxy.  The Galaxy Training Network is accessible to the entire community.  
 
-If you teach with Galaxy, then please consider adding [your organization](/src/teach/trainers/index.md#add-a-trainer), [materials](/src/teach/resources/index.md#add-a-training-resource), and [best practices](/src/teach/best-practices/index.md). Since the GTN launched two weeks ago, 4 new organizations have joined:
+If you teach with Galaxy, then please consider adding your organization, materials, and best practices. Since the GTN launched two weeks ago, 4 new organizations have joined:
 
-* [Alberta Children's Hospital Research Institute](http://bit.ly/gxytrnACHRI), Calgary, Canada
-* [Memorial Sloan Kettering Cancer Center, Rätsch Laboratory](http://bit.ly/gxytrnRaetsch), New York City, United States
-* [MMG@IICT](http://bit.ly/gxytrnMMG), Hyderabad, India
-* [South Green Platform](http://bit.ly/gxytrnSouth_Green), Montpellier, France
+* Alberta Children's Hospital Research Institute, Calgary, Canada
+* Memorial Sloan Kettering Cancer Center, Rätsch Laboratory, New York City, United States
+* MMG@IICT, Hyderabad, India
+* South Green Platform, Montpellier, France
 
-This brings the total to [20 training organizations on 5 continents](http://bit.ly/gxytrnmap).
+This brings the total to 20 training organizations on 5 continents.
 
 # Events
 
@@ -215,12 +215,12 @@ There are [upcoming events](/src/events/index.md) in France, Germany, Australia,
 
 38 papers were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in October, including:
 
-* [Flexible and accessible workflows for improved proteogenomic analysis using the Galaxy framework](http://dx.doi.org/10.1021/pr500812t), by Pratik D. Jagtap, James E. Johnson, Getiria Onsongo, *et al.,* *J. Proteome Res.* (10 October 2014), doi:10.1021/pr500812t
+* [Flexible and accessible workflows for improved proteogenomic analysis using the Galaxy framework](https://doi.org/10.1021/pr500812t), by Pratik D. Jagtap, James E. Johnson, Getiria Onsongo, *et al.,* *J. Proteome Res.* (10 October 2014), doi:10.1021/pr500812t
 
   	
-* [iReport: a generalised Galaxy solution for integrated experimental reporting](http://dx.doi.org/10.1186/2047-217x-3-19), by Saskia Hiltemann, Youri Hoogstrate, Peter van der Spek, Guido Jenster, Andrew Stubbs, *GigaScience*, Vol. 3, No. 1. (2014), 19, doi:10.1186/2047-217x-3-19
+* [iReport: a generalised Galaxy solution for integrated experimental reporting](https://doi.org/10.1186/2047-217x-3-19), by Saskia Hiltemann, Youri Hoogstrate, Peter van der Spek, Guido Jenster, Andrew Stubbs, *GigaScience*, Vol. 3, No. 1. (2014), 19, doi:10.1186/2047-217x-3-19
 
-* [ExomeAI: Detection of recurrent Allelic Imbalance in tumors using whole Exome sequencing](http://dx.doi.org/10.1093/bioinformatics/btu665), by Javad Nadaf, Jacek Majewski, Somayyeh Fahiminiya, *Bioinformatics* (08 October 2014), btu665, doi:10.1093/bioinformatics/btu665
+* [ExomeAI: Detection of recurrent Allelic Imbalance in tumors using whole Exome sequencing](https://doi.org/10.1093/bioinformatics/btu665), by Javad Nadaf, Jacek Majewski, Somayyeh Fahiminiya, *Bioinformatics* (08 October 2014), btu665, doi:10.1093/bioinformatics/btu665
 
   	
 The new papers were tagged in these areas:
@@ -299,11 +299,11 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Servers
 
-Two new [public Galaxy servers](/src/public-galaxy-servers/index.md) were added to the published list in October:
+Two new [public Galaxy servers](/src/use/index.md) were added to the published list in October:
 
 ## Majewski Lab Galaxy
 
-<div class='right solid'><a href='http://genomequebec.mcgill.ca/exomeai'><img src="/src/public-galaxy-servers/McGillGQIC.png" alt="Majewski Lab: ExomeAI" width="250px" /></a></div>
+<div class='right solid'><a href='http://genomequebec.mcgill.ca/exomeai'><img src="/src/use/majewski-lab/mcgill-qgic.png" alt="Majewski Lab: ExomeAI" width="250px" /></a></div>
 
 The [Majewski Lab ExomeAI Server](http://genomequebec.mcgill.ca/exomeai) supports detection of recurrent allelic imbalance in tumors using whole exome sequencing data, using ExomeAI, a free web-based application for detection of recurrent AI/LOH segments in tumor samples. Support is provided in the [ExomeAI Manual](http://bioinformatics.oxfordjournals.org/content/suppl/2014/10/07/btu665.DC1/suppl_data.zip), and via [email](mailto:Javad DOT Nadaf AT gmail DOT com).  See Nadaf J, Majewski J, Fahiminiya S. (2014). [ExomeAI: Detection of recurrent Allelic Imbalance in tumors using whole Exome sequencing data](http://www.ncbi.nlm.nih.gov/pubmed/25297069). *Bioinformatics*. 2014 Oct 8.
 
@@ -311,7 +311,7 @@ The [Majewski Lab ExomeAI Server](http://genomequebec.mcgill.ca/exomeai) is supp
 
 ## OSDD Molecular Property Diagnostic Suite (MPDS)
 
-<div class='right solid'><a href='http://mpds.osdd.net/'><img src="/src/public-galaxy-servers/OSDD_MPDS.png" alt="Molecular Property Diagnostic Suite (MPDS)" width="200" /></a></div>
+<div class='right solid'><a href='http://mpds.osdd.net/'><img src="/src/use/mpdstb/mpdstb.png" alt="Molecular Property Diagnostic Suite (MPDS)" width="200" /></a></div>
 
 The [OSDD Molecular Property Diagnostic Suite (MPDS)](http://mpds.osdd.net/) Galaxy servers is an OSDD Chemoinformatics Portal.  MPDS exposes a software toolset that rationally diagnoses (druggable) molecules.  MPDS 1.0 consists of six modules covering informatics (DataBases, File format conversion), structure and analogue based drug design approaches (Property calculation, QSAR, Docking). [Support](http://mpds.osdd.net/galaxy/static/contact.htm) is available.
 
@@ -319,27 +319,27 @@ The [OSDD Molecular Property Diagnostic Suite (MPDS)](http://mpds.osdd.net/) Gal
 
 # Galaxy Community Hubs
 
-<div class='left'>&nbsp;&nbsp; <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
-<div class='right'><a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
+<div class='left'>&nbsp;&nbsp; <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
+<div class='right'><a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
 <br />
 
 <table>
   <tr>
-    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </td>
+    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </td>
   </tr>
 </table>
 
 <br /><br />
 
-**There were no new [Log Board](/src/community/logs/index.md) or [Deployment Catalog](/src/community/deployments/index.md) entries in August!**  Eek!  Please don't let this happen again!  
+**There were no new [Log Board](/src/blog/index.md) or [Deployment Catalog](/src/community/deployment/index.md) entries in August!**  Eek!  Please don't let this happen again!  
 
-The *[Community Log Board](/src/community/logs/index.md)* and  *[Deployment Catalog](/src/community/deployments/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched last your.  If you have a [Galaxy deployment](/src/community/deployments/index.md), or [experience](/src/community/logs/index.md) you want to share then please publish them **this month.**
+The *[Community Log Board](/src/blog/index.md)* and  *[Deployment Catalog](/src/community/deployment/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched last your.  If you have a [Galaxy deployment](/src/community/deployment/index.md), or [experience](/src/blog/index.md) you want to share then please publish them **this month.**
 
 <div class='right'><br /><a href='http://toolshed.g2.bx.psu.edu/'><img src="/src/images/logos/ToolShed.jpg" alt="Galaxy ToolShed" width=150 /></a></div>
 
 # New Releases
 
-[BioBlend v0.5.2 was released in October](/src/news/bio-blend-v0.5.2/index.md).  [BioBlend](https://github.com/afgane/bioblend) is a python library for interacting with CloudMan and the [Galaxy API](/src/learn/api/index.md).  
+[BioBlend v0.5.2 was released in October](/src/news/bio-blend-v0.5.2/index.md).  [BioBlend](https://github.com/afgane/bioblend) is a python library for interacting with CloudMan and the [Galaxy API](/src/develop/api/index.md).  
 
 New versions of [Galaxy](/src/galaxy-updates/2014-09/index.md#august-11-2014-galaxy-distribution), [CloudMan](/src/galaxy-updates/2014-09/index.md#august-2014-cloudman-release), and [blend4j](/src/galaxy-updates/2014-09/index.md#blend4j-011-release) were all released in August.
 

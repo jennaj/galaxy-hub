@@ -10,11 +10,14 @@ Welcome to the June 2014 *[Galaxy Update](/src/galaxy-updates/index.md)*, a mont
 <div class='center'><a href='https://biostar.usegalaxy.org/'><img src="/src/images/logos/GalaxyBiostar.png" alt="Galaxy Biostar"  /></a><br />Join the conversation! Learn how [here](/src/support/biostar/index.md).</div>
 <br />
 
+***Note: Galaxy's support forum has moved to [help.galaxyproject.org](https://help.galaxyproject.org/).***
+<br />
+
 The *[Galaxy Biostar](https://biostar.usegalaxy.org)* online forum was launched April 23 as a replacement for the Galaxy-User [mailing list](/src/mailing-lists/index.md).  
 
 During the past 5 weeks, Galaxy Biostar has been wildly successful with over 125 active threads, *more than 5 times the number of active threads on Galaxy-user in the 5 weeks before the switch.*
 
-Galaxy-User has remained open during the transition, but now it's time to retire it.  All new posting to Galaxy-User will be stopped on Friday, June 6, **some 101 months, and 8,100 postings** after it was launched.  All those postings will remain available both in Galaxy Biostar (where they have been imported), and in the [online list archives](http://user.list.galaxyproject.org/).
+Galaxy-User has remained open during the transition, but now it's time to retire it.  All new posting to Galaxy-User will be stopped on Friday, June 6, **some 101 months, and 8,100 postings** after it was launched.  All those postings will remain available both in Galaxy Biostar (where they have been imported), and in the [online list archives](https://lists.galaxyproject.org/archives/list/galaxy-user@lists.galaxyproject.org/).
 
 Thanks for making Galaxy Biostar, and Galaxy-User before it, such a great resource.
 
@@ -189,11 +192,11 @@ There are [at least 13 other Galaxy related events](/src/events/index.md) in the
 
 *49 papers* were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in May. Some papers that may be particularly interesting to the Galaxy community:
 
-* [Implementation of Cloud based Next Generation Sequencing data analysis in a clinical laboratory](http://dx.doi.org/10.1186/1756-0500-7-314), by Getiria Onsongo, Jesse Erdmann, Michael D Spears, [John Chilton](/src/people/john-chilton/index.md), Kenneth B Beckman, Adam Hauge, Sophia Yohe, Matthew Schomaker, Matthew Bower, Kevin A T Silverstein and Bharat Thyagarajan, *BMC Research Notes*, Vol. 7, No. 1. (2014), 314, doi:10.1186/1756-0500-7-314
+* [Implementation of Cloud based Next Generation Sequencing data analysis in a clinical laboratory](https://doi.org/10.1186/1756-0500-7-314), by Getiria Onsongo, Jesse Erdmann, Michael D Spears, [John Chilton](/src/people/john-chilton/index.md), Kenneth B Beckman, Adam Hauge, Sophia Yohe, Matthew Schomaker, Matthew Bower, Kevin A T Silverstein and Bharat Thyagarajan, *BMC Research Notes*, Vol. 7, No. 1. (2014), 314, doi:10.1186/1756-0500-7-314
 
-* [deepTools: a flexible platform for exploring deep-sequencing data](http://dx.doi.org/10.1093/nar/gku365), by Fidel Ramírez, Friederike Dündar, Sarah Diehl, Björn A. Grüning, Thomas Manke, *Nucleic Acids Research* (05 May 2014), gku365, doi:10.1093/nar/gku365
+* [deepTools: a flexible platform for exploring deep-sequencing data](https://doi.org/10.1093/nar/gku365), by Fidel Ramírez, Friederike Dündar, Sarah Diehl, Björn A. Grüning, Thomas Manke, *Nucleic Acids Research* (05 May 2014), gku365, doi:10.1093/nar/gku365
 
-* [Galaxy + Hadoop: Toward a Collaborative and Scalable Image Processing Toolbox in Cloud](http://dx.doi.org/10.1007/978-3-319-06859-6_30), by Shiping Chen, Tomasz Bednarz, Piotr Szul, Dadong Wang, Yulia Arzhaeva, Neil Burdett, Alex Khassapov, John Zic, Surya Nepal, Tim Gurevey, John Taylor, In "Service-Oriented Computing – ICSOC 2013 Workshops", Vol. 8377 (2014), pp. 339-351, doi:10.1007/978-3-319-06859-6_30
+* [Galaxy + Hadoop: Toward a Collaborative and Scalable Image Processing Toolbox in Cloud](https://doi.org/10.1007/978-3-319-06859-6_30), by Shiping Chen, Tomasz Bednarz, Piotr Szul, Dadong Wang, Yulia Arzhaeva, Neil Burdett, Alex Khassapov, John Zic, Surya Nepal, Tim Gurevey, John Taylor, In "Service-Oriented Computing – ICSOC 2013 Workshops", Vol. 8377 (2014), pp. 339-351, doi:10.1007/978-3-319-06859-6_30
 
 The new papers were tagged in many different areas:
 
@@ -268,18 +271,18 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Servers
 
-One new [public Galaxy servers](/src/public-galaxy-servers/index.md) was added to the published list in May:
+One new [public Galaxy servers](/src/use/index.md) was added to the published list in May:
 
 ## deepTools
 
-<div class='right solid'><a href='http://deeptools.ie-freiburg.mpg.de/'><img src="/src/public-galaxy-servers/deepTools.png" alt="deepTools Galaxy Server" width="200" /></a></div>
+<div class='right solid'><a href='http://deeptools.ie-freiburg.mpg.de/'><img src="/src/use/archive/deeptools/deeptools.png" alt="deepTools Galaxy Server" width="200" /></a></div>
 
 * *Links:*
   * [deepTools](http://deeptools.ie-freiburg.mpg.de/) server
   * [deepTools home page at GitHub](http://deeptools.github.io/)
   * Fidel Ramírez, Friederike Dündar, Sarah Diehl, Björn A. Grüning, and Thomas Manke. [deepTools: a flexible platform for exploring deep-sequencing data](http://nar.oxfordjournals.org/cgi/content/abstract/gku365) *Nucl. Acids Res.* first published online May 5, 2014 doi:10.1093/nar/gku365
   * *[deepTools: a flexible platform for exploring deep-sequencing data](/src/events/gcc2014/abstracts/talks/index.md#deeptools-a-flexible-platform-for-exploring-deep-sequencing-data)* presentation by [Sarah Diehl](http://www.ie-freiburg.mpg.de/1892622/employee_page?c=1896591&employee_id=26993) at [GCC2014](/src/events/gcc2014/index.md)
-  * [deepTools deployment description](/src/community/deployment/deep-tools/index.md)
+  * deepTools deployment description
 * *Domain/Purpose:* 
     deepTools is a suite of user-friendly tools for the visualization, quality control and normalization of data from high-throughput DNA sequencing experiments.
 * *Comments:*
@@ -305,22 +308,22 @@ The most recent version of CloudMan was [released in January 2014](/src/news/clo
 
 # Galaxy Community Hubs
 
-<div class='left'>&nbsp;&nbsp; <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
-<div class='right'><a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
+<div class='left'>&nbsp;&nbsp; <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
+<div class='right'><a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
 <br />
 
 <table>
   <tr>
-    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </td>
+    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </td>
   </tr>
 </table>
 
 <br /><br />
 
-One new [deployment description](/src/community/deployments/index.md) was added in May:
-* [deepTools](/src/community/deployment/deep-tools/index.md)
+One new [deployment description](/src/community/deployment/index.md) was added in May:
+* deepTools
 
-The *[Community Log Board](/src/community/logs/index.md)* and  *[Deployment Catalog](/src/community/deployments/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched last your.  If you have a [Galaxy deployment](/src/community/deployments/index.md), or [experience](/src/community/logs/index.md) you want to share then please publish them.
+The *[Community Log Board](/src/blog/index.md)* and  *[Deployment Catalog](/src/community/deployment/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched last your.  If you have a [Galaxy deployment](/src/community/deployment/index.md), or [experience](/src/blog/index.md) you want to share then please publish them.
 
 
 <div class='right'><br /><a href='http://toolshed.g2.bx.psu.edu/'><img src="/src/images/logos/ToolShed.jpg" alt="Galaxy ToolShed" width=150 /></a></div>
@@ -448,4 +451,4 @@ In no particular order:
 
 **Access to all [TACC](https://www.tacc.utexas.edu/)-based resources and services, including [usegalaxy.org](http://usegalaxy.org) and the [Galaxy Project Test Server](https://test.galaxyproject.org/), will be unavailable from 9 a.m. to 5 p.m., central US time, on Saturday, May ~~24~~ 31, 2014.** TACC staff will be performing an upgrade to the networking infrastructure. During this time, jobs will continue to run.
 
-During this time you are encouraged to use [any of the 60+ public Galaxy servers](/src/public-galaxy-servers/index.md).
+During this time you are encouraged to use [any of the 60+ public Galaxy servers](/src/use/index.md).

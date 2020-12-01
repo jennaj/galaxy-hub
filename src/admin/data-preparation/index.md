@@ -1,18 +1,16 @@
 # Data Preparation
 
-**Please note that "built-in" or "cached" data can now be managed directly from within the Galaxy admin interface. For details, see [Data Managers](/src/admin/tools/data-managers/index.md).**
-
-Tutorial: [Events/GCC2014/TrainingDay](/src/events/gcc2014/training-day/index.md#tool_development_from_bright_idea_to_toolshed_-_data_managers)
+**Please note that "built-in" or "cached" data can now be managed directly from within the Galaxy admin interface. For details, see [Data Managers Overview](/src/admin/tools/data-managers/index.md)** and our **[Data Managers Tutorial](https://github.com/galaxyproject/dagobah-training/blob/2017-montpellier/sessions/05-reference-genomes/ex1-reference-genomes.md)**.
 
 **NOTE: Be aware that that as of early 2014, builds are incorporated into the Galaxy schema in tables. [Data Managers](/src/admin/tools/data-managers/index.md) are recommended to index new genomes (these are found in the [ToolShed](/src/toolshed/index.md). *This wiki is considered legacy and provided as a reference.***
 
 # Builds list changes
 
-If you still choose to do this manually, follow the instructions at [Data Integration](/src/admin/data-integration/index.md) to start, (**impact**: more than just a builds.txt file is needed to establish a new reference genome), making certain that your server has the necessary changes/additions to the [Data Tables](/src/admin/tools/Data Tables/index.md) model or use the alternate configuration file, then follow the guide here for the organization and execution of **data preparation** tasks in a local or cloud instance. 
+If you still choose to do this manually, follow the instructions at [Data Integration](/src/admin/data-integration/index.md) to start, (**impact**: more than just a builds.txt file is needed to establish a new reference genome), making certain that your server has the necessary changes/additions to the [Data Tables](/src/admin/tools/Data%20Tables.md) model or use the alternate configuration file, then follow the guide here for the organization and execution of **data preparation** tasks in a local or cloud instance. 
 
-# Rsync data
+# Data and indexes hosted at http://usegalaxy.org
 
-Using the Galaxy team's version of reference genomes and indexes can often be a good strategy for those working with both a local and the public **[Main](/src/main/index.md)** instance. More about our rsync server, the contents of the data snapshots, and what is published on the [usegalaxy.org](http://usegalaxy.org) public instance is at **[Usegalaxy.org Rsync](/src/admin/use-galaxy-rsync/index.md)**.
+Using the Galaxy team's version of reference genomes and indexes can often be a good strategy for those working with both a local and the public **[Main](/src/main/index.md)** instance. All options are described here http://datacache.galaxyproject.org/. More details about the rsync server and the contents is at **[Usegalaxy.org Rsync](/src/admin/use-galaxy-rsync/index.md)**.
 
 ## What's in this wiki ?
 
@@ -339,7 +337,7 @@ Place a relative symbolic link to the original FASTA file in the same location a
 * Remove the ".sample" from the file name if this is the first time you are using it
 * Remove any rows for databases that you no longer want to host if you are altering an existing .loc
 * You can make sure the file was created correctly by restarting the server and a tool from the **SAM Tools** tool set. Input datasets should have a database assigned that corresponds to a database having a sam index.
-* Test the new database(s) by running a few datasets through tools. Change dataset database assignments using the "Edit Attributes" form ([pencil icon](/src/learn/managing-datasets/index.md#dataset_icons)). 
+* Test the new database(s) by running a few datasets through tools. Change dataset database assignments using the "Edit Attributes" form ([pencil icon](/src/learn/managing-datasets/index.md#dataset-icons-text)). 
 
 ### LASTZ and EXTRACT Genomic DNA
 
@@ -373,7 +371,7 @@ The Galaxy team places the .2bit file in the same location as the original fasta
 * Remove any rows for databases that you no longer want to host if you are altering an existing .loc
 * Restarting the server 
 * You can make sure the `lastz_seqs.loc` is correct by opening up the LASTZ tool, and checking the dropdown menu of genomes. Test the new database(s) by running a few sequences that you expect to have hits with default parameters.
-* You can make sure the `alignseq.loc` is correct by loading a simple [BED](/src/learn/datatypes/index.md#bed) file of coordinates that you know will pull regions from the target genome as a dataset, assigning the database as the reference genome that you are testing, and running the tool. Change dataset database assignments using the "Edit Attributes" form ([pencil icon](/src/learn/managing-datasets/index.md#dataset_icons)). 
+* You can make sure the `alignseq.loc` is correct by loading a simple [BED](/src/learn/datatypes/index.md#bed) file of coordinates that you know will pull regions from the target genome as a dataset, assigning the database as the reference genome that you are testing, and running the tool. Change dataset database assignments using the "Edit Attributes" form ([pencil icon](/src/learn/managing-datasets/index.md#dataset-icons-text)). 
 
 ### Megablast
 

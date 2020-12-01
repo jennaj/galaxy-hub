@@ -10,7 +10,7 @@ Restricting tool usage can be done in two levels
 
 ## Disabling tools
 
-You can read a [thread](http://dev.list.galaxyproject.org/pass-user-groups-to-dynamic-job-runner-tp4661753p4661889.html) about restricting tool usage, but I will summarise the necessary changes here. Credit goes to Nicola Soranzo for illustrating this method of implementing tool access control.
+You can read a [thread](https://lists.galaxyproject.org/archives/list/galaxy-dev@lists.galaxyproject.org/thread/KVZ3FUDZBX4ZMPM6B5DMZ4TNYK4A6OPD/#QJ2LWTX2QGXQKX3XXFZCSAZCB7ZDCGIW) about restricting tool usage, but I will summarise the necessary changes here. Credit goes to Nicola Soranzo for illustrating this method of implementing tool access control.
 
 ### job_conf.xml
 
@@ -149,15 +149,15 @@ There are several different types of filters:
 
 * tool
 
-Each of these passes appropriate variables to the python function when they're called, and as such their declaration in the main configuration is slightly different. To activate a filter, you will need to modify your `config/galaxy.ini` file. The syntax for each of them is spread across several examples in the `examples.py` file that is provided. These are reproduced below for clarity
+Each of these passes appropriate variables to the python function when they're called, and as such their declaration in the main configuration is slightly different. To activate a filter, you will need to modify your `config/galaxy.yml` file. The syntax for each of them is spread across several examples in the `examples.py` file that is provided. These are reproduced below for clarity
 
-* `tool_filters = examples:restrict_upload_to_admins`
+* `tool_filters: 'examples:restrict_upload_to_admins'`
 
-* `tool_section_filters = examples:explicit_user_mapping`
+* `tool_section_filters: 'examples:explicit_user_mapping'`
 
-* `tool_label_filters = examples:label_filter`
+* `tool_label_filters: 'examples:label_filter'`
 
-Simply add the appropriate string to your `config/galaxy.ini` in the `[app:main]` section to activate a tool filter. 
+Simply add the appropriate string to your `config/galaxy.yml` to activate a tool filter. 
 
 # Conclusion
 
@@ -167,7 +167,7 @@ With this, you should have restricted a tool's use to a specific role, and hidde
 
 ## Multiple Worker Threads running local jobs
 
-If you have not used the job_conf before and are using multiple worker threads for running galaxy (e.g., `server:handler0` entries in your `config/galaxy.ini`), please be sure to note you'll have to modify your `<handlers>` section to look something like:
+If you have not used the job_conf before and are using multiple worker threads for running galaxy (e.g., `server:handler0` entries in your `config/galaxy.yml`), please be sure to note you'll have to modify your `<handlers>` section to look something like:
 
 ```xml
 <handlers default="handlers">

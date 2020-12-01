@@ -104,15 +104,15 @@ There are [a plenitude of Galaxy related events coming up](/src/events/index.md)
    </tr>
    <tr>
      <th class="th" > December 15 </th>
-     <td> <em><a href="/Community/GalaxyAdmins/Meetups/2016_12_15/">Galaxy Training Materials: Community creation, curation, and use</a></em> and <em><a href="/Community/GalaxyAdmins/Meetups/2016_12_15/">The new Galaxy Hub: Community creation, curation, and use</a></em> </td>
-     <td> <img src="/src/images/icons/GL.png" alt="Online" align="right" /> <a href="/Community/GalaxyAdmins/Meetups/2016-12-15/">Online</a> </td>
+     <td> <em><a href="/src/community/galaxy-admins/meetups/2016-12-15/">Galaxy Training Materials: Community creation, curation, and use</a></em> and <em><a href="/src/community/galaxy-admins/meetups/2016-12-15/">The new Galaxy Hub: Community creation, curation, and use</a></em> </td>
+     <td> <img src="/src/images/icons/GL.png" alt="Online" align="right" /> <a href="/src/community/galaxy-admins/meetups/2016-12-15/">Online</a> </td>
      <td> <a href='/src/people/bjoern-gruening/index.md'>Björn Grüning</a>, Bérénice Batut, <a href="/src/people/dannon-baker/index.md">Dannon Baker</a> and <a href="/src/people/dave-clements/index.md">Dave Clements</a> </td>
    </tr>
    <tr>
      <th class="th" > December&nbsp;15-16 </th>
      <td> <em><a href="http://www.denbi.de/22-training-cat/training-courses/215-galaxy-rna-sequencing-data-analysis-workshop">Galaxy RNA-sequencing data analysis workshop</a></em> </td>
      <td> <img src="/src/images/icons/EU.png" alt="Europe" align="right" /> Freiburg, Germany </td>
-     <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="http://galaxy.uni-freiburg.de">Freiburg Galaxy Team</a> </td>
+     <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="http://galaxy.uni-freiburg.de">Freiburg Galaxy Team</a> </td>
    </tr>
   <tr>
     <td colspan=4 style=" text-align: center; background-color: #eef;"> <span style="font-size: larger;"> <strong>2017</strong> </span> </td>
@@ -125,9 +125,9 @@ There are [a plenitude of Galaxy related events coming up](/src/events/index.md)
   </tr>
   <tr>
     <th> January 16-19 </th>
-    <td> <strong><a href='/src/events/egdw2017/index.md'>European Galaxy Developer Workshop</a></strong> </td>
+    <td> <strong><a href='/src/events/2017-egdw/index.md'>European Galaxy Developer Workshop</a></strong> </td>
     <td> <div class='right'><img src="/src/images/icons/EU.png" alt="Europe" /></div> Strasbourg, France </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="mailto:egdw2017.oc@groupes.france-bioinformatique.fr">Organisers</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="mailto:egdw2017.oc@groupes.france-bioinformatique.fr">Organisers</a> </td>
   </tr>
   <tr>
     <th> January 30 </th>
@@ -142,13 +142,13 @@ There are [a plenitude of Galaxy related events coming up](/src/events/index.md)
     <th> February 3-9 </th>
     <td> <strong><a href='http://www.embl-abr.org.au/GAMe2017'>Galaxy Australasia Meeting (GAMe 2017)</a></strong> </td>
     <td> <div class='right'><img src="/src/images/icons/AU.png" alt="Australia" /></div> University of Melbourne, Victoria, Australia </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='https://www.embl-abr.org.au/organisers/'>Organisers</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='https://www.embl-abr.org.au/organisers/'>Organisers</a> </td>
   </tr>
   <tr>
     <th> February 13-17 </th>
     <td> <strong><a href='http://www.denbi.de/22-training-cat/training-courses/213-3rd-galaxy-high-throughput-sequencing-hts-data-analysis-workshop'>Galaxy Workshop on HTS data analysis for Scientists</a></strong> </td>
     <td> <div class='right'><img src="/src/images/icons/EU.png" alt="Europe" /></div> Freiburg, Germany </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='mailto:erxleben@informatik.uni-freiburg.de'>Organisers</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href='mailto:erxleben@informatik.uni-freiburg.de'>Organisers</a> </td>
   </tr>
   <tr>
     <td colspan=4 style=" background-color: #eef;"> </td>
@@ -157,15 +157,15 @@ There are [a plenitude of Galaxy related events coming up](/src/events/index.md)
     <th> June 26-30 </th>
     <td> <strong><a href='https://gcc2017.sciencesconf.org/'>2017 Galaxy Community Conference (GCC2017)</a></strong> </td>
     <td> <div class='right'><img src="/src/images/icons/EU.png" alt="Europe" /></div> Montpellier, France </td>
-    <td> <a href='/src/teach/trainers/index.md'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="mailto:gcc2017_organization@groupes.france-bioinformatique.fr">Organisers</a> </td>
+    <td> <a href='https://training.galaxyproject.org/'><img src='/src/images/galaxy-logos/GTN16.png' alt='Training offered by GTN Member' align='right' /></a> <a href="mailto:gcc2017_organization@groupes.france-bioinformatique.fr">Organisers</a> </td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td style=" border: none;"> <a href='/src/teach/trainers/index.md'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
-    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='/src/teach/trainers/index.md'>Designates a training event offered by GTN member(s)</a> </span> </td>
+    <td style=" border: none;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/icons/GTN32.png" alt="Designates a training event offered by GTN Member" width="24" /></a> </td>
+    <td style=" border: none;"> <span style="font-size: smaller;"> <a href='https://training.galaxyproject.org/'>Designates a training event offered by GTN member(s)</a> </span> </td>
   </tr>
 </table>
 
@@ -182,12 +182,12 @@ Some highlights from last month:
 
 * [A guide and best practices for R/Bioconductor tool integration in Galaxy](https://f1000research.com/articles/5-2757/v1), [Nitesh Turaga](/src/people/nitesh-turaga/index.md), Mallory A. Freeberg, [Dannon Baker](/src/people/dannon-baker/index.md), [John Chilton](/src/people/john-chilton/index.md), [Galaxy Team](/src/galaxy-team), [Anton Nekrutenko](/src/people/anton/index.md), [James Taylor](/src/people/james-taylor/index.md), *F1000Research* 2016, 5:2757 (doi: 10.12688/f1000research.9821.1)
 * [How Are You – and How’s Your Microbiome?](https://theanalyticalscientist.com/issues/1116/how-are-you-and-hows-your-microbiome/), Pratik Jagtap, *The Analytical Scientist*, November 2016
-* [Computational workflow for the fine-grained analysis of metagenomic samples](http://dx.doi.org/10.1186/s12864-016-3063-x), Esteban Pérez-Wohlfeil, Jose A. Arjona-Medina, Oscar Torreno, Eugenia Ulzurrun, Oswaldo Trelles, *BMC Genomics*, Vol. 17, No. S8. (25 October 2016), doi:10.1186/s12864-016-3063-x
-* [Big Data Smart Socket (BDSS): A System that Abstracts Data Transfer Habits from End Users](http://dx.doi.org/10.1093/bioinformatics/btw679), Nick A. Watts, Frank A. Feltus, *Bioinformatics* (26 October 2016), btw679, doi:10.1093/bioinformatics/btw679
-* [DNA Data Bank of Japan](http://dx.doi.org/10.1093/nar/gkw1001), Jun Mashima, Yuichi Kodama, Takatomo Fujisawa, et al., *Nucleic Acids Research* (24 October 2016), gkw1001, doi:10.1093/nar/gkw1001
-* [TP53 gene mutation analysis in chronic lymphocytic leukemia by nanopore MinION sequencing](http://dx.doi.org/10.1186/s13000-016-0550-y), Crescenzio F. Minervini, Cosimo Cumbo, Paola Orsini, et al., *Diagnostic Pathology*, Vol. 11, No. 1. (10 October 2016), doi:10.1186/s13000-016-0550-y
+* [Computational workflow for the fine-grained analysis of metagenomic samples](https://doi.org/10.1186/s12864-016-3063-x), Esteban Pérez-Wohlfeil, Jose A. Arjona-Medina, Oscar Torreno, Eugenia Ulzurrun, Oswaldo Trelles, *BMC Genomics*, Vol. 17, No. S8. (25 October 2016), doi:10.1186/s12864-016-3063-x
+* [Big Data Smart Socket (BDSS): A System that Abstracts Data Transfer Habits from End Users](https://doi.org/10.1093/bioinformatics/btw679), Nick A. Watts, Frank A. Feltus, *Bioinformatics* (26 October 2016), btw679, doi:10.1093/bioinformatics/btw679
+* [DNA Data Bank of Japan](https://doi.org/10.1093/nar/gkw1001), Jun Mashima, Yuichi Kodama, Takatomo Fujisawa, et al., *Nucleic Acids Research* (24 October 2016), gkw1001, doi:10.1093/nar/gkw1001
+* [TP53 gene mutation analysis in chronic lymphocytic leukemia by nanopore MinION sequencing](https://doi.org/10.1186/s13000-016-0550-y), Crescenzio F. Minervini, Cosimo Cumbo, Paola Orsini, et al., *Diagnostic Pathology*, Vol. 11, No. 1. (10 October 2016), doi:10.1186/s13000-016-0550-y
 * [An application suite based on the IFB Container as a Service platform](https://hal.inria.fr/hal-01394295), Francois Moreews, Olivier Sallou, Olivier Collin, In {ECCB 2016} (September 2016)
-* [The highly variable microbiota associated to intestinal mucosa correlates with growth and hypoxia resistance of sea bass, Dicentrarchus labrax, submitted to different nutritional histories](http://dx.doi.org/10.1186/s12866-016-0885-2), François-Joël Gatesoupe, Christine Huelvan, Nicolas Le Bayon, et al., *BMC Microbiology*, Vol. 16, No. 1. (8 November 2016), doi:10.1186/s12866-016-0885-2
+* [The highly variable microbiota associated to intestinal mucosa correlates with growth and hypoxia resistance of sea bass, Dicentrarchus labrax, submitted to different nutritional histories](https://doi.org/10.1186/s12866-016-0885-2), François-Joël Gatesoupe, Christine Huelvan, Nicolas Le Bayon, et al., *BMC Microbiology*, Vol. 16, No. 1. (8 November 2016), doi:10.1186/s12866-016-0885-2
 
 
 ## Tagged Publications
@@ -273,13 +273,13 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # Public Galaxy Server News
 
-There are [over 80 publicly accessible Galaxy servers](/src/public-galaxy-servers/index.md) and [five semi-public Galaxy services](/src/galaxy-services/index.md).  Here's what happened with them in November.
+There are [over 80 publicly accessible Galaxy servers](/src/use/index.md) and [five semi-public Galaxy services](/src/use/index.md).  Here's what happened with them in November.
 
 ## New Public Galaxy Servers
 
 ### PhenoMeNal
 
-<div class='right solid'><a href='http://public.phenomenal-h2020.eu/'><img src="/src/public-galaxy-servers/PhenoMeNal.png" alt="PhenoMeNal"  /></a></div>
+<div class='right solid'><a href='http://public.phenomenal-h2020.eu/'><img src="/src/use/phenomenal/phenomenal.png" alt="PhenoMeNal"  /></a></div>
 
 * *Link:*
   * [PhenoMeNal](http://public.phenomenal-h2020.eu/) server
@@ -299,7 +299,7 @@ There are [over 80 publicly accessible Galaxy servers](/src/public-galaxy-server
 
 ### BitLAB
 
-<div class='right solid'><a href='http://pistacho.ac.uma.es/galaxy/'><img src="/src/public-galaxy-servers/Bitlab.png" alt="BitLAB Galaxy" width="300" /></a></div>
+<div class='right solid'><a href='http://pistacho.ac.uma.es/galaxy/'><img src="/src/use/bitlab/bitlab.png" alt="BitLAB Galaxy" width="300" /></a></div>
 
 * *Link:*
   * [BitLAB Galaxy](http://pistacho.ac.uma.es/galaxy/)
@@ -320,14 +320,14 @@ There are [over 80 publicly accessible Galaxy servers](/src/public-galaxy-server
 
 <table>
   <tr>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/teach/index.md'><img src="/src/images/galaxy-logos/GTNLogo300.png" alt="Galaxy Training Network" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/galaxy-logos/GTNLogo300.png" alt="Galaxy Training Network" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
   </tr>
   <tr>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your <a href='/src/teach/resources/index.md#add-a-training-resource'>training resources</a> and <a href='/src/teach/trainers/index.md#add-a-trainer'>experience</a> <em>now</em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> </strong> </td>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your training resources and experience <em>now</em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a></em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </strong> </td>
   </tr>
 </table>
 

@@ -28,17 +28,17 @@ In addition to the videos and presentation materials, there are also several mee
 
 # New Public Servers
 
-Two new servers joined [the list of over 30 publicly accessible Galaxy servers](/src/public-galaxy-servers/index.md) in July.
+Two new servers joined [the list of over 30 publicly accessible Galaxy servers](/src/use/index.md) in July.
 
 ## PredPharmTox
 
-<div class='left'><a href='http://galaxy.predpharmtox.org/'><img src="/src/public-galaxy-servers/PredPharmToxLogo.png" alt="PredPharmTox" width="200" /></a></div>
+<div class='left'><a href='http://galaxy.predpharmtox.org/'><img src="/src/use/archive/predpharmtox-logo.png" alt="PredPharmTox" width="200" /></a></div>
 
 [PredPharmTox](http://galaxy.predpharmtox.org/) implements the [QuantMap tools](http://pubs.acs.org/doi/abs/10.1021/ci200429f) for grouping chemicals by biological activity. See "[Automated QuantMap for rapid quantitative molecular network topology analysis](http://bioinformatics.oxfordjournals.org/content/early/2013/07/04/bioinformatics.btt390.full.pdf)" by Schaal1, *et al.*, *[Bioinformatics](http://bioinformatics.oxfordjournals.org/)* (2013), for more.
 
 ## QBRC Galaxy
 
-<div class='right'><a href='http://galaxy.predpharmtox.org/'><img src="/src/public-galaxy-servers/QBRCLogo.jpg" alt="QBRC Galaxy" width="200" /></a></div>
+<div class='right'><a href='http://www.galaxy.qbrc.org/'><img src="/src/use/archive/qbrc-galaxy/qbrc-logo.jpg" alt="QBRC Galaxy" width="200" /></a></div>
 
 The [QBRC Galaxy Server](http://www.galaxy.qbrc.org/) hosts custom tools developed by members of the [Quantitative Biomedical Research Center @ University of Texas Southwestern](http://www.qbrc.swmed.edu/) for statistical analysis of various High Throughput Sequencing experiments.
 
@@ -103,9 +103,9 @@ The QBRC galaxy server tools are constantly being updated. Please contact author
 
 
 47 new papers were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in July. These papers may be particularly interesting to the Galaxy community
-* "[A sustainable national gateway for biological computation](http://dx.doi.org/10.1145/2484762.2484817)" by [James Taylor](/src/people/james-taylor/index.md), [Anton Nekrutenko](/src/people/anton/index.md), [Nate Coraor](/src/people/nate/index.md), *et al.* In *Proceedings of the Conference on Extreme Science and Engineering Discovery Environment: Gateway to Discovery* (2013)
-* "[Cloud-based uniform ChIP-Seq processing tools for modENCODE and ENCODE](http://dx.doi.org/10.1186/1471-2164-14-494)" by Quang Trinh, Fei Y. Jen, Ziru Zhou, *et al.*, *BMC Genomics,* Vol. 14, No. 1. (2013), 494
-* "[The Banana Genome Hub](http://dx.doi.org/10.1093/database/bat035)" by Droc, *et al.*, *Database*, Vol. 2013 (01 January 2013), 
+* "[A sustainable national gateway for biological computation](https://doi.org/10.1145/2484762.2484817)" by [James Taylor](/src/people/james-taylor/index.md), [Anton Nekrutenko](/src/people/anton/index.md), [Nate Coraor](/src/people/nate/index.md), *et al.* In *Proceedings of the Conference on Extreme Science and Engineering Discovery Environment: Gateway to Discovery* (2013)
+* "[Cloud-based uniform ChIP-Seq processing tools for modENCODE and ENCODE](https://doi.org/10.1186/1471-2164-14-494)" by Quang Trinh, Fei Y. Jen, Ziru Zhou, *et al.*, *BMC Genomics,* Vol. 14, No. 1. (2013), 494
+* "[The Banana Genome Hub](https://doi.org/10.1093/database/bat035)" by Droc, *et al.*, *Database*, Vol. 2013 (01 January 2013), 
 
 <br />
 
@@ -119,9 +119,9 @@ The QBRC galaxy server tools are constantly being updated. Please contact author
 
 # New Galaxy Proteomics Mailing List
 
-<div class='right'><a href='http://proteomics.list.galaxyproject.org/'><img src="/src/images/logos/MailmanLogoSmall.png" alt="Galaxy Proteomics Mailing List"  /></a></div>
+<div class='right'><a href='https://lists.galaxyproject.org/lists/galaxy-proteomics.lists.galaxyproject.org/'><img src="/src/images/logos/MailmanLogoSmall.png" alt="Galaxy Proteomics Mailing List"  /></a></div>
 
-The Galaxy community now has a [mailing list dedicated to proteomics](http://proteomics.list.galaxyproject.org/). If you're using Galaxy to do proteomics, or if you are thinking of doing so then [please subscribe](https://lists.galaxyproject.org/listinfo/galaxy-proteomics).  In case you missed it, there is also a [proteomics wiki page](/src/proteomics/index.md). 
+The Galaxy community now has a [mailing list dedicated to proteomics](https://lists.galaxyproject.org/lists/galaxy-proteomics.lists.galaxyproject.org/). If you're using Galaxy to do proteomics, or if you are thinking of doing so then [please subscribe](https://lists.galaxyproject.org/lists/galaxy-proteomics.lists.galaxyproject.org/).  In case you missed it, there is also a proteomics wiki page. 
 
 See [the complete list of mailing lists](/src/mailing-lists/index.md) for more information on this and other Galaxy mailing lists, including links to searchable archives of all Galaxy lists.
 
@@ -241,7 +241,7 @@ Galaxy had a strong presence at [ISMB / ECCB 2013](http://www.iscb.org/ismbeccb2
 
 # Galaxy Distributions
 
-The most recent official distribution was on [June 3, 2013](/src/archive/dev-news-briefs/2013-06-03/index.md).  There was a minor [security patch released on June 12](http://announce.list.galaxyproject.org/galaxy-announce-Galaxy-Security-Notification-tt4639243.html).
+The most recent official distribution was on [June 3, 2013](/src/archive/dev-news-briefs/2013-06-03/index.md).  There was a minor [security patch released on June 12](https://lists.galaxyproject.org/archives/list/galaxy-announce@lists.galaxyproject.org/message/MELA4C4YJ32QUVFXLMTH3RXY4X2QLGOS/).
 
 ## CloudMan Release
 

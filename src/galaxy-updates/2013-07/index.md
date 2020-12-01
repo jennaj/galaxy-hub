@@ -9,9 +9,9 @@ Welcome to the July 2013 *[Galaxy Update](/src/galaxy-updates/index.md)*, a mont
 
 # New Public Servers
 
-Four new servers joined [the list of over 30 publicly accessible Galaxy servers](/src/public-galaxy-servers/index.md) in June.
+Four new servers joined [the list of over 30 publicly accessible Galaxy servers](/src/use/index.md) in June.
 
-<div class='left'><br /><div class='solid'><a href='http://p-galaxy.ddbj.nig.ac.jp/'><img src="/src/public-galaxy-servers/DDBJ-GIL.jpg" alt="P-Galaxy" width="150" /></a></div></div>
+<div class='left'><br /><div class='solid'><a href='http://p-galaxy.ddbj.nig.ac.jp/'><img src="/src/public-galaxy-servers/archive/ddbj-gil.jpg" alt="P-Galaxy" width="150" /></a></div></div>
 
 ## P-Galaxy
 
@@ -35,10 +35,10 @@ an open source network analysis pipeline for genome-wide association studies and
    
 ## Orione
 
-<div class='right solid'><a href='http://orione.crs4.it/'><img src="/src/public-galaxy-servers/OrioneHomePage300.png" alt="Orione"  /></a></div>
+<div class='right solid'><a href='http://orione.crs4.it/'><img src="/src/use/orione/orione-home-page-300.png" alt="Orione"  /></a></div>
 
 [Orione](http://orione.crs4.it/) is a Galaxy based web server for microbiology. [Orione](http://orione.crs4.it/) includes all post mapping or assembling steps from scaffolding to complete annotation pipelines.  From the [GCC2013](/src/events/gcc2013/index.md) poster abstract "[Engaging Galaxy in Microbiology](/src/events/gcc2013/abstracts/posters/index.md#p7-engaging-galaxy-in-microbiology)"
- We started on selecting the relevant software in the microbiology area, developing then all the necessary tools to integrate them into the Galaxy ecosystem. In addition to that, we made available several specialized workflows covering major applications such as bacterial resequencing, de novo assembly, scaffolding, bacterial RNA-seq, gene annotation and metagenomics. Orione provides additional capabilities to perform integrative, reproducible and transparent bioinformatic data analysis in microbiology thus expanding the constellation of specialized Galaxy based web servers as [Nebula](/src/public-galaxy-servers/index.md#nebula), [Cistrome](/src/public-galaxy-servers/index.md#cistrome) and several others.  
+ We started on selecting the relevant software in the microbiology area, developing then all the necessary tools to integrate them into the Galaxy ecosystem. In addition to that, we made available several specialized workflows covering major applications such as bacterial resequencing, de novo assembly, scaffolding, bacterial RNA-seq, gene annotation and metagenomics. Orione provides additional capabilities to perform integrative, reproducible and transparent bioinformatic data analysis in microbiology thus expanding the constellation of specialized Galaxy based web servers as Nebula, [Cistrome](/src/use/cistrome-analysis-pipeline/index.md) and several others.  
 
 This installation of Galaxy has been configured such that anonymous users can operate in a limited way. If you need to store data on this website and/or use advanced Galaxy features such as sharing and workflows, please send us an [email](mailto:galaxyadmin AT crs4 DOT it) with a short request.
 
@@ -126,14 +126,14 @@ This installation of Galaxy has been configured such that anonymous users can op
 
 A record 53 new papers were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in June. These papers may be particularly interesting to the Galaxy community
 
-* "[Web-based visual analysis for high-throughput genomics](http://dx.doi.org/10.1186/1471-2164-14-397)" by [Jeremy Goecks](/src/people/jeremy-goecks/index.md), [Carl Eberhard](/src/people/carl-eberhard/index.md), Tomithy Too, [Anton Nekrutenko](/src/people/anton/index.md), [James Taylor](/src/people/james-taylor/index.md), *BMC Genomics*, Vol. 14, No. 1. (2013), 397
-* "[Detection of non-coding RNA in Bacteria and Archaea using the DETR’PROK Galaxy pipeline](http://dx.doi.org/10.1016/j.ymeth.2013.06.003)" by Claire Toffano-Nioche, Yufei Luo, Claire Kuchly, Claire Wallon, Delphine Steinbach, Matthias Zytnicki, Annick Jacq, Daniel Gautheret, *[Methods](http://www.sciencedirect.com/science/journal/10462023)* (June 2013)
-* "[Encore: Genetic Association Interaction Network Centrality Pipeline and Application to SLE Exome Data](http://dx.doi.org/10.1002/gepi.21739)" by Nicholas A. Davis, Caleb A. Lareau, Bill C. White, *et al.* *Genetic Epidemiology* (June 2013)
-* "[A review of Bioinformatics training applied to research in Molecular Medicine, Agriculture and Biodiversity in Costa Rica and Central America](http://dx.doi.org/10.1093/bib/bbt033)" by Allan Orozco, Jessica Morera, Sergio Jiménez, Ricardo Boza, *Briefings in Bioinformatics* (30 May 2013)
-* "[Streaming Support for Data Intensive Cloud-Based Sequence Analysis](http://dx.doi.org/10.1155/2013/791051)" by Shadi A. Issa, Romeo Kienzler, Mohamed El-Kalioby, *et al.,* *BioMed Research International*, Vol. 2013 (2013), pp. 1-16
-* "[Phase-defined complete sequencing of the HLA genes by next-generation sequencing](http://dx.doi.org/10.1186/1471-2164-14-355)" by Kazuyoshi Hosomichi, Timothy Jinam, Shigeki Mitsunaga, Hirofumi Nakaoka, Ituro Inoue, *BMC Genomics*, Vol. 14, No. 1. (2013), 355
-* "[Biology: The big challenges of big data](http://dx.doi.org/10.1038/498255a)" by Vivien Marx, *Nature*, Vol. 498, No. 7453. (12 June 2013), pp. 255-260
-* "[Software and supporting material for “SOAPdenovo2: An empirically improved memory-efficient short read de novo assembly](http://dx.doi.org/10.5524/100044)" by Luo, *et al.* in [GigaDB](http://gigadb.org/dataset/100044)
+* "[Web-based visual analysis for high-throughput genomics](https://doi.org/10.1186/1471-2164-14-397)" by [Jeremy Goecks](/src/people/jeremy-goecks/index.md), [Carl Eberhard](/src/people/carl-eberhard/index.md), Tomithy Too, [Anton Nekrutenko](/src/people/anton/index.md), [James Taylor](/src/people/james-taylor/index.md), *BMC Genomics*, Vol. 14, No. 1. (2013), 397
+* "[Detection of non-coding RNA in Bacteria and Archaea using the DETR’PROK Galaxy pipeline](https://doi.org/10.1016/j.ymeth.2013.06.003)" by Claire Toffano-Nioche, Yufei Luo, Claire Kuchly, Claire Wallon, Delphine Steinbach, Matthias Zytnicki, Annick Jacq, Daniel Gautheret, *[Methods](http://www.sciencedirect.com/science/journal/10462023)* (June 2013)
+* "[Encore: Genetic Association Interaction Network Centrality Pipeline and Application to SLE Exome Data](https://doi.org/10.1002/gepi.21739)" by Nicholas A. Davis, Caleb A. Lareau, Bill C. White, *et al.* *Genetic Epidemiology* (June 2013)
+* "[A review of Bioinformatics training applied to research in Molecular Medicine, Agriculture and Biodiversity in Costa Rica and Central America](https://doi.org/10.1093/bib/bbt033)" by Allan Orozco, Jessica Morera, Sergio Jiménez, Ricardo Boza, *Briefings in Bioinformatics* (30 May 2013)
+* "[Streaming Support for Data Intensive Cloud-Based Sequence Analysis](https://doi.org/10.1155/2013/791051)" by Shadi A. Issa, Romeo Kienzler, Mohamed El-Kalioby, *et al.,* *BioMed Research International*, Vol. 2013 (2013), pp. 1-16
+* "[Phase-defined complete sequencing of the HLA genes by next-generation sequencing](https://doi.org/10.1186/1471-2164-14-355)" by Kazuyoshi Hosomichi, Timothy Jinam, Shigeki Mitsunaga, Hirofumi Nakaoka, Ituro Inoue, *BMC Genomics*, Vol. 14, No. 1. (2013), 355
+* "[Biology: The big challenges of big data](https://doi.org/10.1038/498255a)" by Vivien Marx, *Nature*, Vol. 498, No. 7453. (12 June 2013), pp. 255-260
+* "[Software and supporting material for “SOAPdenovo2: An empirically improved memory-efficient short read de novo assembly](https://doi.org/10.5524/100044)" by Luo, *et al.* in [GigaDB](http://gigadb.org/dataset/100044)
 
 The [1,000th Galaxy related paper](/src/news/galaxy-cite-u-like-paper1000/index.md) was added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in June.  Those first thousand papers are tagged as
 
@@ -202,7 +202,7 @@ The [1,000th Galaxy related paper](/src/news/galaxy-cite-u-like-paper1000/index.
     <td colspan=8 style=" text-align: center; border: none;"> </td>
   </tr>
   <tr>
-    <td colspan=8 style=" text-align: center; border: none;"> <span style="font-size: smaller;"> * These tags were added in 2013 and very few papers before 2013 have been back-curated with them.  All the tags are explained on the <a href='CiteULike'>/src/cite-u-like/index.md</a> page. </span> </td>
+    <td colspan=8 style=" text-align: center; border: none;"> <span style="font-size: smaller;"> * These tags were added in 2013 and very few papers before 2013 have been back-curated with them.  All the tags are explained on the <a href='/src/publication-library/index.md'>CiteULike</a> page. </span> </td>
   </tr>
 </table>
 
@@ -376,7 +376,7 @@ See the [Galaxy Events Google Calendar](http://bit.ly/gxycal) for details on the
 <div class='right'>
 <a href='/src/archive/dev-news-briefs/2013-06-03/index.md'><img src="/src/images/news-graphics/2013_06_03_scatterplot-1.png" alt="scatterplot" width=400 /></a></div>
 
-The most recent official distribution was on [June 3, 2013](/src/archive/dev-news-briefs/2013-06-03/index.md).  There was minor  [security patch released on June 12](http://announce.list.galaxyproject.org/galaxy-announce-Galaxy-Security-Notification-tt4639243.html).
+The most recent official distribution was on [June 3, 2013](/src/archive/dev-news-briefs/2013-06-03/index.md).  There was minor  [security patch released on June 12](https://lists.galaxyproject.org/archives/list/galaxy-announce@lists.galaxyproject.org/thread/MELA4C4YJ32QUVFXLMTH3RXY4X2QLGOS/#MELA4C4YJ32QUVFXLMTH3RXY4X2QLGOS).
 
 ## June 3, 2013 Distribution
 
@@ -386,9 +386,9 @@ The most recent official distribution was on [June 3, 2013](/src/archive/dev-new
 * Job distribution, error tracking/management, and reporting function improvements to [Admin](/src/archive/dev-news-briefs/2013-06-03/index.md#admin) & [Core](/src/archive/dev-news-briefs/2013-06-03/index.md#core). 
 
 * Multiple [Tool](/src/archive/dev-news-briefs/2013-06-03/index.md#tools) updates, [History and Dataset](/src/archive/dev-news-briefs/2013-06-03/index.md#histories) upgrades, and other related [UI](/src/archive/dev-news-briefs/2013-06-03/index.md#ui) enhancements.
-* New features and fixes added to the [Tool Shed](/src/archive/dev-news-briefs/2013-06-03/index.md#tool_shed) and related components. 
+* New features and fixes added to the [Tool Shed](/src/archive/dev-news-briefs/2013-06-03/index.md#tool-shed) and related components. 
 * [Python 2.5 Support officially ended](/src/archive/dev-news-briefs/2013-06-03/index.md#python_25_support_has_ended).
-* Plus newly [merged Pull Requests](/src/archive/dev-news-briefs/2013-06-03/index.md#pull_requests_merged) and links to tickets covering key [Bug Fixes](/src/archive/dev-news-briefs/2013-06-03/index.md#bug_fixes).
+* Plus newly [merged Pull Requests](/src/archive/dev-news-briefs/2013-06-03/index.md#pull-requests-merged) and links to tickets covering key [Bug Fixes](/src/archive/dev-news-briefs/2013-06-03/index.md#bug-fixes).
 
 *[http://getgalaxy.org](http://getgalaxy.org)*
 

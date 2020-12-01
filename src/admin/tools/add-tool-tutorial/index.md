@@ -56,7 +56,7 @@ Although `toolExample.pl` now resides within the `tools/myTools/` directory, Gal
 ```xml
 <tool id="fa_gc_content_1" name="Compute GC content" version="0.1.0">
   <description>for each sequence in a file</description>
-  <command interpreter="perl">toolExample.pl $input $output</command>
+  <command>perl '${__tool_directory__}/toolExample.pl' '$input' '$output'</command>
   <inputs>
     <param format="fasta" name="input" type="data" label="Source file"/>
   </inputs>
@@ -100,6 +100,6 @@ Note the correspondence between elements of the tool definition file (Step 3) an
 
 ### 6. (optional) Upload the tool to Galaxy's Tool Shed.
 
-To share the tool with the Galaxy community, upload it to the [Galaxy Tool Shed](/src/toolshed/index.md). Users can now install the tool into their Galaxies seamlessly via the [Admin interface](/src/admin/index.md). If the tool is well-written and tested it can even make it to the [Main Galaxy instance](/src/main/index.md) or other [Public Galaxy Servers](/src/public-galaxy-servers/index.md)!
+To share the tool with the Galaxy community, upload it to the [Galaxy Tool Shed](/src/toolshed/index.md). Users can now install the tool into their Galaxies seamlessly via the [Admin interface](/src/admin/index.md). If the tool is well-written and tested it can even make it to the [Main Galaxy instance](/src/main/index.md) or other [Public Galaxy Servers](/src/use/index.md)!
 
 To get started sharing and publishing your tool, check out the [How to publish a tool in the Tool Shed](/src/toolshed/publish-tool/index.md) tutorial.

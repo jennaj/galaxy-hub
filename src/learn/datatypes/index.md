@@ -51,8 +51,9 @@ number of fields is noted in the file extension, for example: `'.bed3'`,
 1-5, 1-6 or 1-12\.
 
 ```
-Example BED12: chr22 1000 5000 cloneA 960 + 1000 5000 0 2 567,488,
-0,3512 chr22 2000 6000 cloneB 900 - 2000 6000 0 2 433,399, 0,3601
+Example BED12: 
+chr22 1000 5000 cloneA 960 + 1000 5000 0 2 567,488,0,3512
+chr22 2000 6000 cloneB 900 - 2000 6000 0 2 433,399, 0,3601
 ```
 
 Coordinates have a "0-based, fully-closed start" and a "0-based, half-open end"
@@ -201,11 +202,14 @@ A sequence in `FASTA` format consists of a single title line and one or more
 lines of sequence data wrapped to a consistent length. The first character of
 the title line is a greater-than (">") symbol.
 
-<pre>>sequence1 atgcgtttgcgtgcatgcgtttgcgtgcatgcgtttgcgtgcatgcgtttgcgtgc
-gtcggtttcgttgcatgcgtttgcgtgcatgcgtttgcgtgcatgcgtttgcgtgc atgcgtttgcgtgc
+<pre>>sequence1 
+atgcgtttgcgtgcatgcgtttgcgtgcatgcgtttgcgtgcatgcgtttgcgtgc
+gtcggtttcgttgcatgcgtttgcgtgcatgcgtttgcgtgcatgcgtttgcgtgc
+atgcgtttgcgtgc
 >sequence2
 tttcgtgcgtatagtttcgtgcgtatagtttcgtgcgtatagtttcgtgcgtatag
-tttcgtgcgtatagtttcgtgcgtatagtttcgtgcgtatagtttcgtgcgtatag tggcgcggt</pre>
+tttcgtgcgtatagtttcgtgcgtatagtttcgtgcgtatagtttcgtgcgtatag
+tggcgcggt</pre>
 
 #### Galaxy FASTA format rules:
 
@@ -222,8 +226,8 @@ tttcgtgcgtatagtttcgtgcgtatagtttcgtgcgtatagtttcgtgcgtatag tggcgcggt</pre>
 #### Best practices:
 
 *   confirm the format of a `FASTA` dataset at the start of an analysis project
-*   if a `FASTA` dataset is used as a **Custom Reference Genome**, use the same
-    dataset for all steps
+*   if a `FASTA` dataset is used as a **Custom Reference Genome**, double check the formatting and fix it as needed. The tool **NormalizeFasta** can be used in most cases -- see the [Custom Reference Genome](/src/learn/custom-genomes/) FAQ for the how-to
+*   use the same *Target Fasta/Custom Genome* dataset for all steps to avoid technical processing errors
 
 #### Troubleshooting:
 
@@ -259,16 +263,29 @@ resulting output format.
 `FastqSolexa` is the Illumina (Solexa) variant of the Fastq format, which
 stores sequences and quality scores in a single file:
 
-<pre>@seq1 GACAGCTTGGTTTTTAGTGAGTTGTTCCTTTCTTT +seq1
-hhhhhhhhhhhhhhhhhhhhhhhhhhPW@hhhhhh @seq2 GCAATGACGGCAGCAATAAACTCAACAGGTGCTGG
-+seq2 hhhhhhhhhhhhhhYhhahhhhWhAhFhSIJGChO</pre>
+```
+@seq1
+GACAGCTTGGTTTTTAGTGAGTTGTTCCTTTCTTT
++seq1
+hhhhhhhhhhhhhhhhhhhhhhhhhhPW@hhhhhh
+@seq2
+GCAATGACGGCAGCAATAAACTCAACAGGTGCTGG
++seq2
+hhhhhhhhhhhhhhYhhahhhhWhAhFhSIJGChO
+```
 
 Or:
 
-<pre>@seq1 GAATTGATCAGGACATAGGACAACTGTAGGCACCAT +seq1 40 40 40 40 35 40 40 40
-25 40 40 26 40 9 33 11 40 35 17 40 40 33 40 7 9 15 3 22 15 30 11 17 9 4 9 4
-@seq2 GAGTTCTCGTCGCCTGTAGGCACCATCAATCGTATG +seq2 40 15 40 17 6 36 40 40 40 25
-40 9 35 33 40 14 14 18 15 17 19 28 31 4 24 18 27 14 15 18 2 8 12 8 11 9</pre>
+```
+@seq1
+GAATTGATCAGGACATAGGACAACTGTAGGCACCAT
++seq1
+40 40 40 40 35 40 40 40 25 40 40 26 40 9 33 11 40 35 17 40 40 33 40 7 9 15 3 22 15 30 11 17 9 4 9 4
+@seq2
+GAGTTCTCGTCGCCTGTAGGCACCATCAATCGTATG
++seq2
+40 15 40 17 6 36 40 40 40 25 40 9 35 33 40 14 14 18 15 17 19 28 31 4 24 18 27 14 15 18 2 8 12 8 11 9
+```
 
 ## GFF
 
@@ -320,6 +337,14 @@ specification:[http://genome.ucsc.edu/FAQ/FAQformat.html#format3](http://genome.
 The [UCSC](http://genome.ucsc.edu) Genome Browser `GTF`
 specification:[http://genome.ucsc.edu/FAQ/FAQformat.html#format4](http://genome.ucsc.edu/FAQ/FAQformat.html#format4)
 
+
+**TIP** When using `GTF` datasets in Galaxy, the dataset should not contain any header lines or blank lines. Extra comment lines (usually staring with a #) or blank lines at the start and sometimes internal to the file should be removed before using the data.
+
+* Remove the headers (lines that start with a "#") with the **Select** tool using the option "NOT Matching" with the regular expression: `^#`
+* Remove blank lines with the **Select** tool using the option "NOT Matching" with the regular expression: `^$`
+* Once the formatting is fixed, change the datatype to be `gft` under Edit Attributes (pencil icon). 
+* Often `gft` data will be given the datatype `gff` by default when formatting problems are present, which works fine with some tools and but not with others. It is a good idea to fix the data first, at the start of an analysis, to avoid confusing tool errors.
+
 ## GFF3
 
 Similar to [GFF](/learn/datatypes#GFF) and [GTF](/learn/datatypes#GTF) in
@@ -329,6 +354,10 @@ differently between lines (and sets of lines), can be hierarchically ordered,
 and can contain extra content such as [FASTA](/learn/datatypes#Fasta) sequence.
 Seeing the official specification (and online validation tool) for details is
 highly recommended.
+
+**TIP** When using `GFF3` datasets in Galaxy, the dataset must containly **only the single header line and the primary data lines** or tools may error. Extra comment lines (###), repeats, and fasta content is not accepted. 
+
+ > When obtaining reference annotation from the **Ensembl** downloads area, choose the `GTF` annotation for use with Galaxy's tools. Avoid the `GFF3` annotation as it contains this extra content.
 
 Known as [General Feature Format
 3](http://en.wikipedia.org/wiki/General_feature_format), or `GFF3`.
@@ -343,7 +372,8 @@ The official specification is at
 datasets are available from many sources and can sometimes be created from
 other datatypes.
 
-*   The public [Main](/Main) Galaxy instance contains tools to examine and
+*   How to source Human, Mouse, and other common genome `GTF` reference annnotation data. [See Method 6 here.](https://galaxyproject.org/support/chrom-identifiers/#any-mixed-sourced-data) 
+*   The public [Main](/src/main/index.md) Galaxy instance contains tools to examine and
     manipulate [GFF](/learn/datatypes#GFF)/[GTF](/learn/datatypes#GTF) files
     under the tool group **Filter and Sort**.
 *   The public Galaxy instance at:
@@ -372,7 +402,7 @@ start, fully closed end" coordinate system ). Or, this quick reference:
 
 `Interval` dataset start with definition line that assigns the column
 attributes. Columns are individually assigned to an `Interval` attribute
-`CHROM, START, STOP, NAME, STRAND, SCORE, COMMON`. The columns may be in any
+`CHROM, START, END, NAME, STRAND, SCORE, COMMENT`. The columns may be in any
 order and only `CHROM, START, and END` are required. To add/assign additional
 columns, use the "Edit Attributes" form (click on pencil icon in top right
 corner of dataset).

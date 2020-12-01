@@ -35,7 +35,7 @@ GCC2017 will be held at [Le Corum Conference Centre](http://www.montpellier-even
 
 ## GCC2017 Travel Fellowships
 
-[GCC2017](https://gcc2017.sciencesconf.org/) is a great opportunity to discuss your research with others that are working in and facing similar challenges in data-intenisve life science research.  *But only if you can get there.*  The Galaxy Community Fund is offering [fellowships](news/2017-03-gcc2017-fellowships/) to early career researchers that would be coming from afar to attend GCC2017. 
+[GCC2017](https://gcc2017.sciencesconf.org/) is a great opportunity to discuss your research with others that are working in and facing similar challenges in data-intenisve life science research.  *But only if you can get there.*  The Galaxy Community Fund is offering [fellowships](/src/news/2017-03-gcc2017-fellowships/) to early career researchers that would be coming from afar to attend GCC2017. 
 
 See the [application](http://bit.ly/gcc2017apply) for full details on what's covered and what we ask you to provide.
 
@@ -120,7 +120,7 @@ There are [a plenitude of Galaxy related events coming up](/src/events/index.md)
   <td><span class="text-nowrap">May 29th 2017</span></td>
   <td><a href="http://www.france-bioinformatique.fr/fr/evenements/W4E2017">Workflow4Experimenters International Course</a> [<a href="/src/events/2017-05-w4e">hub page</a>]</td>
   <td><img style="float:right;" src="/src/images/icons/EU.png"/><a href="http://www.france-bioinformatique.fr/fr">Pasteur Institute, Paris, France</a></td>
-  <td><a href="/src/teach/gtn/index.md"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Christophe Caron</td>
+  <td><a href="https://training.galaxyproject.org/"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Christophe Caron</td>
 </tr>
 <tr>
   <td><span class="text-nowrap">May 29th 2017</span></td>
@@ -136,7 +136,7 @@ There are [a plenitude of Galaxy related events coming up](/src/events/index.md)
 </tr>
 <tr>
   <td><span class="text-nowrap">June 6th 2017</span></td>
-  <td><a href="http://france.list.galaxyproject.org/Galaxy-france-Fwd-bioinfo-Formation-detection-et-annotation-des-elements-transposables-dans-les-genoe-td220.html">Formation détection et annotation des éléments transposables dans les génomes eucaryote</a></td>
+  <td><a href="https://lists.galaxyproject.org/archives/list/galaxy-france@lists.galaxyproject.org/thread/PHXFO7BB724GSZ5TXE7WNH543OUYFKGY/#PHXFO7BB724GSZ5TXE7WNH543OUYFKGY">Formation détection et annotation des éléments transposables dans les génomes eucaryote</a></td>
   <td><img style="float:right;" src="/src/images/icons/EU.png"/><a href="https://urgi.versailles.inra.fr/">INRA, Versailles, France</a></td>
   <td>Nathalie Choisne, Olivier Inizan</td>
 </tr>
@@ -144,31 +144,31 @@ There are [a plenitude of Galaxy related events coming up](/src/events/index.md)
   <td><span class="text-nowrap">June 20th 2017</span></td>
   <td><a href="/src/news/2017-03-g-on-ramp/index.md">G-OnRamp Beta Testers Workshop</a></td>
   <td><img style="float:right;" src="/src/images/icons/NA.png"/><a href="https://wustl.edu/">Washington University in St. Louis, Missouri, United States</a></td>
-  <td><a href="/src/teach/gtn/index.md"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Jeremy Goecks, Sarah Elgin</td>
+  <td><a href="https://training.galaxyproject.org/"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Jeremy Goecks, Sarah Elgin</td>
 </tr>
 <tr>
   <td><span class="text-nowrap">June 26th 2017</span></td>
   <td><a href="https://gcc2017.sciencesconf.org/">2017 Galaxy Community Conference (GCC2017)</a> [<a href="/src/events/2017-gcc">hub page</a>]</td>
   <td><img style="float:right;" src="/src/images/icons/EU.png"/>Montpellier, Fance</td>
-  <td><a href="/src/teach/gtn/index.md"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Galaxy community</td>
+  <td><a href="https://training.galaxyproject.org/"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Galaxy community</td>
 </tr>
 <tr>
   <td><span class="text-nowrap">July 2nd 2017</span></td>
   <td><a href="http://www.smbe2017.org/symposia/">Computation and reproducibility in molecular evolution</a></td>
   <td><img style="float:right;" src="/src/images/icons/NA.png"/><a href="http://www.smbe2017.org/">SMBE 2017, Austin, Texas, United States</a></td>
-  <td><a href="/src/teach/gtn/index.md"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Anton Nekrutenko, Sergei Kosakovsky Pond</td>
+  <td><a href="https://training.galaxyproject.org/"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Anton Nekrutenko, Sergei Kosakovsky Pond</td>
 </tr>
 <tr>
   <td><span class="text-nowrap">July 25th 2017</span></td>
   <td><a href="/src/news/2017-03-g-on-ramp/index.md">G-OnRamp Beta Testers Workshop</a></td>
   <td><img style="float:right;" src="/src/images/icons/NA.png"/><a href="https://wustl.edu/">Washington University in St. Louis, Missouri, United States</a></td>
-  <td><a href="/src/teach/gtn/index.md"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Jeremy Goecks, Sarah Elgin</td>
+  <td><a href="https://training.galaxyproject.org/"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a>Jeremy Goecks, Sarah Elgin</td>
 </tr>
 <tr>
   <td><span class="text-nowrap">September 1st 2017</span></td>
   <td><a href="http://www.earlham.ac.uk/genome-10k-and-genome-science">The Galaxy Bioinformatics Platform: learning to use Galaxy for RNA-seq analysis</a> [<a href="/src/events/2017-genome-10k">hub page</a>]</td>
   <td><img style="float:right;" src="/src/images/icons/EU.png"/><a href="http://www.earlham.ac.uk/genome-10k-and-genome-science">Genome 10K and Genome Science, Earlham Institute, Norwich, United Kingdom</a></td>
-  <td><a href="/src/teach/gtn/index.md"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a></td>
+  <td><a href="https://training.galaxyproject.org/"><img style="float:right;" alt="Training offered by GTN Member" src="/src/images/galaxy-logos/GTN16.png" title="Training offered by GTN Member"/></a></td>
 </tr></tbody></table>
 
 
@@ -183,10 +183,10 @@ See the [Galaxy Events Google Calendar](http://bit.ly/gxycal) for details on oth
 
 Some highlights from the papers added in March:
 
-* [High-resolution TADs reveal DNA sequences underlying genome organization in flies](http://dx.doi.org/10.1101/115063)
+* [High-resolution TADs reveal DNA sequences underlying genome organization in flies](https://doi.org/10.1101/115063)
    Fidel Ramirez, Vivek Bhardwaj, Jose Villaveces, et al. *bioRxiv* (08 March 2017), 115063, doi:10.1101/115063
 
-* [Enhancing Knowledge Discovery from Cancer Genomics Data with Galaxy](http://dx.doi.org/10.1093/gigascience/gix015)
+* [Enhancing Knowledge Discovery from Cancer Genomics Data with Galaxy](https://doi.org/10.1093/gigascience/gix015)
    Marco A. Albuquerque, Bruno M. Grande, Elie J. Ritch, et al. *GigaScience* (09 March 2017), doi:10.1093/gigascience/gix015
 
 * [Tools for cluster analysis of data from genome-wide association studies](http://urn.nb.no/URN:NBN:no-56327)
@@ -198,7 +198,7 @@ Some highlights from the papers added in March:
 * [Utilisation de Docker en bioinformatique dans le cloud de IFB](https://jobim2016.sciencesconf.org/conference/jobim2016/pages/book_jobim2016.pdf#page=394)
   Sandrine Perrin, Bryan Branco, Jonathan Lorenzo, et al. In Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM) (2016)
 
-* [I'll take that to go: Big data bags and minimal identifiers for exchange of large, complex datasets]()
+* [I'll take that to go: Big data bags and minimal identifiers for exchange of large, complex datasets](https://static.aminer.org/pdf/fa/bigdata2016/BigD418.pdf)
   K. Chard, M. D'Arcy, B. Heavner, et al. In 2016 IEEE International Conference on Big Data (Big Data) (Dec 2016), pp. 319-328, doi:10.1109/BigData.2016.7840618
 
 * [Functional and Evolutionary Genomics in Aphids](http://www.crcnetbase.com/doi/abs/10.1201/b19967-4)
@@ -207,16 +207,16 @@ Some highlights from the papers added in March:
 * [Enhancing Access to Media Collections and Archives Using Computational Linguistic Tools](http://ceur-ws.org/Vol-1786/pustejovsky.pdf)
    James Pustejovsky, Marc Verhagen, Nancy Ide, Keith Suderman. In Corpora in the Digital Humanities (CDH), Bloomington, Indiana (2017)
 
-* [DNApod: DNA polymorphism annotation database from next-generation sequence read archives](http://dx.doi.org/10.1371/journal.pone.0172269)
+* [DNApod: DNA polymorphism annotation database from next-generation sequence read archives](https://doi.org/10.1371/journal.pone.0172269)
   Takako Mochizuki, Yasuhiro Tanizawa, Takatomo Fujisawa, et al. *PLOS ONE*, Vol. 12, No. 2. (24 February 2017), e0172269, doi:10.1371/journal.pone.0172269
 
 * [Deep and Surface Causality: Global Teaching and Access to HPC Social Science](https://pdfs.semanticscholar.org/b056/c9c5deda9ce754a3d4bf9b45fc46e40ddc9e.pdf)
    Douglas W. Uci, Paul Rodriguez, Eric Blau, et al. (2015)
 
-* [Blood-based omic profiling supports female susceptibility to tobacco smoke-induced cardiovascular diseases](http://dx.doi.org/10.1038/srep42870)
+* [Blood-based omic profiling supports female susceptibility to tobacco smoke-induced cardiovascular diseases](https://doi.org/10.1038/srep42870)
    Aristotelis Chatziioannou, Panagiotis Georgiadis, Dennie G. Hebels, et al. *Scientific Reports*, Vol. 7 (22 February 2017), 42870, doi:10.1038/srep42870
 
-* [Architectural models for deploying and running virtual laboratories in the cloud](http://dx.doi.org/10.1109/MIPRO.2016.7522153)
+* [Architectural models for deploying and running virtual laboratories in the cloud](https://doi.org/10.1109/MIPRO.2016.7522153)
    E. Afgan, A. Lonie, J. Taylor, K. Skala, N. Goonasekera. In 39th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO) (May 2016), pp. 282-286, doi:10.1109/MIPRO.2016.7522153
 
 
@@ -251,11 +251,11 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # Public Galaxy Server News
 
-There are [over 90 publicly accessible Galaxy servers](/src/public-galaxy-servers/index.md) and [six semi-public Galaxy services](/src/galaxy-services/index.md).  Here's what happened with them in January.
+There are [over 90 publicly accessible Galaxy servers](/src/use/index.md) and [six semi-public Galaxy services](/src/use/index.md).  Here's what happened with them in January.
 
 ## Want to Mine Scientific Literature? LAPPS Grid Needs You
 
-<div class='right'><a href='/src/news/2017-03-lapps-grid/index.md'><img src="/src/public-galaxy-servers/lapps-grid-logo.png" alt="LAPPS Grid" width="120" /></a>
+<div class='right'><a href='/src/news/2017-03-lapps-grid/index.md'><img src="/src/use/lapps-grid/lapps-grid-logo.png" alt="LAPPS Grid" width="120" /></a>
 </div>
 
 *The [The Language Applications (LAPPS) Grid](http://www.lappsgrid.org) team intends to seek funding for a project that would create customizable NLP applications that can be used to mine scientific literature,* in response to requests from scientists in several disciplines who want to extract entities, relations, networks, and ontologies from scientific publications and identify articles in the scientific literature that have treated particular topics or entities.
@@ -266,7 +266,7 @@ Interested in participating? See the [full call for details](/src/news/2017-03-l
 
 ## PhenoMeNal Online Training Material
 
-<div class='right'><a href='http://www.ebi.ac.uk/training/online/course/phenomenal-accessing-metabolomics-workflows-galaxy'><img src="/src/public-galaxy-servers/PhenoMeNal.png" alt="PhenoMeNal" width="120" /></a>
+<div class='right'><a href='http://www.ebi.ac.uk/training/online/course/phenomenal-accessing-metabolomics-workflows-galaxy'><img src="/src/use/phenomenal/phenomenal.png" alt="PhenoMeNal" width="120" /></a>
 </div>
 
 New [online training](http://www.ebi.ac.uk/training/online/course/phenomenal-accessing-metabolomics-workflows-galaxy) for the [PhenoMeNal Galaxy server](http://public.phenomenal-h2020.eu/) is available from EMBL-EBI.  "PhenoMeNal (Phenome and Metabolome aNalysis) is a standardised e-infrastructure that supports the data processing and analysis pipelines for molecular phenotype data generated by metabolomics applications.  This course will give you an overview of PhenoMeNal, how to create your cloud research environment, and how to access Galaxy workflows for metabolomics data."
@@ -275,7 +275,7 @@ New [online training](http://www.ebi.ac.uk/training/online/course/phenomenal-acc
 
 ### Galaxy@GenOuest
 
-<div class='right solid'><a href='https://galaxy.genouest.org'><img src="/src/public-galaxy-servers/GalaxyGenOuest.png" alt="Galaxy@GenOuest" /></a></div>
+<div class='right solid'><a href='https://galaxy.genouest.org'><img src="/src/use/galaxy-genouest/galaxy-genouest.png" alt="Galaxy@GenOuest" /></a></div>
 
 * *Links:*
   * [Galaxy@GenOuest](https://galaxy.genouest.org)
@@ -296,7 +296,8 @@ New [online training](http://www.ebi.ac.uk/training/online/course/phenomenal-acc
 
 
 ### BIPAA (BioInformatics Platform for Agroecosystem Arthropods)
-<div class='right solid'><a href='https://bipaa-galaxy.genouest.org/'><img src="/src/public-galaxy-servers/BIPAALogo.png" alt="BIPAA (BioInformatics Platform for Agroecosystem Arthropods)" width="120" /></a></div>
+
+<div class='right solid'><a href='https://bipaa-galaxy.genouest.org/'><img src="/src/use/bipaa/bipaa-logo.png" alt="BIPAA (BioInformatics Platform for Agroecosystem Arthropods)" width="120" /></a></div>
 
 * *Links:*
   * [BIPAA Galaxy Server](https://bipaa-galaxy.genouest.org)
@@ -327,12 +328,12 @@ New [online training](http://www.ebi.ac.uk/training/online/course/phenomenal-acc
 
 <table class="table table-striped">
   <tr>
-    <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/teach/index.md'><img src="/src/images/galaxy-logos/GTNLogo300.png" alt="Galaxy Training Network" height="100" /></a> </td>
+    <td style=" text-align: center; border: none; width: 20%;"> <a href='https://training.galaxyproject.org/'><img src="/src/images/galaxy-logos/GTNLogo300.png" alt="Galaxy Training Network" height="100" /></a> </td>
     <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a> </td>
     <td style=" text-align: center; border: none; width: 20%;"> <a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> </td>
   </tr>
   <tr>
-    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your <a href='/src/teach/resources/index.md#add-a-training-resource'>training resources</a> and <a href='/src/teach/trainers/index.md'>experience</a> <em>now</em> </strong> </td>
+    <td style=" text-align: center; vertical-align: top; border: none;"> <strong>Share your training resources and experience <em>now</em> </strong> </td>
     <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a></em> </strong> </td>
     <td style=" text-align: center; vertical-align: top; border: none;"> <strong><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </strong> </td>
   </tr>

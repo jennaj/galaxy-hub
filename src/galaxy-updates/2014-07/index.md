@@ -133,13 +133,13 @@ Over the rest of the summer there are other [Galaxy related events](/src/events/
 
 *48 papers* were added to the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/) in June. Some papers that may be particularly interesting to the Galaxy community:
 
-* "[BioBlend.objects: metacomputing with Galaxy](http://dx.doi.org/10.1093/bioinformatics/btu386)", by S. Leo, L. Pireddu, G. Cuccuru, *et al.* *Bioinformatics* (12 June 2014), doi:10.1093/bioinformatics/btu386
+* "[BioBlend.objects: metacomputing with Galaxy](https://doi.org/10.1093/bioinformatics/btu386)", by S. Leo, L. Pireddu, G. Cuccuru, *et al.* *Bioinformatics* (12 June 2014), doi:10.1093/bioinformatics/btu386
 
-* "[RPPApipe: A pipeline for the analysis of reverse-phase protein array data](http://dx.doi.org/j.biosystems.2014.06.009)" by Johannes Eichner, Yvonne Heubach, Manuel Ruff, *et al.* *Biosystems* (June 2014), doi:10.1016/j.biosystems.2014.06.009
+* "[RPPApipe: A pipeline for the analysis of reverse-phase protein array data](https://doi.org/j.biosystems.2014.06.009)" by Johannes Eichner, Yvonne Heubach, Manuel Ruff, *et al.* *Biosystems* (June 2014), doi:10.1016/j.biosystems.2014.06.009
 
-* "[Using Bioinformatics Tools to Study the Role of microRNA in Cancer](http://dx.doi.org/10.1007/978-1-4939-0847-9_7)", by Fabio Passetti, Natasha Andressa Nogueira Jorge, Alan Durham; In *Clinical Bioinformatics*, Vol. 1168 (2014), pp. 99-116, doi:10.1007/978-1-4939-0847-9_7
+* "[Using Bioinformatics Tools to Study the Role of microRNA in Cancer](https://doi.org/10.1007/978-1-4939-0847-9_7)", by Fabio Passetti, Natasha Andressa Nogueira Jorge, Alan Durham; In *Clinical Bioinformatics*, Vol. 1168 (2014), pp. 99-116, doi:10.1007/978-1-4939-0847-9_7
 
-* "[Ocular and Extraocular Expression of Opsins in the Rhopalium of Tripedalia cystophora (Cnidaria: Cubozoa)](http://dx.doi.org/10.1371/journal.pone.0098870)" by Jan Bielecki, Alexander K. Zaharoff, Nicole Y. Leung, Anders Garm, Todd H. Oakley, *PLoS ONE*, Vol. 9, No. 6. (5 June 2014), e98870, doi:10.1371/journal.pone.0098870
+* "[Ocular and Extraocular Expression of Opsins in the Rhopalium of Tripedalia cystophora (Cnidaria: Cubozoa)](https://doi.org/10.1371/journal.pone.0098870)" by Jan Bielecki, Alexander K. Zaharoff, Nicole Y. Leung, Anders Garm, Todd H. Oakley, *PLoS ONE*, Vol. 9, No. 6. (5 June 2014), e98870, doi:10.1371/journal.pone.0098870
 
 The new papers were tagged in many different areas:
 
@@ -215,11 +215,11 @@ Got a Galaxy-related opening? Send it to outreach@galaxyproject.org and we'll pu
 
 # New Public Servers
 
-One new [public Galaxy server](/src/public-galaxy-servers/index.md) was added to the published list in June:
+One new [public Galaxy server](/src/use/index.md) was added to the published list in June:
 
 ## GVL QLD
 
-<div class='right solid'><a href='http://galaxy-qld.genome.edu.au/'><img src="/src/public-galaxy-servers/GenomicsVirtualLab300.png" alt="Genomics Virtual Lab" height="220" /></a></div>
+<div class='right solid'><a href='http://galaxy-qld.genome.edu.au/'><img src="/src/images/logos/gvl-300.png" alt="Genomics Virtual Lab" height="220" /></a></div>
 
 * *Link:*
     [Genomics Virtual Lab GVL-QLD](http://galaxy-qld.genome.edu.au/)
@@ -244,7 +244,7 @@ One new [public Galaxy server](/src/public-galaxy-servers/index.md) was added to
 
 ## June 2, 2014 Galaxy Distribution
 
-<div class='right'> <a href='http://usegalaxy.org'><img src="/src/images/news-graphics/2014_06_02_dataset-collections-crop.png" alt="Dataset Collections Workflow Detail" width="400" /></a> <br /> *example dataset collection workflow ([credits](/src/archive/dev-news-briefs/2014-06-02/index.md#dataset_collections))* </div>
+<div class='right'> <a href='http://usegalaxy.org'><img src="/src/images/news-graphics/2014_06_02_dataset-collections-crop.png" alt="Dataset Collections Workflow Detail" width="400" /></a> <br /> *example dataset collection workflow ([credits](/src/archive/dev-news-briefs/2014-06-02/index.md#dataset-collections))* </div>
 
 <br />
 **[News Brief](/src/archive/dev-news-briefs/2014-06-02/index.md)** **Highlights:**
@@ -302,22 +302,22 @@ The most recent version of CloudMan was [released in January 2014](/src/news/clo
 
 # Galaxy Community Hubs
 
-<div class='left'>&nbsp;&nbsp; <a href='/src/community/logs/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
-<div class='right'><a href='/src/community/deployments/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
+<div class='left'>&nbsp;&nbsp; <a href='/src/blog/index.md'><img src="/src/images/logos/LogBoardWText200.png" alt="Galaxy Community Log Board" height="100" /></a></div>
+<div class='right'><a href='/src/community/deployment/index.md'><img src="/src/images/logos/GalaxyDeploymentCatalog200.png" alt="Galaxy Deployment Catalog" height="100" /></a> &nbsp;&nbsp;</div>
 <br />
 
 <table>
   <tr>
-    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/community/logs/index.md#add-a-log-page'>Share your experience</a> <em><a href='/src/community/logs/index.md#add-a-log-page'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>Describe your instance</a> <em><a href='/src/community/deployments/index.md#add-your-galaxy-deployment'>now</a></em> </td>
+    <td style=" class="blue"  text-align: center;"> &nbsp;&nbsp; <a href='/src/blog/index.md'>Share your experience</a> <em><a href='/src/blog/index.md'>now</a> </em> &nbsp;&nbsp;<br /><a href='/src/community/deployment/index.md'>Describe your instance</a> <em><a href='/src/community/deployment/index.md'>now</a></em> </td>
   </tr>
 </table>
 
 <br /><br />
 
-One new [Log Board entry](/src/community/logs/index.md) was added in June:
-* [Local Tool Shed with https and LDAP](/src/community/log/2014/toolshed-with-https-and-ldap/index.md)
+One new [Log Board entry](/src/blog/index.md) was added in June:
+* [Local Tool Shed with https and LDAP](/src/blog/2014-06-toolshed-with-https-and-ldap/index.md)
 
-The *[Community Log Board](/src/community/logs/index.md)* and  *[Deployment Catalog](/src/community/deployments/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched last your.  If you have a [Galaxy deployment](/src/community/deployments/index.md), or [experience](/src/community/logs/index.md) you want to share then please publish them.
+The *[Community Log Board](/src/blog/index.md)* and  *[Deployment Catalog](/src/community/deployment/index.md)* *[Galaxy community hubs](/src/community/index.md)* were launched last your.  If you have a [Galaxy deployment](/src/community/deployment/index.md), or [experience](/src/blog/index.md) you want to share then please publish them.
 
 
 <div class='right'><br /><a href='http://toolshed.g2.bx.psu.edu/'><img src="/src/images/logos/ToolShed.jpg" alt="Galaxy ToolShed" width=150 /></a></div>

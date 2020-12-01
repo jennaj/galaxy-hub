@@ -5,13 +5,53 @@ title: Galaxy Updates
 
 ## See also
 
-* The [News](/src/news/index.md) and the [News Archive](/src/news/archive/index.md)
+* The [News](/src/news/index.md)
 * [Galaxy Development News Briefs](/src/docs/index.md)
+* [Galactic Blog](/src/blog/index.md)
 * [Galaxy on Twitter](/src/galaxy-on-twitter/index.md)
 * [Mailing Lists](/src/mailing-lists/index.md)
 
+## 2020 Updates
+
+* [2020-01](/src/news/2020-01-galaxy-update/index.md)
+
+## 2019 Updates
+
+* [2019-12](/src/news/2019-12-galaxy-update/index.md)
+* [2019-11](/src/news/2019-11-galaxy-update/index.md)
+* [2019-10](/src/news/2019-10-galaxy-update/index.md)
+* [2019-09](/src/news/2019-09-galaxy-update/index.md)
+* [2019-08](/src/news/2019-08-galaxy-update/index.md)
+* [2019-07](/src/news/2019-07-galaxy-update/index.md)
+* [2019-06](/src/news/2019-06-galaxy-update/index.md)
+* [2019-05](/src/news/2019-05-galaxy-update/index.md)
+* [2019-04](/src/news/2019-04-galaxy-update/index.md)
+* [2019-03](/src/news/2019-03-galaxy-update/index.md)
+* [2019-02](/src/news/2019-02-galaxy-update/index.md)
+* [2019-01](/src/news/2019-01-galaxy-update/index.md)
+
+## 2018 Updates
+
+* [2018-12](/src/news/2018-12-galaxy-update/index.md)
+* [2018-11](/src/news/2018-11-galaxy-update/index.md)
+* [2018-10](/src/news/2018-10-galaxy-update/index.md)
+* [2018-09](/src/news/2018-09-galaxy-update/index.md) (newsletter and summary are now integrated)
+* [2018-08](/src/galaxy-updates/2018-08/index.md) ([Summary](/src/news/2018-08-galaxy-update/index.md))
+* [2018-05](/src/galaxy-updates/2018-05/index.md) ([Summary](/src/news/2018-05-galaxy-update/index.md))
+* [2018-04](/src/galaxy-updates/2018-04/index.md) ([Summary](/src/news/2018-04-galaxy-update/index.md))
+* [2018-03](/src/galaxy-updates/2018-03/index.md) ([Summary](/src/news/2018-03-galaxy-update/index.md))
+* [2018-02](/src/galaxy-updates/2018-02/index.md) ([Summary](/src/news/2018-02-galaxy-update/index.md))
+* [2018-01](/src/galaxy-updates/2018-01/index.md) ([Summary](/src/news/2018-01-galaxy-update/index.md))
+
 ## 2017 Updates
 
+* [2017-12](/src/galaxy-updates/2017-12/index.md) ([Summary](/src/news/2017-12-galaxy-update/index.md))
+* [2017-11](/src/galaxy-updates/2017-11/index.md) ([Summary](/src/news/2017-11-galaxy-update/index.md))
+* [2017-10](/src/galaxy-updates/2017-10/index.md) ([Summary](/src/news/2017-10-galaxy-update/index.md))
+* [2017-09](/src/galaxy-updates/2017-09/index.md) ([Summary](/src/news/2017-09-galaxy-update/index.md))
+* [2017-08](/src/galaxy-updates/2017-08/index.md) ([Summary](/src/news/2017-08-galaxy-update/index.md))
+* [2017-06](/src/galaxy-updates/2017-06/index.md) ([Summary](/src/news/2017-06-galaxy-update/index.md))
+* [2017-05](/src/galaxy-updates/2017-05/index.md) ([Summary](/src/news/2017-05-galaxy-update/index.md))
 * [2017-04](/src/galaxy-updates/2017-04/index.md) ([Summary](/src/news/2017-04-galaxy-update/index.md))
 * [2017-03](/src/galaxy-updates/2017-03/index.md) ([Summary](/src/news/2017-03-galaxy-update/index.md))
 * [2017-01](/src/galaxy-updates/2017-01/index.md) ([Summary](/src/news/2017-01-galaxy-update/index.md))

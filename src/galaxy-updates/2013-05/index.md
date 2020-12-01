@@ -49,7 +49,7 @@ Welcome to the May 2013 *[Galaxy Update](/src/galaxy-updates/index.md)*, a month
 
 39 new papers were added to the Galaxy CiteULike Group in April, including:
 
-* [BioBlend: automating pipeline analyses within Galaxy and CloudMan](http://dx.doi.org/10.1093/bioinformatics/btt199), by Clare Sloggett, Nuwan Goonasekera, [Enis Afgan](/src/people/enis-afgan/index.md), Bioinformatics (28 April 2013)
+* [BioBlend: automating pipeline analyses within Galaxy and CloudMan](https://doi.org/10.1093/bioinformatics/btt199), by Clare Sloggett, Nuwan Goonasekera, [Enis Afgan](/src/people/enis-afgan/index.md), Bioinformatics (28 April 2013)
 
 There are now over [950 papers in the Galaxy CiteULike Group](http://www.citeulike.org/group/16008/).
 
@@ -212,7 +212,7 @@ See the [Galaxy Events Google Calendar](http://bit.ly/gxycal) for details on the
 
 ## GalaxyAdmins
 
-<div class='right'><a href='/src/community/galaxy-admins//index.md'><img src="/src/images/logos/GalaxyAdmins.png" alt="GalaxyAdmins" height="50" /></a></div>
+<div class='right'><a href='/src/community/galaxy-admins/index.md'><img src="/src/images/logos/GalaxyAdmins.png" alt="GalaxyAdmins" height="50" /></a></div>
 
 The next [GalaxyAdmins Meetup will be May 15](/src/community/galaxy-admins/meetups/2013-05-15/index.md) at 10 am central US time.  Watch your email for details.
 
